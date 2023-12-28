@@ -1,4 +1,7 @@
+0*.csv
+*ground-truth.json
 **/*gt.json
+
 **/*results.json
 **/*-metrics.csv
 # Byte-compiled / optimized / DLL files
