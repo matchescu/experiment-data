@@ -1,4 +1,4 @@
-0*.csv
+**/results/
 *ground-truth.json
 **/*gt.json
 
