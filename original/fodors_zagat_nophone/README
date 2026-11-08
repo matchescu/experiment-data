@@ -1,0 +1,9 @@
+The CSV files were obtained from the original fz-nophone.arff available at:
+https://www.cs.utexas.edu/~ml/riddle/data.html.
+
+* fodors_zagat_nophone_ids contains distinct (clean-clean) records
+* fodors_zagat_nophone_cluster_mapping contains the original clusters inferred
+  from the 'class' attribute of the original dataset
+* fodors_zagat_nophone_mapping contains the ideal mapping for record
+  linkage/duplicate detection obtained by providing the pairwise combinations
+  of records contained by the clusters

@@ -1,0 +1,187 @@
+id,source,cluster_id
+2250,geonames,1
+3560,freebase,1
+411,new york times,1
+7577,ambiguity-generator,2
+4814,dbpedia,2
+4576,dbpedia,3
+2581,freebase,3
+7568,ambiguity-generator,4
+4706,geonames,4
+811,new york times,5
+3456,geonames,5
+3383,dbpedia,5
+3386,freebase,6
+761,dbpedia,6
+7537,ambiguity-generator,6
+3489,geonames,7
+1215,new york times,7
+5369,freebase,7
+460,dbpedia,8
+459,new york times,8
+3790,freebase,8
+1811,geonames,9
+5800,dbpedia,9
+1206,dbpedia,10
+1205,new york times,10
+5415,geonames,10
+123,freebase,11
+122,new york times,11
+2060,dbpedia,11
+1172,geonames,12
+7571,ambiguity-generator,12
+7572,ambiguity-generator,13
+7098,dbpedia,13
+7574,ambiguity-generator,14
+4423,geonames,14
+4569,freebase,15
+7549,ambiguity-generator,15
+7317,dbpedia,16
+7055,geonames,16
+784,new york times,16
+5402,geonames,17
+7365,dbpedia,17
+4312,new york times,17
+953,geonames,18
+952,new york times,18
+2835,dbpedia,19
+995,geonames,19
+994,new york times,19
+2144,geonames,20
+7544,ambiguity-generator,20
+7586,ambiguity-generator,21
+4988,geonames,21
+1154,geonames,22
+7581,ambiguity-generator,22
+2920,freebase,23
+389,dbpedia,23
+6625,freebase,24
+5412,dbpedia,24
+5564,dbpedia,25
+6645,geonames,25
+2756,new york times,25
+130,new york times,26
+131,dbpedia,26
+7047,freebase,26
+2041,geonames,27
+2715,dbpedia,27
+2040,new york times,27
+6920,dbpedia,28
+5448,new york times,28
+5449,geonames,28
+4442,dbpedia,29
+3032,new york times,29
+4324,geonames,29
+3598,freebase,30
+4373,dbpedia,30
+1944,dbpedia,31
+1646,freebase,31
+2045,freebase,32
+7558,ambiguity-generator,32
+7299,dbpedia,32
+5688,dbpedia,33
+7197,freebase,33
+1567,new york times,34
+4234,geonames,34
+7314,freebase,35
+1706,dbpedia,35
+461,new york times,36
+5165,geonames,36
+3428,freebase,37
+3136,new york times,37
+5595,geonames,38
+284,new york times,38
+4973,dbpedia,39
+6521,freebase,39
+4920,geonames,40
+4919,new york times,40
+4422,new york times,41
+5613,dbpedia,41
+6776,dbpedia,42
+2513,freebase,42
+4621,geonames,43
+7559,ambiguity-generator,43
+4876,geonames,44
+3265,dbpedia,44
+3264,new york times,44
+198,new york times,45
+7546,ambiguity-generator,45
+7409,dbpedia,46
+3525,geonames,46
+3524,new york times,46
+4344,dbpedia,47
+1318,freebase,47
+6658,geonames,48
+5762,dbpedia,48
+150,new york times,48
+4124,freebase,49
+6079,dbpedia,49
+4013,new york times,49
+255,dbpedia,50
+4388,freebase,50
+3532,dbpedia,51
+3531,new york times,51
+7529,geonames,51
+4121,freebase,52
+3774,dbpedia,52
+5069,dbpedia,53
+6860,freebase,53
+7509,freebase,54
+6075,dbpedia,54
+7467,dbpedia,55
+3847,freebase,55
+5177,geonames,56
+7591,ambiguity-generator,56
+3305,geonames,57
+6930,dbpedia,57
+3304,new york times,57
+7174,freebase,58
+4337,dbpedia,58
+3225,geonames,59
+3224,new york times,59
+4642,dbpedia,60
+3802,new york times,60
+747,dbpedia,61
+2334,freebase,61
+3517,new york times,62
+3518,dbpedia,62
+4991,freebase,63
+2445,dbpedia,63
+3964,dbpedia,64
+7551,ambiguity-generator,64
+1386,freebase,64
+7539,ambiguity-generator,65
+4434,freebase,65
+1198,geonames,66
+7576,ambiguity-generator,66
+5799,dbpedia,67
+5212,freebase,67
+2492,freebase,68
+4210,dbpedia,68
+1294,new york times,69
+4570,geonames,69
+2702,new york times,70
+6339,dbpedia,70
+2703,geonames,70
+5200,freebase,71
+5349,dbpedia,71
+1322,geonames,72
+1321,new york times,72
+7247,dbpedia,73
+6192,freebase,73
+1982,geonames,74
+1981,new york times,74
+6252,dbpedia,75
+7252,freebase,75
+6820,geonames,76
+5951,new york times,76
+5048,dbpedia,77
+4376,freebase,77
+1610,dbpedia,78
+1609,new york times,78
+570,geonames,79
+569,new york times,79
+4542,dbpedia,80
+221,freebase,80
+7025,freebase,81
+3843,dbpedia,81

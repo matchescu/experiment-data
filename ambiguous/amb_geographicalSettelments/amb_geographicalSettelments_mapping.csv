@@ -1,0 +1,4649 @@
+left_id,left_source,right_id,right_source,label
+5668,dbpedia,3866,freebase,1
+5668,dbpedia,1872,new york times,1
+5668,dbpedia,1873,geonames,1
+3866,freebase,1872,new york times,1
+3866,freebase,1873,geonames,1
+1872,new york times,1873,geonames,1
+6721,geonames,2645,new york times,1
+6721,geonames,2646,dbpedia,1
+6721,geonames,5487,freebase,1
+2645,new york times,2646,dbpedia,1
+2645,new york times,5487,freebase,1
+2646,dbpedia,5487,freebase,1
+5701,freebase,7110,geonames,1
+5701,freebase,7536,ambiguity-generator,1
+5701,freebase,3422,dbpedia,1
+5701,freebase,3421,new york times,1
+7110,geonames,7536,ambiguity-generator,1
+7110,geonames,3422,dbpedia,1
+7110,geonames,3421,new york times,1
+7536,ambiguity-generator,3422,dbpedia,1
+7536,ambiguity-generator,3421,new york times,1
+3422,dbpedia,3421,new york times,1
+7536,ambiguity-generator,7098,dbpedia,1
+3122,new york times,6323,freebase,1
+3122,new york times,3973,geonames,1
+3122,new york times,3123,dbpedia,1
+6323,freebase,3973,geonames,1
+6323,freebase,3123,dbpedia,1
+3973,geonames,3123,dbpedia,1
+761,dbpedia,3386,freebase,1
+761,dbpedia,7537,ambiguity-generator,1
+3386,freebase,7537,ambiguity-generator,1
+7537,ambiguity-generator,198,new york times,1
+5662,dbpedia,5796,freebase,1
+5662,dbpedia,5373,geonames,1
+5662,dbpedia,5372,new york times,1
+5796,freebase,5373,geonames,1
+5796,freebase,5372,new york times,1
+5373,geonames,5372,new york times,1
+4718,geonames,4584,new york times,1
+4718,geonames,4585,freebase,1
+4718,geonames,6527,dbpedia,1
+4584,new york times,4585,freebase,1
+4584,new york times,6527,dbpedia,1
+4585,freebase,6527,dbpedia,1
+57,freebase,56,new york times,1
+57,freebase,5455,dbpedia,1
+57,freebase,2070,geonames,1
+56,new york times,5455,dbpedia,1
+56,new york times,2070,geonames,1
+5455,dbpedia,2070,geonames,1
+6043,freebase,5214,new york times,1
+6043,freebase,6280,geonames,1
+6043,freebase,5215,dbpedia,1
+5214,new york times,6280,geonames,1
+5214,new york times,5215,dbpedia,1
+6280,geonames,5215,dbpedia,1
+2170,freebase,7538,ambiguity-generator,1
+2170,freebase,5047,geonames,1
+2170,freebase,1276,dbpedia,1
+2170,freebase,1275,new york times,1
+7538,ambiguity-generator,5047,geonames,1
+7538,ambiguity-generator,1276,dbpedia,1
+7538,ambiguity-generator,1275,new york times,1
+5047,geonames,1276,dbpedia,1
+5047,geonames,1275,new york times,1
+1276,dbpedia,1275,new york times,1
+7538,ambiguity-generator,1536,geonames,1
+2939,freebase,428,dbpedia,1
+2939,freebase,427,new york times,1
+2939,freebase,4713,geonames,1
+428,dbpedia,427,new york times,1
+428,dbpedia,4713,geonames,1
+427,new york times,4713,geonames,1
+6099,geonames,5198,dbpedia,1
+6099,geonames,5172,freebase,1
+6099,geonames,5171,new york times,1
+5198,dbpedia,5172,freebase,1
+5198,dbpedia,5171,new york times,1
+5172,freebase,5171,new york times,1
+5217,freebase,373,new york times,1
+5217,freebase,374,dbpedia,1
+5217,freebase,7330,geonames,1
+373,new york times,374,dbpedia,1
+373,new york times,7330,geonames,1
+374,dbpedia,7330,geonames,1
+4951,dbpedia,4218,geonames,1
+4951,dbpedia,4217,new york times,1
+4951,dbpedia,5103,freebase,1
+4218,geonames,4217,new york times,1
+4218,geonames,5103,freebase,1
+4217,new york times,5103,freebase,1
+5823,geonames,4702,freebase,1
+5823,geonames,2442,new york times,1
+5823,geonames,2443,dbpedia,1
+4702,freebase,2442,new york times,1
+4702,freebase,2443,dbpedia,1
+2442,new york times,2443,dbpedia,1
+7539,ambiguity-generator,4434,freebase,1
+7539,ambiguity-generator,4423,geonames,1
+6192,freebase,7247,dbpedia,1
+2844,new york times,6504,dbpedia,1
+2844,new york times,2845,geonames,1
+2844,new york times,7540,ambiguity-generator,1
+2844,new york times,5224,freebase,1
+6504,dbpedia,2845,geonames,1
+6504,dbpedia,7540,ambiguity-generator,1
+6504,dbpedia,5224,freebase,1
+2845,geonames,7540,ambiguity-generator,1
+2845,geonames,5224,freebase,1
+7540,ambiguity-generator,5224,freebase,1
+7540,ambiguity-generator,2144,geonames,1
+2225,geonames,2224,new york times,1
+2225,geonames,5127,freebase,1
+2225,geonames,4734,dbpedia,1
+2224,new york times,5127,freebase,1
+2224,new york times,4734,dbpedia,1
+5127,freebase,4734,dbpedia,1
+2923,geonames,2327,freebase,1
+2923,geonames,7070,dbpedia,1
+2923,geonames,2326,new york times,1
+2327,freebase,7070,dbpedia,1
+2327,freebase,2326,new york times,1
+7070,dbpedia,2326,new york times,1
+2147,new york times,5092,geonames,1
+2147,new york times,2148,freebase,1
+5092,geonames,2148,freebase,1
+5065,freebase,4246,geonames,1
+5065,freebase,3891,dbpedia,1
+5065,freebase,3890,new york times,1
+4246,geonames,3891,dbpedia,1
+4246,geonames,3890,new york times,1
+3891,dbpedia,3890,new york times,1
+2916,new york times,4270,freebase,1
+2916,new york times,3171,dbpedia,1
+2916,new york times,2917,geonames,1
+4270,freebase,3171,dbpedia,1
+4270,freebase,2917,geonames,1
+3171,dbpedia,2917,geonames,1
+2628,geonames,1798,freebase,1
+2628,geonames,6913,dbpedia,1
+2628,geonames,1797,new york times,1
+1798,freebase,6913,dbpedia,1
+1798,freebase,1797,new york times,1
+6913,dbpedia,1797,new york times,1
+1914,new york times,6710,geonames,1
+1914,new york times,1915,dbpedia,1
+1914,new york times,4980,freebase,1
+6710,geonames,1915,dbpedia,1
+6710,geonames,4980,freebase,1
+1915,dbpedia,4980,freebase,1
+2032,geonames,3591,freebase,1
+2032,geonames,1032,dbpedia,1
+2032,geonames,1031,new york times,1
+3591,freebase,1032,dbpedia,1
+3591,freebase,1031,new york times,1
+1032,dbpedia,1031,new york times,1
+3434,dbpedia,101,freebase,1
+3434,dbpedia,5911,geonames,1
+3434,dbpedia,100,new york times,1
+101,freebase,5911,geonames,1
+101,freebase,100,new york times,1
+5911,geonames,100,new york times,1
+4234,geonames,1567,new york times,1
+6178,dbpedia,2785,geonames,1
+6178,dbpedia,6114,freebase,1
+6178,dbpedia,2784,new york times,1
+2785,geonames,6114,freebase,1
+2785,geonames,2784,new york times,1
+6114,freebase,2784,new york times,1
+4155,geonames,5076,freebase,1
+4155,geonames,4154,new york times,1
+4155,geonames,4882,dbpedia,1
+5076,freebase,4154,new york times,1
+5076,freebase,4882,dbpedia,1
+4154,new york times,4882,dbpedia,1
+3059,geonames,4536,dbpedia,1
+3059,geonames,253,freebase,1
+3059,geonames,252,new york times,1
+4536,dbpedia,253,freebase,1
+4536,dbpedia,252,new york times,1
+253,freebase,252,new york times,1
+6153,geonames,1534,freebase,1
+6153,geonames,1533,new york times,1
+6153,geonames,6807,dbpedia,1
+1534,freebase,1533,new york times,1
+1534,freebase,6807,dbpedia,1
+1533,new york times,6807,dbpedia,1
+7508,freebase,3394,geonames,1
+7508,freebase,2422,dbpedia,1
+7508,freebase,2421,new york times,1
+3394,geonames,2422,dbpedia,1
+3394,geonames,2421,new york times,1
+2422,dbpedia,2421,new york times,1
+181,geonames,180,new york times,1
+181,geonames,4906,dbpedia,1
+181,geonames,3720,freebase,1
+180,new york times,4906,dbpedia,1
+180,new york times,3720,freebase,1
+4906,dbpedia,3720,freebase,1
+249,freebase,4907,dbpedia,1
+249,freebase,6681,geonames,1
+249,freebase,248,new york times,1
+4907,dbpedia,6681,geonames,1
+4907,dbpedia,248,new york times,1
+6681,geonames,248,new york times,1
+3984,new york times,3985,dbpedia,1
+3984,new york times,7371,freebase,1
+3984,new york times,6020,geonames,1
+3985,dbpedia,7371,freebase,1
+3985,dbpedia,6020,geonames,1
+7371,freebase,6020,geonames,1
+3586,freebase,1595,new york times,1
+3586,freebase,1596,dbpedia,1
+3586,freebase,5686,geonames,1
+1595,new york times,1596,dbpedia,1
+1595,new york times,5686,geonames,1
+1596,dbpedia,5686,geonames,1
+1422,geonames,4528,dbpedia,1
+1422,geonames,505,freebase,1
+1422,geonames,504,new york times,1
+4528,dbpedia,505,freebase,1
+4528,dbpedia,504,new york times,1
+505,freebase,504,new york times,1
+5999,freebase,7278,geonames,1
+5999,freebase,1443,new york times,1
+5999,freebase,1444,dbpedia,1
+7278,geonames,1443,new york times,1
+7278,geonames,1444,dbpedia,1
+1443,new york times,1444,dbpedia,1
+4647,freebase,2273,new york times,1
+4647,freebase,2274,dbpedia,1
+4647,freebase,6493,geonames,1
+2273,new york times,2274,dbpedia,1
+2273,new york times,6493,geonames,1
+2274,dbpedia,6493,geonames,1
+4166,new york times,7541,ambiguity-generator,1
+4166,new york times,4508,dbpedia,1
+4166,new york times,4167,freebase,1
+4166,new york times,5645,geonames,1
+7541,ambiguity-generator,4508,dbpedia,1
+7541,ambiguity-generator,4167,freebase,1
+7541,ambiguity-generator,5645,geonames,1
+4508,dbpedia,4167,freebase,1
+4508,dbpedia,5645,geonames,1
+4167,freebase,5645,geonames,1
+7541,ambiguity-generator,5695,geonames,1
+4747,dbpedia,4333,geonames,1
+4747,dbpedia,3638,freebase,1
+4747,dbpedia,3637,new york times,1
+4333,geonames,3638,freebase,1
+4333,geonames,3637,new york times,1
+3638,freebase,3637,new york times,1
+1349,dbpedia,1348,new york times,1
+1349,dbpedia,4885,freebase,1
+1349,dbpedia,3927,geonames,1
+1348,new york times,4885,freebase,1
+1348,new york times,3927,geonames,1
+4885,freebase,3927,geonames,1
+2934,geonames,43,dbpedia,1
+2934,geonames,42,new york times,1
+2934,geonames,913,freebase,1
+43,dbpedia,42,new york times,1
+43,dbpedia,913,freebase,1
+42,new york times,913,freebase,1
+6253,freebase,4439,geonames,1
+6253,freebase,5422,dbpedia,1
+6253,freebase,4438,new york times,1
+4439,geonames,5422,dbpedia,1
+4439,geonames,4438,new york times,1
+5422,dbpedia,4438,new york times,1
+1005,freebase,7088,geonames,1
+1005,freebase,7542,ambiguity-generator,1
+1005,freebase,3731,dbpedia,1
+1005,freebase,1004,new york times,1
+7088,geonames,7542,ambiguity-generator,1
+7088,geonames,3731,dbpedia,1
+7088,geonames,1004,new york times,1
+7542,ambiguity-generator,3731,dbpedia,1
+7542,ambiguity-generator,1004,new york times,1
+3731,dbpedia,1004,new york times,1
+7542,ambiguity-generator,1154,geonames,1
+5021,geonames,1871,freebase,1
+5021,geonames,1874,dbpedia,1
+5021,geonames,1870,new york times,1
+1871,freebase,1874,dbpedia,1
+1871,freebase,1870,new york times,1
+1874,dbpedia,1870,new york times,1
+6840,geonames,7465,freebase,1
+6840,geonames,7502,dbpedia,1
+6840,geonames,6839,new york times,1
+7465,freebase,7502,dbpedia,1
+7465,freebase,6839,new york times,1
+7502,dbpedia,6839,new york times,1
+929,new york times,4613,dbpedia,1
+929,new york times,930,geonames,1
+929,new york times,7543,ambiguity-generator,1
+929,new york times,1900,freebase,1
+4613,dbpedia,930,geonames,1
+4613,dbpedia,7543,ambiguity-generator,1
+4613,dbpedia,1900,freebase,1
+930,geonames,7543,ambiguity-generator,1
+930,geonames,1900,freebase,1
+7543,ambiguity-generator,1900,freebase,1
+7543,ambiguity-generator,4277,geonames,1
+187,geonames,186,new york times,1
+187,geonames,4787,freebase,1
+187,geonames,2989,dbpedia,1
+186,new york times,4787,freebase,1
+186,new york times,2989,dbpedia,1
+4787,freebase,2989,dbpedia,1
+1791,geonames,1790,new york times,1
+1791,geonames,5901,dbpedia,1
+1791,geonames,2063,freebase,1
+1790,new york times,5901,dbpedia,1
+1790,new york times,2063,freebase,1
+5901,dbpedia,2063,freebase,1
+1987,new york times,1988,dbpedia,1
+1987,new york times,5676,geonames,1
+1987,new york times,7220,freebase,1
+1988,dbpedia,5676,geonames,1
+1988,dbpedia,7220,freebase,1
+5676,geonames,7220,freebase,1
+4410,geonames,5428,dbpedia,1
+4410,geonames,4326,new york times,1
+4410,geonames,4327,freebase,1
+5428,dbpedia,4326,new york times,1
+5428,dbpedia,4327,freebase,1
+4326,new york times,4327,freebase,1
+5835,freebase,6067,geonames,1
+5835,freebase,4366,dbpedia,1
+5835,freebase,4365,new york times,1
+6067,geonames,4366,dbpedia,1
+6067,geonames,4365,new york times,1
+4366,dbpedia,4365,new york times,1
+6327,dbpedia,5942,freebase,1
+6327,dbpedia,2144,geonames,1
+6327,dbpedia,2143,new york times,1
+6327,dbpedia,7544,ambiguity-generator,1
+5942,freebase,2144,geonames,1
+5942,freebase,2143,new york times,1
+5942,freebase,7544,ambiguity-generator,1
+2144,geonames,2143,new york times,1
+2144,geonames,7544,ambiguity-generator,1
+2143,new york times,7544,ambiguity-generator,1
+7544,ambiguity-generator,1043,new york times,1
+2384,freebase,7168,geonames,1
+2384,freebase,2383,new york times,1
+2384,freebase,4936,dbpedia,1
+7168,geonames,2383,new york times,1
+7168,geonames,4936,dbpedia,1
+2383,new york times,4936,dbpedia,1
+2109,freebase,6648,dbpedia,1
+2109,freebase,2108,new york times,1
+2109,freebase,4198,geonames,1
+6648,dbpedia,2108,new york times,1
+6648,dbpedia,4198,geonames,1
+2108,new york times,4198,geonames,1
+6553,freebase,2459,geonames,1
+6553,freebase,4047,dbpedia,1
+6553,freebase,2458,new york times,1
+2459,geonames,4047,dbpedia,1
+2459,geonames,2458,new york times,1
+4047,dbpedia,2458,new york times,1
+5659,dbpedia,4827,freebase,1
+5659,dbpedia,1260,geonames,1
+5659,dbpedia,1259,new york times,1
+4827,freebase,1260,geonames,1
+4827,freebase,1259,new york times,1
+1260,geonames,1259,new york times,1
+3024,freebase,7230,geonames,1
+3024,freebase,3023,new york times,1
+3024,freebase,5365,dbpedia,1
+7230,geonames,3023,new york times,1
+7230,geonames,5365,dbpedia,1
+3023,new york times,5365,dbpedia,1
+7166,dbpedia,358,geonames,1
+7166,dbpedia,5259,freebase,1
+7166,dbpedia,357,new york times,1
+358,geonames,5259,freebase,1
+358,geonames,357,new york times,1
+5259,freebase,357,new york times,1
+4193,geonames,4192,new york times,1
+4193,geonames,5315,dbpedia,1
+4193,geonames,6889,freebase,1
+4192,new york times,5315,dbpedia,1
+4192,new york times,6889,freebase,1
+5315,dbpedia,6889,freebase,1
+6862,dbpedia,6875,freebase,1
+6862,dbpedia,1654,new york times,1
+6862,dbpedia,1655,geonames,1
+6875,freebase,1654,new york times,1
+6875,freebase,1655,geonames,1
+1654,new york times,1655,geonames,1
+890,new york times,2102,geonames,1
+890,new york times,2886,freebase,1
+890,new york times,891,dbpedia,1
+2102,geonames,2886,freebase,1
+2102,geonames,891,dbpedia,1
+2886,freebase,891,dbpedia,1
+7375,dbpedia,5807,freebase,1
+7375,dbpedia,1632,geonames,1
+7375,dbpedia,1631,new york times,1
+5807,freebase,1632,geonames,1
+5807,freebase,1631,new york times,1
+1632,geonames,1631,new york times,1
+3447,geonames,5896,freebase,1
+3447,geonames,454,new york times,1
+3447,geonames,455,dbpedia,1
+5896,freebase,454,new york times,1
+5896,freebase,455,dbpedia,1
+454,new york times,455,dbpedia,1
+1857,new york times,6002,dbpedia,1
+1857,new york times,5182,freebase,1
+1857,new york times,1858,geonames,1
+6002,dbpedia,5182,freebase,1
+6002,dbpedia,1858,geonames,1
+5182,freebase,1858,geonames,1
+3998,geonames,5266,freebase,1
+3998,geonames,1415,dbpedia,1
+3998,geonames,1414,new york times,1
+5266,freebase,1415,dbpedia,1
+5266,freebase,1414,new york times,1
+1415,dbpedia,1414,new york times,1
+6450,freebase,3562,geonames,1
+6450,freebase,3561,new york times,1
+6450,freebase,7334,dbpedia,1
+3562,geonames,3561,new york times,1
+3562,geonames,7334,dbpedia,1
+3561,new york times,7334,dbpedia,1
+5279,freebase,7194,dbpedia,1
+5279,freebase,2593,geonames,1
+5279,freebase,2592,new york times,1
+7194,dbpedia,2593,geonames,1
+7194,dbpedia,2592,new york times,1
+2593,geonames,2592,new york times,1
+3347,freebase,3346,new york times,1
+3347,freebase,6592,geonames,1
+3347,freebase,5344,dbpedia,1
+3346,new york times,6592,geonames,1
+3346,new york times,5344,dbpedia,1
+6592,geonames,5344,dbpedia,1
+4063,freebase,4062,new york times,1
+4063,freebase,5547,dbpedia,1
+4063,freebase,7532,geonames,1
+4062,new york times,5547,dbpedia,1
+4062,new york times,7532,geonames,1
+5547,dbpedia,7532,geonames,1
+2198,dbpedia,145,freebase,1
+2198,dbpedia,5863,geonames,1
+2198,dbpedia,7545,ambiguity-generator,1
+2198,dbpedia,144,new york times,1
+145,freebase,5863,geonames,1
+145,freebase,7545,ambiguity-generator,1
+145,freebase,144,new york times,1
+5863,geonames,7545,ambiguity-generator,1
+5863,geonames,144,new york times,1
+7545,ambiguity-generator,144,new york times,1
+7545,ambiguity-generator,7098,dbpedia,1
+1203,new york times,4105,geonames,1
+1203,new york times,3590,freebase,1
+1203,new york times,1204,dbpedia,1
+4105,geonames,3590,freebase,1
+4105,geonames,1204,dbpedia,1
+3590,freebase,1204,dbpedia,1
+4874,dbpedia,1156,new york times,1
+4874,dbpedia,1157,freebase,1
+4874,dbpedia,4106,geonames,1
+1156,new york times,1157,freebase,1
+1156,new york times,4106,geonames,1
+1157,freebase,4106,geonames,1
+5624,dbpedia,752,new york times,1
+5624,dbpedia,753,freebase,1
+5624,dbpedia,5118,geonames,1
+752,new york times,753,freebase,1
+752,new york times,5118,geonames,1
+753,freebase,5118,geonames,1
+5242,freebase,6618,geonames,1
+5242,freebase,5241,new york times,1
+5242,freebase,6466,dbpedia,1
+6618,geonames,5241,new york times,1
+6618,geonames,6466,dbpedia,1
+5241,new york times,6466,dbpedia,1
+4764,freebase,1116,dbpedia,1
+4764,freebase,6568,geonames,1
+4764,freebase,1115,new york times,1
+1116,dbpedia,6568,geonames,1
+1116,dbpedia,1115,new york times,1
+6568,geonames,1115,new york times,1
+5040,geonames,7039,freebase,1
+5040,geonames,3477,dbpedia,1
+5040,geonames,3476,new york times,1
+7039,freebase,3477,dbpedia,1
+7039,freebase,3476,new york times,1
+3477,dbpedia,3476,new york times,1
+199,freebase,6782,dbpedia,1
+199,freebase,1403,geonames,1
+199,freebase,7546,ambiguity-generator,1
+199,freebase,198,new york times,1
+6782,dbpedia,1403,geonames,1
+6782,dbpedia,7546,ambiguity-generator,1
+6782,dbpedia,198,new york times,1
+1403,geonames,7546,ambiguity-generator,1
+1403,geonames,198,new york times,1
+7546,ambiguity-generator,198,new york times,1
+7546,ambiguity-generator,1455,geonames,1
+2250,geonames,411,new york times,1
+2250,geonames,3560,freebase,1
+411,new york times,3560,freebase,1
+3417,geonames,4253,dbpedia,1
+3417,geonames,3416,new york times,1
+3417,geonames,5992,freebase,1
+4253,dbpedia,3416,new york times,1
+4253,dbpedia,5992,freebase,1
+3416,new york times,5992,freebase,1
+2015,geonames,4868,dbpedia,1
+2015,geonames,2323,freebase,1
+2015,geonames,7547,ambiguity-generator,1
+2015,geonames,2014,new york times,1
+4868,dbpedia,2323,freebase,1
+4868,dbpedia,7547,ambiguity-generator,1
+4868,dbpedia,2014,new york times,1
+2323,freebase,7547,ambiguity-generator,1
+2323,freebase,2014,new york times,1
+7547,ambiguity-generator,2014,new york times,1
+7547,ambiguity-generator,7101,geonames,1
+703,new york times,6626,geonames,1
+703,new york times,4861,freebase,1
+703,new york times,704,dbpedia,1
+6626,geonames,4861,freebase,1
+6626,geonames,704,dbpedia,1
+4861,freebase,704,dbpedia,1
+2440,dbpedia,5383,freebase,1
+2440,dbpedia,2439,new york times,1
+2440,dbpedia,4540,geonames,1
+5383,freebase,2439,new york times,1
+5383,freebase,4540,geonames,1
+2439,new york times,4540,geonames,1
+2899,new york times,3967,geonames,1
+2899,new york times,2900,dbpedia,1
+2899,new york times,4858,freebase,1
+3967,geonames,2900,dbpedia,1
+3967,geonames,4858,freebase,1
+2900,dbpedia,4858,freebase,1
+565,new york times,5316,dbpedia,1
+565,new york times,566,freebase,1
+565,new york times,2409,geonames,1
+5316,dbpedia,566,freebase,1
+5316,dbpedia,2409,geonames,1
+566,freebase,2409,geonames,1
+657,freebase,3290,geonames,1
+657,freebase,3334,dbpedia,1
+657,freebase,656,new york times,1
+3290,geonames,3334,dbpedia,1
+3290,geonames,656,new york times,1
+3334,dbpedia,656,new york times,1
+7459,freebase,13,geonames,1
+7459,freebase,12,new york times,1
+7459,freebase,2272,dbpedia,1
+13,geonames,12,new york times,1
+13,geonames,2272,dbpedia,1
+12,new york times,2272,dbpedia,1
+1982,geonames,1981,new york times,1
+5412,dbpedia,6625,freebase,1
+1536,geonames,1531,dbpedia,1
+1536,geonames,201,freebase,1
+1536,geonames,200,new york times,1
+1531,dbpedia,201,freebase,1
+1531,dbpedia,200,new york times,1
+201,freebase,200,new york times,1
+6881,freebase,6338,dbpedia,1
+6881,freebase,1719,new york times,1
+6881,freebase,1720,geonames,1
+6338,dbpedia,1719,new york times,1
+6338,dbpedia,1720,geonames,1
+1719,new york times,1720,geonames,1
+6675,freebase,5269,dbpedia,1
+6675,freebase,2270,geonames,1
+6675,freebase,2269,new york times,1
+5269,dbpedia,2270,geonames,1
+5269,dbpedia,2269,new york times,1
+2270,geonames,2269,new york times,1
+7454,freebase,5871,geonames,1
+7454,freebase,1122,dbpedia,1
+7454,freebase,1121,new york times,1
+5871,geonames,1122,dbpedia,1
+5871,geonames,1121,new york times,1
+1122,dbpedia,1121,new york times,1
+1195,new york times,5826,freebase,1
+1195,new york times,5083,dbpedia,1
+1195,new york times,1196,geonames,1
+5826,freebase,5083,dbpedia,1
+5826,freebase,1196,geonames,1
+5083,dbpedia,1196,geonames,1
+6748,dbpedia,4800,freebase,1
+6748,dbpedia,2484,new york times,1
+6748,dbpedia,2485,geonames,1
+4800,freebase,2484,new york times,1
+4800,freebase,2485,geonames,1
+2484,new york times,2485,geonames,1
+7408,dbpedia,7102,freebase,1
+7408,dbpedia,3644,geonames,1
+7408,dbpedia,3643,new york times,1
+7102,freebase,3644,geonames,1
+7102,freebase,3643,new york times,1
+3644,geonames,3643,new york times,1
+5568,new york times,6244,freebase,1
+5568,new york times,6494,geonames,1
+5568,new york times,5569,dbpedia,1
+6244,freebase,6494,geonames,1
+6244,freebase,5569,dbpedia,1
+6494,geonames,5569,dbpedia,1
+512,freebase,5149,geonames,1
+512,freebase,511,new york times,1
+512,freebase,1907,dbpedia,1
+5149,geonames,511,new york times,1
+5149,geonames,1907,dbpedia,1
+511,new york times,1907,dbpedia,1
+2636,dbpedia,4042,geonames,1
+2636,dbpedia,2635,new york times,1
+2636,dbpedia,4236,freebase,1
+4042,geonames,2635,new york times,1
+4042,geonames,4236,freebase,1
+2635,new york times,4236,freebase,1
+6225,freebase,1268,geonames,1
+6225,freebase,1267,new york times,1
+6225,freebase,7249,dbpedia,1
+1268,geonames,1267,new york times,1
+1268,geonames,7249,dbpedia,1
+1267,new york times,7249,dbpedia,1
+2223,geonames,600,freebase,1
+2223,geonames,6328,dbpedia,1
+2223,geonames,599,new york times,1
+600,freebase,6328,dbpedia,1
+600,freebase,599,new york times,1
+6328,dbpedia,599,new york times,1
+3357,dbpedia,419,new york times,1
+3357,dbpedia,420,freebase,1
+3357,dbpedia,5860,geonames,1
+419,new york times,420,freebase,1
+419,new york times,5860,geonames,1
+420,freebase,5860,geonames,1
+1876,new york times,6168,dbpedia,1
+1876,new york times,3049,freebase,1
+1876,new york times,1877,geonames,1
+6168,dbpedia,3049,freebase,1
+6168,dbpedia,1877,geonames,1
+3049,freebase,1877,geonames,1
+5089,geonames,2876,new york times,1
+5089,geonames,4443,freebase,1
+5089,geonames,2877,dbpedia,1
+2876,new york times,4443,freebase,1
+2876,new york times,2877,dbpedia,1
+4443,freebase,2877,dbpedia,1
+3410,new york times,5958,dbpedia,1
+3410,new york times,7548,ambiguity-generator,1
+3410,new york times,3411,freebase,1
+3410,new york times,3649,geonames,1
+5958,dbpedia,7548,ambiguity-generator,1
+5958,dbpedia,3411,freebase,1
+5958,dbpedia,3649,geonames,1
+7548,ambiguity-generator,3411,freebase,1
+7548,ambiguity-generator,3649,geonames,1
+3411,freebase,3649,geonames,1
+7548,ambiguity-generator,953,geonames,1
+4867,geonames,4866,new york times,1
+4867,geonames,7076,freebase,1
+4867,geonames,5808,dbpedia,1
+4866,new york times,7076,freebase,1
+4866,new york times,5808,dbpedia,1
+7076,freebase,5808,dbpedia,1
+6598,dbpedia,7338,geonames,1
+6598,dbpedia,4483,freebase,1
+6598,dbpedia,4482,new york times,1
+7338,geonames,4483,freebase,1
+7338,geonames,4482,new york times,1
+4483,freebase,4482,new york times,1
+3950,new york times,6615,dbpedia,1
+3950,new york times,7531,geonames,1
+3950,new york times,3951,freebase,1
+6615,dbpedia,7531,geonames,1
+6615,dbpedia,3951,freebase,1
+7531,geonames,3951,freebase,1
+1766,geonames,1056,new york times,1
+1766,geonames,5236,dbpedia,1
+1766,geonames,1057,freebase,1
+1056,new york times,5236,dbpedia,1
+1056,new york times,1057,freebase,1
+5236,dbpedia,1057,freebase,1
+1728,freebase,5499,dbpedia,1
+1728,freebase,5131,geonames,1
+1728,freebase,1727,new york times,1
+5499,dbpedia,5131,geonames,1
+5499,dbpedia,1727,new york times,1
+5131,geonames,1727,new york times,1
+596,geonames,595,new york times,1
+596,geonames,6627,freebase,1
+596,geonames,1918,dbpedia,1
+595,new york times,6627,freebase,1
+595,new york times,1918,dbpedia,1
+6627,freebase,1918,dbpedia,1
+3129,geonames,2316,freebase,1
+3129,geonames,2315,new york times,1
+3129,geonames,3959,dbpedia,1
+2316,freebase,2315,new york times,1
+2316,freebase,3959,dbpedia,1
+2315,new york times,3959,dbpedia,1
+2924,freebase,3581,dbpedia,1
+2924,freebase,720,geonames,1
+2924,freebase,719,new york times,1
+3581,dbpedia,720,geonames,1
+3581,dbpedia,719,new york times,1
+720,geonames,719,new york times,1
+1856,dbpedia,1855,new york times,1
+1856,dbpedia,2031,freebase,1
+1856,dbpedia,2169,geonames,1
+1855,new york times,2031,freebase,1
+1855,new york times,2169,geonames,1
+2031,freebase,2169,geonames,1
+3532,dbpedia,3531,new york times,1
+3532,dbpedia,7529,geonames,1
+3531,new york times,7529,geonames,1
+6460,geonames,3673,dbpedia,1
+6460,geonames,3698,freebase,1
+6460,geonames,3672,new york times,1
+3673,dbpedia,3698,freebase,1
+3673,dbpedia,3672,new york times,1
+3698,freebase,3672,new york times,1
+3640,geonames,2479,freebase,1
+3640,geonames,2478,new york times,1
+2479,freebase,2478,new york times,1
+2445,dbpedia,4991,freebase,1
+4069,dbpedia,2433,freebase,1
+4069,dbpedia,7176,geonames,1
+4069,dbpedia,2432,new york times,1
+2433,freebase,7176,geonames,1
+2433,freebase,2432,new york times,1
+7176,geonames,2432,new york times,1
+7549,ambiguity-generator,4569,freebase,1
+7549,ambiguity-generator,4423,geonames,1
+3415,dbpedia,1553,geonames,1
+3415,dbpedia,1552,new york times,1
+3415,dbpedia,6270,freebase,1
+1553,geonames,1552,new york times,1
+1553,geonames,6270,freebase,1
+1552,new york times,6270,freebase,1
+4177,geonames,4294,dbpedia,1
+4177,geonames,727,new york times,1
+4177,geonames,728,freebase,1
+4294,dbpedia,727,new york times,1
+4294,dbpedia,728,freebase,1
+727,new york times,728,freebase,1
+3304,new york times,6930,dbpedia,1
+3304,new york times,3305,geonames,1
+6930,dbpedia,3305,geonames,1
+5882,freebase,6298,dbpedia,1
+5882,freebase,5714,new york times,1
+5882,freebase,5715,geonames,1
+6298,dbpedia,5714,new york times,1
+6298,dbpedia,5715,geonames,1
+5714,new york times,5715,geonames,1
+394,new york times,395,freebase,1
+394,new york times,6845,geonames,1
+394,new york times,6362,dbpedia,1
+395,freebase,6845,geonames,1
+395,freebase,6362,dbpedia,1
+6845,geonames,6362,dbpedia,1
+4750,geonames,1218,dbpedia,1
+4750,geonames,1217,new york times,1
+4750,geonames,5859,freebase,1
+1218,dbpedia,1217,new york times,1
+1218,dbpedia,5859,freebase,1
+1217,new york times,5859,freebase,1
+6132,dbpedia,3929,new york times,1
+6132,dbpedia,7002,geonames,1
+6132,dbpedia,3930,freebase,1
+3929,new york times,7002,geonames,1
+3929,new york times,3930,freebase,1
+7002,geonames,3930,freebase,1
+6624,geonames,4259,dbpedia,1
+6624,geonames,4258,new york times,1
+6624,geonames,4804,freebase,1
+4259,dbpedia,4258,new york times,1
+4259,dbpedia,4804,freebase,1
+4258,new york times,4804,freebase,1
+4511,freebase,1474,new york times,1
+4511,freebase,1475,geonames,1
+4511,freebase,5840,dbpedia,1
+1474,new york times,1475,geonames,1
+1474,new york times,5840,dbpedia,1
+1475,geonames,5840,dbpedia,1
+6029,freebase,3103,dbpedia,1
+6029,freebase,7550,ambiguity-generator,1
+3103,dbpedia,7550,ambiguity-generator,1
+7550,ambiguity-generator,4706,geonames,1
+1386,freebase,3964,dbpedia,1
+1386,freebase,7551,ambiguity-generator,1
+3964,dbpedia,7551,ambiguity-generator,1
+7551,ambiguity-generator,1793,geonames,1
+2780,new york times,6127,dbpedia,1
+2780,new york times,2781,freebase,1
+2780,new york times,7350,geonames,1
+6127,dbpedia,2781,freebase,1
+6127,dbpedia,7350,geonames,1
+2781,freebase,7350,geonames,1
+4074,geonames,4073,new york times,1
+4074,geonames,5805,freebase,1
+4074,geonames,4937,dbpedia,1
+4073,new york times,5805,freebase,1
+4073,new york times,4937,dbpedia,1
+5805,freebase,4937,dbpedia,1
+4223,dbpedia,3494,geonames,1
+4223,dbpedia,3493,new york times,1
+4223,dbpedia,6433,freebase,1
+3494,geonames,3493,new york times,1
+3494,geonames,6433,freebase,1
+3493,new york times,6433,freebase,1
+2985,dbpedia,5101,geonames,1
+2985,dbpedia,1652,new york times,1
+2985,dbpedia,1653,freebase,1
+5101,geonames,1652,new york times,1
+5101,geonames,1653,freebase,1
+1652,new york times,1653,freebase,1
+3708,dbpedia,3707,new york times,1
+3708,dbpedia,5270,geonames,1
+3708,dbpedia,4638,freebase,1
+3707,new york times,5270,geonames,1
+3707,new york times,4638,freebase,1
+5270,geonames,4638,freebase,1
+4609,geonames,4608,new york times,1
+4609,geonames,7398,dbpedia,1
+4609,geonames,7123,freebase,1
+4608,new york times,7398,dbpedia,1
+4608,new york times,7123,freebase,1
+7398,dbpedia,7123,freebase,1
+4300,dbpedia,4299,new york times,1
+4300,dbpedia,5229,freebase,1
+4300,dbpedia,4334,geonames,1
+4299,new york times,5229,freebase,1
+4299,new york times,4334,geonames,1
+5229,freebase,4334,geonames,1
+3246,geonames,4639,freebase,1
+3246,geonames,3245,new york times,1
+3246,geonames,5948,dbpedia,1
+4639,freebase,3245,new york times,1
+4639,freebase,5948,dbpedia,1
+3245,new york times,5948,dbpedia,1
+5559,geonames,6762,freebase,1
+5559,geonames,4487,dbpedia,1
+5559,geonames,4486,new york times,1
+6762,freebase,4487,dbpedia,1
+6762,freebase,4486,new york times,1
+4487,dbpedia,4486,new york times,1
+2910,dbpedia,2909,new york times,1
+2910,dbpedia,3014,freebase,1
+2910,dbpedia,3669,geonames,1
+2909,new york times,3014,freebase,1
+2909,new york times,3669,geonames,1
+3014,freebase,3669,geonames,1
+1150,dbpedia,3168,geonames,1
+1150,dbpedia,1149,new york times,1
+1150,dbpedia,7122,freebase,1
+3168,geonames,1149,new york times,1
+3168,geonames,7122,freebase,1
+1149,new york times,7122,freebase,1
+4751,freebase,2275,new york times,1
+4751,freebase,7552,ambiguity-generator,1
+4751,freebase,7069,dbpedia,1
+4751,freebase,2276,geonames,1
+2275,new york times,7552,ambiguity-generator,1
+2275,new york times,7069,dbpedia,1
+2275,new york times,2276,geonames,1
+7552,ambiguity-generator,7069,dbpedia,1
+7552,ambiguity-generator,2276,geonames,1
+7069,dbpedia,2276,geonames,1
+7552,ambiguity-generator,4621,geonames,1
+3404,freebase,1910,new york times,1
+3404,freebase,1911,dbpedia,1
+3404,freebase,2374,geonames,1
+1910,new york times,1911,dbpedia,1
+1910,new york times,2374,geonames,1
+1911,dbpedia,2374,geonames,1
+6252,dbpedia,7252,freebase,1
+7478,dbpedia,1002,new york times,1
+7478,dbpedia,4466,geonames,1
+7478,dbpedia,1003,freebase,1
+1002,new york times,4466,geonames,1
+1002,new york times,1003,freebase,1
+4466,geonames,1003,freebase,1
+5200,freebase,5349,dbpedia,1
+176,new york times,177,freebase,1
+176,new york times,1977,geonames,1
+176,new york times,5604,dbpedia,1
+177,freebase,1977,geonames,1
+177,freebase,5604,dbpedia,1
+1977,geonames,5604,dbpedia,1
+4544,freebase,6749,geonames,1
+4544,freebase,5080,dbpedia,1
+4544,freebase,4543,new york times,1
+6749,geonames,5080,dbpedia,1
+6749,geonames,4543,new york times,1
+5080,dbpedia,4543,new york times,1
+4344,dbpedia,1318,freebase,1
+1832,freebase,1579,geonames,1
+1832,freebase,2288,dbpedia,1
+1832,freebase,1578,new york times,1
+1579,geonames,2288,dbpedia,1
+1579,geonames,1578,new york times,1
+2288,dbpedia,1578,new york times,1
+2641,geonames,7163,freebase,1
+2641,geonames,288,new york times,1
+2641,geonames,289,dbpedia,1
+7163,freebase,288,new york times,1
+7163,freebase,289,dbpedia,1
+288,new york times,289,dbpedia,1
+5136,freebase,4469,new york times,1
+5136,freebase,5330,dbpedia,1
+5136,freebase,4470,geonames,1
+4469,new york times,5330,dbpedia,1
+4469,new york times,4470,geonames,1
+5330,dbpedia,4470,geonames,1
+1610,dbpedia,1609,new york times,1
+1610,dbpedia,5436,freebase,1
+1609,new york times,5436,freebase,1
+7436,freebase,7553,ambiguity-generator,1
+7436,freebase,3819,new york times,1
+7436,freebase,3820,geonames,1
+7436,freebase,5034,dbpedia,1
+7553,ambiguity-generator,3819,new york times,1
+7553,ambiguity-generator,3820,geonames,1
+7553,ambiguity-generator,5034,dbpedia,1
+3819,new york times,3820,geonames,1
+3819,new york times,5034,dbpedia,1
+3820,geonames,5034,dbpedia,1
+7553,ambiguity-generator,4972,geonames,1
+855,new york times,6211,dbpedia,1
+855,new york times,3380,freebase,1
+855,new york times,856,geonames,1
+6211,dbpedia,3380,freebase,1
+6211,dbpedia,856,geonames,1
+3380,freebase,856,geonames,1
+1037,new york times,1959,freebase,1
+1037,new york times,7246,dbpedia,1
+1037,new york times,1038,geonames,1
+1959,freebase,7246,dbpedia,1
+1959,freebase,1038,geonames,1
+7246,dbpedia,1038,geonames,1
+4512,new york times,4842,geonames,1
+4512,new york times,4513,freebase,1
+4512,new york times,5086,dbpedia,1
+4842,geonames,4513,freebase,1
+4842,geonames,5086,dbpedia,1
+4513,freebase,5086,dbpedia,1
+5468,geonames,4529,freebase,1
+5468,geonames,4237,new york times,1
+5468,geonames,4238,dbpedia,1
+4529,freebase,4237,new york times,1
+4529,freebase,4238,dbpedia,1
+4237,new york times,4238,dbpedia,1
+344,geonames,2115,freebase,1
+344,geonames,5231,dbpedia,1
+344,geonames,343,new york times,1
+2115,freebase,5231,dbpedia,1
+2115,freebase,343,new york times,1
+5231,dbpedia,343,new york times,1
+5416,new york times,6857,dbpedia,1
+5416,new york times,5417,freebase,1
+5416,new york times,7253,geonames,1
+6857,dbpedia,5417,freebase,1
+6857,dbpedia,7253,geonames,1
+5417,freebase,7253,geonames,1
+5421,geonames,1504,freebase,1
+5421,geonames,4624,dbpedia,1
+5421,geonames,1503,new york times,1
+1504,freebase,4624,dbpedia,1
+1504,freebase,1503,new york times,1
+4624,dbpedia,1503,new york times,1
+5169,new york times,5362,dbpedia,1
+5169,new york times,6870,freebase,1
+5169,new york times,5170,geonames,1
+5362,dbpedia,6870,freebase,1
+5362,dbpedia,5170,geonames,1
+6870,freebase,5170,geonames,1
+2582,new york times,6309,dbpedia,1
+2582,new york times,6423,geonames,1
+2582,new york times,2583,freebase,1
+6309,dbpedia,6423,geonames,1
+6309,dbpedia,2583,freebase,1
+6423,geonames,2583,freebase,1
+236,new york times,7520,freebase,1
+236,new york times,5128,dbpedia,1
+236,new york times,237,geonames,1
+7520,freebase,5128,dbpedia,1
+7520,freebase,237,geonames,1
+5128,dbpedia,237,geonames,1
+5385,geonames,5384,new york times,1
+5385,geonames,5426,freebase,1
+5385,geonames,7060,dbpedia,1
+5384,new york times,5426,freebase,1
+5384,new york times,7060,dbpedia,1
+5426,freebase,7060,dbpedia,1
+7164,geonames,3502,freebase,1
+7164,geonames,3501,new york times,1
+7164,geonames,5694,dbpedia,1
+3502,freebase,3501,new york times,1
+3502,freebase,5694,dbpedia,1
+3501,new york times,5694,dbpedia,1
+6053,freebase,5329,geonames,1
+6053,freebase,2094,dbpedia,1
+6053,freebase,2093,new york times,1
+5329,geonames,2094,dbpedia,1
+5329,geonames,2093,new york times,1
+2094,dbpedia,2093,new york times,1
+417,geonames,416,new york times,1
+417,geonames,1539,dbpedia,1
+417,geonames,3393,freebase,1
+416,new york times,1539,dbpedia,1
+416,new york times,3393,freebase,1
+1539,dbpedia,3393,freebase,1
+6963,dbpedia,3240,new york times,1
+6963,dbpedia,6131,geonames,1
+6963,dbpedia,7554,ambiguity-generator,1
+6963,dbpedia,3241,freebase,1
+3240,new york times,6131,geonames,1
+3240,new york times,7554,ambiguity-generator,1
+3240,new york times,3241,freebase,1
+6131,geonames,7554,ambiguity-generator,1
+6131,geonames,3241,freebase,1
+7554,ambiguity-generator,3241,freebase,1
+7554,ambiguity-generator,4988,geonames,1
+5993,freebase,5204,dbpedia,1
+5993,freebase,5203,new york times,1
+5993,freebase,7285,geonames,1
+5204,dbpedia,5203,new york times,1
+5204,dbpedia,7285,geonames,1
+5203,new york times,7285,geonames,1
+3205,dbpedia,3204,new york times,1
+3205,dbpedia,3402,freebase,1
+3205,dbpedia,6110,geonames,1
+3204,new york times,3402,freebase,1
+3204,new york times,6110,geonames,1
+3402,freebase,6110,geonames,1
+3835,geonames,2101,dbpedia,1
+3835,geonames,2100,new york times,1
+3835,geonames,7030,freebase,1
+2101,dbpedia,2100,new york times,1
+2101,dbpedia,7030,freebase,1
+2100,new york times,7030,freebase,1
+3008,geonames,2296,new york times,1
+3008,geonames,7472,freebase,1
+3008,geonames,2297,dbpedia,1
+2296,new york times,7472,freebase,1
+2296,new york times,2297,dbpedia,1
+7472,freebase,2297,dbpedia,1
+4606,geonames,4605,new york times,1
+4606,geonames,5476,dbpedia,1
+4606,geonames,6059,freebase,1
+4605,new york times,5476,dbpedia,1
+4605,new york times,6059,freebase,1
+5476,dbpedia,6059,freebase,1
+1186,new york times,6914,dbpedia,1
+1186,new york times,1985,geonames,1
+1186,new york times,1187,freebase,1
+6914,dbpedia,1985,geonames,1
+6914,dbpedia,1187,freebase,1
+1985,geonames,1187,freebase,1
+7304,geonames,7395,dbpedia,1
+7304,geonames,7555,ambiguity-generator,1
+7304,geonames,4316,new york times,1
+7395,dbpedia,7555,ambiguity-generator,1
+7395,dbpedia,4316,new york times,1
+7555,ambiguity-generator,4316,new york times,1
+7555,ambiguity-generator,1198,geonames,1
+2268,freebase,5928,geonames,1
+2268,freebase,2267,new york times,1
+2268,freebase,2869,dbpedia,1
+2268,freebase,7556,ambiguity-generator,1
+5928,geonames,2267,new york times,1
+5928,geonames,2869,dbpedia,1
+5928,geonames,7556,ambiguity-generator,1
+2267,new york times,2869,dbpedia,1
+2267,new york times,7556,ambiguity-generator,1
+2869,dbpedia,7556,ambiguity-generator,1
+7556,ambiguity-generator,1351,dbpedia,1
+2114,geonames,6444,freebase,1
+2114,geonames,1524,dbpedia,1
+2114,geonames,1523,new york times,1
+6444,freebase,1524,dbpedia,1
+6444,freebase,1523,new york times,1
+1524,dbpedia,1523,new york times,1
+6860,freebase,5069,dbpedia,1
+1520,new york times,3190,freebase,1
+1520,new york times,1521,dbpedia,1
+1520,new york times,6519,geonames,1
+3190,freebase,1521,dbpedia,1
+3190,freebase,6519,geonames,1
+1521,dbpedia,6519,geonames,1
+4919,new york times,4920,geonames,1
+759,freebase,758,new york times,1
+759,freebase,3915,geonames,1
+759,freebase,6644,dbpedia,1
+758,new york times,3915,geonames,1
+758,new york times,6644,dbpedia,1
+3915,geonames,6644,dbpedia,1
+6042,freebase,3448,new york times,1
+6042,freebase,6437,dbpedia,1
+6042,freebase,3449,geonames,1
+3448,new york times,6437,dbpedia,1
+3448,new york times,3449,geonames,1
+6437,dbpedia,3449,geonames,1
+3152,new york times,4941,freebase,1
+3152,new york times,5453,dbpedia,1
+3152,new york times,3153,geonames,1
+4941,freebase,5453,dbpedia,1
+4941,freebase,3153,geonames,1
+5453,dbpedia,3153,geonames,1
+5673,geonames,4012,dbpedia,1
+5673,geonames,4011,new york times,1
+5673,geonames,4716,freebase,1
+4012,dbpedia,4011,new york times,1
+4012,dbpedia,4716,freebase,1
+4011,new york times,4716,freebase,1
+858,freebase,7217,dbpedia,1
+858,freebase,7557,ambiguity-generator,1
+858,freebase,7159,geonames,1
+858,freebase,857,new york times,1
+7217,dbpedia,7557,ambiguity-generator,1
+7217,dbpedia,7159,geonames,1
+7217,dbpedia,857,new york times,1
+7557,ambiguity-generator,7159,geonames,1
+7557,ambiguity-generator,857,new york times,1
+7159,geonames,857,new york times,1
+7557,ambiguity-generator,4421,geonames,1
+4048,new york times,5399,freebase,1
+4048,new york times,5324,geonames,1
+4048,new york times,4049,dbpedia,1
+5399,freebase,5324,geonames,1
+5399,freebase,4049,dbpedia,1
+5324,geonames,4049,dbpedia,1
+1466,new york times,3928,geonames,1
+1466,new york times,3285,freebase,1
+1466,new york times,1467,dbpedia,1
+3928,geonames,3285,freebase,1
+3928,geonames,1467,dbpedia,1
+3285,freebase,1467,dbpedia,1
+4570,geonames,1294,new york times,1
+5552,geonames,7153,dbpedia,1
+5552,geonames,1336,freebase,1
+5552,geonames,1335,new york times,1
+7153,dbpedia,1336,freebase,1
+7153,dbpedia,1335,new york times,1
+1336,freebase,1335,new york times,1
+261,freebase,6386,dbpedia,1
+261,freebase,260,new york times,1
+261,freebase,3878,geonames,1
+6386,dbpedia,260,new york times,1
+6386,dbpedia,3878,geonames,1
+260,new york times,3878,geonames,1
+7558,ambiguity-generator,7299,dbpedia,1
+7558,ambiguity-generator,2045,freebase,1
+7299,dbpedia,2045,freebase,1
+7558,ambiguity-generator,4423,geonames,1
+403,geonames,402,new york times,1
+403,geonames,7072,freebase,1
+403,geonames,1649,dbpedia,1
+402,new york times,7072,freebase,1
+402,new york times,1649,dbpedia,1
+7072,freebase,1649,dbpedia,1
+4191,geonames,6078,dbpedia,1
+4191,geonames,4190,new york times,1
+4191,geonames,6571,freebase,1
+6078,dbpedia,4190,new york times,1
+6078,dbpedia,6571,freebase,1
+4190,new york times,6571,freebase,1
+7421,geonames,4289,freebase,1
+7421,geonames,4288,new york times,1
+7421,geonames,5339,dbpedia,1
+4289,freebase,4288,new york times,1
+4289,freebase,5339,dbpedia,1
+4288,new york times,5339,dbpedia,1
+6274,new york times,6607,dbpedia,1
+6274,new york times,6275,freebase,1
+6274,new york times,6778,geonames,1
+6607,dbpedia,6275,freebase,1
+6607,dbpedia,6778,geonames,1
+6275,freebase,6778,geonames,1
+730,new york times,731,dbpedia,1
+730,new york times,1540,geonames,1
+730,new york times,4372,freebase,1
+731,dbpedia,1540,geonames,1
+731,dbpedia,4372,freebase,1
+1540,geonames,4372,freebase,1
+1265,new york times,1668,dbpedia,1
+1265,new york times,1266,geonames,1
+1265,new york times,3965,freebase,1
+1668,dbpedia,1266,geonames,1
+1668,dbpedia,3965,freebase,1
+1266,geonames,3965,freebase,1
+3182,new york times,3768,dbpedia,1
+3182,new york times,3183,freebase,1
+3182,new york times,7095,geonames,1
+3768,dbpedia,3183,freebase,1
+3768,dbpedia,7095,geonames,1
+3183,freebase,7095,geonames,1
+545,geonames,1371,freebase,1
+545,geonames,2951,dbpedia,1
+545,geonames,544,new york times,1
+1371,freebase,2951,dbpedia,1
+1371,freebase,544,new york times,1
+2951,dbpedia,544,new york times,1
+3572,dbpedia,3114,freebase,1
+3572,dbpedia,7426,geonames,1
+3572,dbpedia,3113,new york times,1
+3114,freebase,7426,geonames,1
+3114,freebase,3113,new york times,1
+7426,geonames,3113,new york times,1
+6387,dbpedia,1997,new york times,1
+6387,dbpedia,7559,ambiguity-generator,1
+6387,dbpedia,1998,freebase,1
+6387,dbpedia,4621,geonames,1
+1997,new york times,7559,ambiguity-generator,1
+1997,new york times,1998,freebase,1
+1997,new york times,4621,geonames,1
+7559,ambiguity-generator,1998,freebase,1
+7559,ambiguity-generator,4621,geonames,1
+1998,freebase,4621,geonames,1
+7559,ambiguity-generator,2283,new york times,1
+686,freebase,3696,dbpedia,1
+686,freebase,685,new york times,1
+686,freebase,6283,geonames,1
+3696,dbpedia,685,new york times,1
+3696,dbpedia,6283,geonames,1
+685,new york times,6283,geonames,1
+281,dbpedia,280,new york times,1
+281,dbpedia,3066,freebase,1
+281,dbpedia,1244,geonames,1
+280,new york times,3066,freebase,1
+280,new york times,1244,geonames,1
+3066,freebase,1244,geonames,1
+2081,dbpedia,1846,new york times,1
+2081,dbpedia,1847,geonames,1
+2081,dbpedia,2424,freebase,1
+1846,new york times,1847,geonames,1
+1846,new york times,2424,freebase,1
+1847,geonames,2424,freebase,1
+4546,dbpedia,4545,new york times,1
+4546,dbpedia,5634,geonames,1
+4546,dbpedia,5602,freebase,1
+4545,new york times,5634,geonames,1
+4545,new york times,5602,freebase,1
+5634,geonames,5602,freebase,1
+4357,geonames,5973,freebase,1
+4357,geonames,4356,new york times,1
+4357,geonames,6573,dbpedia,1
+5973,freebase,4356,new york times,1
+5973,freebase,6573,dbpedia,1
+4356,new york times,6573,dbpedia,1
+2480,dbpedia,1021,new york times,1
+2480,dbpedia,5100,freebase,1
+2480,dbpedia,1022,geonames,1
+1021,new york times,5100,freebase,1
+1021,new york times,1022,geonames,1
+5100,freebase,1022,geonames,1
+7392,geonames,4710,dbpedia,1
+7392,geonames,3443,new york times,1
+7392,geonames,3444,freebase,1
+7392,geonames,7560,ambiguity-generator,1
+4710,dbpedia,3443,new york times,1
+4710,dbpedia,3444,freebase,1
+4710,dbpedia,7560,ambiguity-generator,1
+3443,new york times,3444,freebase,1
+3443,new york times,7560,ambiguity-generator,1
+3444,freebase,7560,ambiguity-generator,1
+7560,ambiguity-generator,7379,geonames,1
+515,geonames,219,dbpedia,1
+515,geonames,218,new york times,1
+515,geonames,6191,freebase,1
+219,dbpedia,218,new york times,1
+219,dbpedia,6191,freebase,1
+218,new york times,6191,freebase,1
+7369,freebase,2685,new york times,1
+7369,freebase,2686,dbpedia,1
+7369,freebase,4766,geonames,1
+2685,new york times,2686,dbpedia,1
+2685,new york times,4766,geonames,1
+2686,dbpedia,4766,geonames,1
+5762,dbpedia,150,new york times,1
+5762,dbpedia,6658,geonames,1
+150,new york times,6658,geonames,1
+5486,geonames,5485,new york times,1
+5486,geonames,5726,dbpedia,1
+5486,geonames,6886,freebase,1
+5485,new york times,5726,dbpedia,1
+5485,new york times,6886,freebase,1
+5726,dbpedia,6886,freebase,1
+1879,geonames,1878,new york times,1
+1879,geonames,7561,ambiguity-generator,1
+1879,geonames,7175,freebase,1
+1879,geonames,7417,dbpedia,1
+1878,new york times,7561,ambiguity-generator,1
+1878,new york times,7175,freebase,1
+1878,new york times,7417,dbpedia,1
+7561,ambiguity-generator,7175,freebase,1
+7561,ambiguity-generator,7417,dbpedia,1
+7175,freebase,7417,dbpedia,1
+7561,ambiguity-generator,2487,dbpedia,1
+3436,geonames,6641,freebase,1
+3436,geonames,1887,dbpedia,1
+3436,geonames,1886,new york times,1
+6641,freebase,1887,dbpedia,1
+6641,freebase,1886,new york times,1
+1887,dbpedia,1886,new york times,1
+7180,geonames,3369,freebase,1
+7180,geonames,6878,dbpedia,1
+7180,geonames,3368,new york times,1
+3369,freebase,6878,dbpedia,1
+3369,freebase,3368,new york times,1
+6878,dbpedia,3368,new york times,1
+573,new york times,2961,freebase,1
+573,new york times,4277,geonames,1
+573,new york times,574,dbpedia,1
+2961,freebase,4277,geonames,1
+2961,freebase,574,dbpedia,1
+4277,geonames,574,dbpedia,1
+2139,freebase,5831,dbpedia,1
+2139,freebase,2234,geonames,1
+2139,freebase,2138,new york times,1
+5831,dbpedia,2234,geonames,1
+5831,dbpedia,2138,new york times,1
+2234,geonames,2138,new york times,1
+2174,freebase,149,dbpedia,1
+2174,freebase,148,new york times,1
+2174,freebase,7528,geonames,1
+149,dbpedia,148,new york times,1
+149,dbpedia,7528,geonames,1
+148,new york times,7528,geonames,1
+4121,freebase,3774,dbpedia,1
+5592,freebase,6282,dbpedia,1
+5592,freebase,5591,new york times,1
+5592,freebase,7089,geonames,1
+6282,dbpedia,5591,new york times,1
+6282,dbpedia,7089,geonames,1
+5591,new york times,7089,geonames,1
+2136,geonames,7405,dbpedia,1
+2136,geonames,157,freebase,1
+2136,geonames,7562,ambiguity-generator,1
+2136,geonames,156,new york times,1
+7405,dbpedia,157,freebase,1
+7405,dbpedia,7562,ambiguity-generator,1
+7405,dbpedia,156,new york times,1
+157,freebase,7562,ambiguity-generator,1
+157,freebase,156,new york times,1
+7562,ambiguity-generator,156,new york times,1
+7562,ambiguity-generator,4652,geonames,1
+5175,new york times,6106,geonames,1
+5175,new york times,5176,freebase,1
+6106,geonames,5176,freebase,1
+5,dbpedia,4,new york times,1
+5,dbpedia,6557,geonames,1
+5,dbpedia,2911,freebase,1
+4,new york times,6557,geonames,1
+4,new york times,2911,freebase,1
+6557,geonames,2911,freebase,1
+5293,freebase,325,dbpedia,1
+5293,freebase,324,new york times,1
+5293,freebase,1094,geonames,1
+325,dbpedia,324,new york times,1
+325,dbpedia,1094,geonames,1
+324,new york times,1094,geonames,1
+6195,dbpedia,7563,ambiguity-generator,1
+6195,dbpedia,4475,freebase,1
+6195,dbpedia,4070,new york times,1
+6195,dbpedia,4071,geonames,1
+7563,ambiguity-generator,4475,freebase,1
+7563,ambiguity-generator,4070,new york times,1
+7563,ambiguity-generator,4071,geonames,1
+4475,freebase,4070,new york times,1
+4475,freebase,4071,geonames,1
+4070,new york times,4071,geonames,1
+7563,ambiguity-generator,5603,geonames,1
+448,new york times,449,dbpedia,1
+448,new york times,6768,geonames,1
+448,new york times,4595,freebase,1
+449,dbpedia,6768,geonames,1
+449,dbpedia,4595,freebase,1
+6768,geonames,4595,freebase,1
+4997,new york times,4998,dbpedia,1
+4997,new york times,5710,freebase,1
+4997,new york times,6063,geonames,1
+4998,dbpedia,5710,freebase,1
+4998,dbpedia,6063,geonames,1
+5710,freebase,6063,geonames,1
+6539,dbpedia,6538,new york times,1
+6539,dbpedia,7020,geonames,1
+6539,dbpedia,7057,freebase,1
+6538,new york times,7020,geonames,1
+6538,new york times,7057,freebase,1
+7020,geonames,7057,freebase,1
+1465,geonames,619,new york times,1
+1465,geonames,620,freebase,1
+1465,geonames,1060,dbpedia,1
+619,new york times,620,freebase,1
+619,new york times,1060,dbpedia,1
+620,freebase,1060,dbpedia,1
+1921,geonames,4194,dbpedia,1
+1921,geonames,1920,new york times,1
+1921,geonames,5924,freebase,1
+4194,dbpedia,1920,new york times,1
+4194,dbpedia,5924,freebase,1
+1920,new york times,5924,freebase,1
+6942,dbpedia,950,geonames,1
+6942,dbpedia,949,new york times,1
+6942,dbpedia,4847,freebase,1
+950,geonames,949,new york times,1
+950,geonames,4847,freebase,1
+949,new york times,4847,freebase,1
+3311,geonames,2864,dbpedia,1
+3311,geonames,2863,new york times,1
+3311,geonames,6981,freebase,1
+2864,dbpedia,2863,new york times,1
+2864,dbpedia,6981,freebase,1
+2863,new york times,6981,freebase,1
+5537,geonames,3257,freebase,1
+5537,geonames,3256,new york times,1
+5537,geonames,5037,dbpedia,1
+3257,freebase,3256,new york times,1
+3257,freebase,5037,dbpedia,1
+3256,new york times,5037,dbpedia,1
+7196,geonames,4142,freebase,1
+7196,geonames,4141,new york times,1
+7196,geonames,6923,dbpedia,1
+4142,freebase,4141,new york times,1
+4142,freebase,6923,dbpedia,1
+4141,new york times,6923,dbpedia,1
+2986,geonames,5031,freebase,1
+2986,geonames,712,dbpedia,1
+2986,geonames,711,new york times,1
+5031,freebase,712,dbpedia,1
+5031,freebase,711,new york times,1
+712,dbpedia,711,new york times,1
+6547,freebase,1091,geonames,1
+6547,freebase,2150,dbpedia,1
+6547,freebase,1090,new york times,1
+1091,geonames,2150,dbpedia,1
+1091,geonames,1090,new york times,1
+2150,dbpedia,1090,new york times,1
+537,freebase,2663,geonames,1
+537,freebase,536,new york times,1
+537,freebase,6112,dbpedia,1
+2663,geonames,536,new york times,1
+2663,geonames,6112,dbpedia,1
+536,new york times,6112,dbpedia,1
+5739,freebase,3544,new york times,1
+5739,freebase,3545,geonames,1
+5739,freebase,6123,dbpedia,1
+3544,new york times,3545,geonames,1
+3544,new york times,6123,dbpedia,1
+3545,geonames,6123,dbpedia,1
+6965,dbpedia,2674,freebase,1
+6965,dbpedia,3301,geonames,1
+6965,dbpedia,2673,new york times,1
+2674,freebase,3301,geonames,1
+2674,freebase,2673,new york times,1
+3301,geonames,2673,new york times,1
+5415,geonames,1206,dbpedia,1
+5415,geonames,1205,new york times,1
+1206,dbpedia,1205,new york times,1
+2753,new york times,4435,geonames,1
+2753,new york times,6741,dbpedia,1
+2753,new york times,2754,freebase,1
+4435,geonames,6741,dbpedia,1
+4435,geonames,2754,freebase,1
+6741,dbpedia,2754,freebase,1
+1965,dbpedia,1964,new york times,1
+1965,dbpedia,6702,geonames,1
+1965,dbpedia,6137,freebase,1
+1964,new york times,6702,geonames,1
+1964,new york times,6137,freebase,1
+6702,geonames,6137,freebase,1
+4222,freebase,4221,new york times,1
+4222,freebase,7564,ambiguity-generator,1
+4222,freebase,5572,dbpedia,1
+4222,freebase,6303,geonames,1
+4221,new york times,7564,ambiguity-generator,1
+4221,new york times,5572,dbpedia,1
+4221,new york times,6303,geonames,1
+7564,ambiguity-generator,5572,dbpedia,1
+7564,ambiguity-generator,6303,geonames,1
+5572,dbpedia,6303,geonames,1
+7564,ambiguity-generator,7101,geonames,1
+5252,geonames,5467,dbpedia,1
+5252,geonames,3787,new york times,1
+5252,geonames,3788,freebase,1
+5467,dbpedia,3787,new york times,1
+5467,dbpedia,3788,freebase,1
+3787,new york times,3788,freebase,1
+4091,dbpedia,4662,freebase,1
+4091,dbpedia,6082,geonames,1
+4091,dbpedia,4090,new york times,1
+4662,freebase,6082,geonames,1
+4662,freebase,4090,new york times,1
+6082,geonames,4090,new york times,1
+4492,freebase,937,new york times,1
+4492,freebase,938,dbpedia,1
+4492,freebase,5751,geonames,1
+937,new york times,938,dbpedia,1
+937,new york times,5751,geonames,1
+938,dbpedia,5751,geonames,1
+5049,dbpedia,283,freebase,1
+5049,dbpedia,6975,geonames,1
+5049,dbpedia,282,new york times,1
+283,freebase,6975,geonames,1
+283,freebase,282,new york times,1
+6975,geonames,282,new york times,1
+1327,new york times,1328,geonames,1
+1327,new york times,1500,freebase,1
+1327,new york times,3555,dbpedia,1
+1328,geonames,1500,freebase,1
+1328,geonames,3555,dbpedia,1
+1500,freebase,3555,dbpedia,1
+2905,new york times,5548,geonames,1
+2905,new york times,7073,dbpedia,1
+2905,new york times,2906,freebase,1
+5548,geonames,7073,dbpedia,1
+5548,geonames,2906,freebase,1
+7073,dbpedia,2906,freebase,1
+3995,freebase,3994,new york times,1
+3995,freebase,5737,geonames,1
+3995,freebase,6107,dbpedia,1
+3994,new york times,5737,geonames,1
+3994,new york times,6107,dbpedia,1
+5737,geonames,6107,dbpedia,1
+892,geonames,3317,freebase,1
+892,geonames,579,new york times,1
+892,geonames,580,dbpedia,1
+3317,freebase,579,new york times,1
+3317,freebase,580,dbpedia,1
+579,new york times,580,dbpedia,1
+5912,freebase,2987,new york times,1
+5912,freebase,2988,geonames,1
+5912,freebase,7233,dbpedia,1
+2987,new york times,2988,geonames,1
+2987,new york times,7233,dbpedia,1
+2988,geonames,7233,dbpedia,1
+6894,dbpedia,6643,geonames,1
+6894,dbpedia,7267,freebase,1
+6894,dbpedia,6642,new york times,1
+6643,geonames,7267,freebase,1
+6643,geonames,6642,new york times,1
+7267,freebase,6642,new york times,1
+743,freebase,742,new york times,1
+743,freebase,2367,dbpedia,1
+743,freebase,2142,geonames,1
+742,new york times,2367,dbpedia,1
+742,new york times,2142,geonames,1
+2367,dbpedia,2142,geonames,1
+3702,freebase,1471,geonames,1
+3702,freebase,7381,dbpedia,1
+3702,freebase,1470,new york times,1
+1471,geonames,7381,dbpedia,1
+1471,geonames,1470,new york times,1
+7381,dbpedia,1470,new york times,1
+203,freebase,4262,geonames,1
+203,freebase,202,new york times,1
+203,freebase,3485,dbpedia,1
+4262,geonames,202,new york times,1
+4262,geonames,3485,dbpedia,1
+202,new york times,3485,dbpedia,1
+3445,new york times,3446,geonames,1
+3445,new york times,4689,dbpedia,1
+3445,new york times,6134,freebase,1
+3446,geonames,4689,dbpedia,1
+3446,geonames,6134,freebase,1
+4689,dbpedia,6134,freebase,1
+874,freebase,7487,dbpedia,1
+874,freebase,4298,geonames,1
+874,freebase,873,new york times,1
+7487,dbpedia,4298,geonames,1
+7487,dbpedia,873,new york times,1
+4298,geonames,873,new york times,1
+266,new york times,6990,freebase,1
+266,new york times,267,geonames,1
+266,new york times,7565,ambiguity-generator,1
+266,new york times,1001,dbpedia,1
+6990,freebase,267,geonames,1
+6990,freebase,7565,ambiguity-generator,1
+6990,freebase,1001,dbpedia,1
+267,geonames,7565,ambiguity-generator,1
+267,geonames,1001,dbpedia,1
+7565,ambiguity-generator,1001,dbpedia,1
+7565,ambiguity-generator,1172,geonames,1
+2888,freebase,2887,new york times,1
+2888,freebase,4781,dbpedia,1
+2888,freebase,5603,geonames,1
+2887,new york times,4781,dbpedia,1
+2887,new york times,5603,geonames,1
+4781,dbpedia,5603,geonames,1
+2060,dbpedia,123,freebase,1
+2060,dbpedia,122,new york times,1
+123,freebase,122,new york times,1
+5380,freebase,2164,dbpedia,1
+5380,freebase,7535,geonames,1
+5380,freebase,2163,new york times,1
+2164,dbpedia,7535,geonames,1
+2164,dbpedia,2163,new york times,1
+7535,geonames,2163,new york times,1
+2451,dbpedia,5074,freebase,1
+2451,dbpedia,6717,geonames,1
+2451,dbpedia,2450,new york times,1
+5074,freebase,6717,geonames,1
+5074,freebase,2450,new york times,1
+6717,geonames,2450,new york times,1
+4945,dbpedia,2735,new york times,1
+4945,dbpedia,2736,geonames,1
+4945,dbpedia,5355,freebase,1
+2735,new york times,2736,geonames,1
+2735,new york times,5355,freebase,1
+2736,geonames,5355,freebase,1
+4282,dbpedia,7512,freebase,1
+4282,dbpedia,4100,geonames,1
+4282,dbpedia,4099,new york times,1
+7512,freebase,4100,geonames,1
+7512,freebase,4099,new york times,1
+4100,geonames,4099,new york times,1
+902,dbpedia,6929,freebase,1
+902,dbpedia,6603,geonames,1
+902,dbpedia,901,new york times,1
+6929,freebase,6603,geonames,1
+6929,freebase,901,new york times,1
+6603,geonames,901,new york times,1
+6688,dbpedia,5929,geonames,1
+6688,dbpedia,4111,freebase,1
+6688,dbpedia,4110,new york times,1
+5929,geonames,4111,freebase,1
+5929,geonames,4110,new york times,1
+4111,freebase,4110,new york times,1
+2123,dbpedia,7477,geonames,1
+2123,dbpedia,2122,new york times,1
+2123,dbpedia,7342,freebase,1
+7477,geonames,2122,new york times,1
+7477,geonames,7342,freebase,1
+2122,new york times,7342,freebase,1
+4337,dbpedia,7174,freebase,1
+2657,freebase,2656,new york times,1
+2657,freebase,4374,dbpedia,1
+2657,freebase,7221,geonames,1
+2656,new york times,4374,dbpedia,1
+2656,new york times,7221,geonames,1
+4374,dbpedia,7221,geonames,1
+4018,new york times,5883,dbpedia,1
+4018,new york times,7043,freebase,1
+4018,new york times,4019,geonames,1
+5883,dbpedia,7043,freebase,1
+5883,dbpedia,4019,geonames,1
+7043,freebase,4019,geonames,1
+3265,dbpedia,3264,new york times,1
+3265,dbpedia,4876,geonames,1
+3264,new york times,4876,geonames,1
+472,new york times,473,geonames,1
+472,new york times,6989,freebase,1
+472,new york times,2678,dbpedia,1
+473,geonames,6989,freebase,1
+473,geonames,2678,dbpedia,1
+6989,freebase,2678,dbpedia,1
+6051,geonames,2325,freebase,1
+6051,geonames,3887,dbpedia,1
+6051,geonames,7566,ambiguity-generator,1
+6051,geonames,2324,new york times,1
+2325,freebase,3887,dbpedia,1
+2325,freebase,7566,ambiguity-generator,1
+2325,freebase,2324,new york times,1
+3887,dbpedia,7566,ambiguity-generator,1
+3887,dbpedia,2324,new york times,1
+7566,ambiguity-generator,2324,new york times,1
+7566,ambiguity-generator,7098,dbpedia,1
+6745,dbpedia,7567,ambiguity-generator,1
+6745,dbpedia,6,new york times,1
+6745,dbpedia,7,geonames,1
+6745,dbpedia,6285,freebase,1
+7567,ambiguity-generator,6,new york times,1
+7567,ambiguity-generator,7,geonames,1
+7567,ambiguity-generator,6285,freebase,1
+6,new york times,7,geonames,1
+6,new york times,6285,freebase,1
+7,geonames,6285,freebase,1
+7567,ambiguity-generator,4455,new york times,1
+3518,dbpedia,3517,new york times,1
+3518,dbpedia,4857,freebase,1
+3517,new york times,4857,freebase,1
+5649,freebase,3804,new york times,1
+5649,freebase,4706,geonames,1
+5649,freebase,3805,dbpedia,1
+5649,freebase,7568,ambiguity-generator,1
+3804,new york times,4706,geonames,1
+3804,new york times,3805,dbpedia,1
+3804,new york times,7568,ambiguity-generator,1
+4706,geonames,3805,dbpedia,1
+4706,geonames,7568,ambiguity-generator,1
+3805,dbpedia,7568,ambiguity-generator,1
+7568,ambiguity-generator,4423,geonames,1
+3225,geonames,3224,new york times,1
+7351,dbpedia,171,geonames,1
+7351,dbpedia,170,new york times,1
+7351,dbpedia,1240,freebase,1
+171,geonames,170,new york times,1
+171,geonames,1240,freebase,1
+170,new york times,1240,freebase,1
+6300,freebase,2226,new york times,1
+6300,freebase,4531,geonames,1
+6300,freebase,2227,dbpedia,1
+2226,new york times,4531,geonames,1
+2226,new york times,2227,dbpedia,1
+4531,geonames,2227,dbpedia,1
+3412,freebase,5759,dbpedia,1
+3412,freebase,2999,new york times,1
+3412,freebase,7569,ambiguity-generator,1
+3412,freebase,3000,geonames,1
+5759,dbpedia,2999,new york times,1
+5759,dbpedia,7569,ambiguity-generator,1
+5759,dbpedia,3000,geonames,1
+2999,new york times,7569,ambiguity-generator,1
+2999,new york times,3000,geonames,1
+7569,ambiguity-generator,3000,geonames,1
+7569,ambiguity-generator,5177,geonames,1
+51,dbpedia,6798,freebase,1
+51,dbpedia,2069,geonames,1
+51,dbpedia,50,new york times,1
+6798,freebase,2069,geonames,1
+6798,freebase,50,new york times,1
+2069,geonames,50,new york times,1
+3734,dbpedia,3733,new york times,1
+3734,dbpedia,6346,geonames,1
+3734,dbpedia,4451,freebase,1
+3733,new york times,6346,geonames,1
+3733,new york times,4451,freebase,1
+6346,geonames,4451,freebase,1
+5233,dbpedia,1359,new york times,1
+5233,dbpedia,1360,freebase,1
+5233,dbpedia,2981,geonames,1
+1359,new york times,1360,freebase,1
+1359,new york times,2981,geonames,1
+1360,freebase,2981,geonames,1
+6008,geonames,1690,new york times,1
+6008,geonames,1691,freebase,1
+6008,geonames,3511,dbpedia,1
+1690,new york times,1691,freebase,1
+1690,new york times,3511,dbpedia,1
+1691,freebase,3511,dbpedia,1
+5945,freebase,2908,geonames,1
+5945,freebase,4632,dbpedia,1
+5945,freebase,2907,new york times,1
+2908,geonames,4632,dbpedia,1
+2908,geonames,2907,new york times,1
+4632,dbpedia,2907,new york times,1
+3167,dbpedia,4272,freebase,1
+3167,dbpedia,3166,new york times,1
+3167,dbpedia,5142,geonames,1
+4272,freebase,3166,new york times,1
+4272,freebase,5142,geonames,1
+3166,new york times,5142,geonames,1
+7197,freebase,5688,dbpedia,1
+7467,dbpedia,3847,freebase,1
+7231,geonames,6794,freebase,1
+7231,geonames,4254,new york times,1
+7231,geonames,4255,dbpedia,1
+6794,freebase,4254,new york times,1
+6794,freebase,4255,dbpedia,1
+4254,new york times,4255,dbpedia,1
+7343,geonames,445,dbpedia,1
+7343,geonames,444,new york times,1
+7343,geonames,7081,freebase,1
+445,dbpedia,444,new york times,1
+445,dbpedia,7081,freebase,1
+444,new york times,7081,freebase,1
+3428,freebase,3136,new york times,1
+4449,dbpedia,6480,geonames,1
+4449,dbpedia,6380,freebase,1
+4449,dbpedia,4448,new york times,1
+6480,geonames,6380,freebase,1
+6480,geonames,4448,new york times,1
+6380,freebase,4448,new york times,1
+5331,freebase,3335,new york times,1
+5331,freebase,7570,ambiguity-generator,1
+5331,freebase,6507,geonames,1
+5331,freebase,3336,dbpedia,1
+3335,new york times,7570,ambiguity-generator,1
+3335,new york times,6507,geonames,1
+3335,new york times,3336,dbpedia,1
+7570,ambiguity-generator,6507,geonames,1
+7570,ambiguity-generator,3336,dbpedia,1
+6507,geonames,3336,dbpedia,1
+7570,ambiguity-generator,1767,dbpedia,1
+3291,new york times,3292,freebase,1
+3291,new york times,3337,geonames,1
+3291,new york times,7187,dbpedia,1
+3292,freebase,3337,geonames,1
+3292,freebase,7187,dbpedia,1
+3337,geonames,7187,dbpedia,1
+6266,freebase,3234,dbpedia,1
+6266,freebase,5235,geonames,1
+6266,freebase,3233,new york times,1
+3234,dbpedia,5235,geonames,1
+3234,dbpedia,3233,new york times,1
+5235,geonames,3233,new york times,1
+6604,geonames,5821,freebase,1
+6604,geonames,2968,dbpedia,1
+6604,geonames,2967,new york times,1
+5821,freebase,2968,dbpedia,1
+5821,freebase,2967,new york times,1
+2968,dbpedia,2967,new york times,1
+1062,new york times,2209,geonames,1
+1062,new york times,4362,dbpedia,1
+1062,new york times,1063,freebase,1
+2209,geonames,4362,dbpedia,1
+2209,geonames,1063,freebase,1
+4362,dbpedia,1063,freebase,1
+3007,freebase,491,dbpedia,1
+3007,freebase,490,new york times,1
+3007,freebase,6408,geonames,1
+491,dbpedia,490,new york times,1
+491,dbpedia,6408,geonames,1
+490,new york times,6408,geonames,1
+2253,dbpedia,87,geonames,1
+2253,dbpedia,86,new york times,1
+2253,dbpedia,2249,freebase,1
+87,geonames,86,new york times,1
+87,geonames,2249,freebase,1
+86,new york times,2249,freebase,1
+4519,dbpedia,1171,new york times,1
+4519,dbpedia,7571,ambiguity-generator,1
+4519,dbpedia,1172,geonames,1
+1171,new york times,7571,ambiguity-generator,1
+1171,new york times,1172,geonames,1
+7571,ambiguity-generator,1172,geonames,1
+7571,ambiguity-generator,484,new york times,1
+430,dbpedia,429,new york times,1
+430,dbpedia,6217,freebase,1
+430,dbpedia,609,geonames,1
+429,new york times,6217,freebase,1
+429,new york times,609,geonames,1
+6217,freebase,609,geonames,1
+492,new york times,493,dbpedia,1
+492,new york times,1243,geonames,1
+492,new york times,6915,freebase,1
+493,dbpedia,1243,geonames,1
+493,dbpedia,6915,freebase,1
+1243,geonames,6915,freebase,1
+6119,freebase,1792,new york times,1
+6119,freebase,7388,dbpedia,1
+6119,freebase,1793,geonames,1
+1792,new york times,7388,dbpedia,1
+1792,new york times,1793,geonames,1
+7388,dbpedia,1793,geonames,1
+7052,freebase,5096,new york times,1
+7052,freebase,5848,dbpedia,1
+7052,freebase,5097,geonames,1
+5096,new york times,5848,dbpedia,1
+5096,new york times,5097,geonames,1
+5848,dbpedia,5097,geonames,1
+5619,geonames,4006,new york times,1
+5619,geonames,4007,dbpedia,1
+5619,geonames,4209,freebase,1
+4006,new york times,4007,dbpedia,1
+4006,new york times,4209,freebase,1
+4007,dbpedia,4209,freebase,1
+4653,geonames,6559,dbpedia,1
+4653,geonames,682,new york times,1
+4653,geonames,683,freebase,1
+6559,dbpedia,682,new york times,1
+6559,dbpedia,683,freebase,1
+682,new york times,683,freebase,1
+4022,freebase,983,dbpedia,1
+4022,freebase,4041,geonames,1
+4022,freebase,982,new york times,1
+983,dbpedia,4041,geonames,1
+983,dbpedia,982,new york times,1
+4041,geonames,982,new york times,1
+1184,new york times,2343,freebase,1
+1184,new york times,5712,dbpedia,1
+1184,new york times,1185,geonames,1
+2343,freebase,5712,dbpedia,1
+2343,freebase,1185,geonames,1
+5712,dbpedia,1185,geonames,1
+7277,freebase,7262,geonames,1
+7277,freebase,7082,new york times,1
+7277,freebase,7083,dbpedia,1
+7262,geonames,7082,new york times,1
+7262,geonames,7083,dbpedia,1
+7082,new york times,7083,dbpedia,1
+2794,geonames,2707,freebase,1
+2794,geonames,6549,dbpedia,1
+2794,geonames,2706,new york times,1
+2707,freebase,6549,dbpedia,1
+2707,freebase,2706,new york times,1
+6549,dbpedia,2706,new york times,1
+7098,dbpedia,4926,new york times,1
+7098,dbpedia,7572,ambiguity-generator,1
+7098,dbpedia,4927,geonames,1
+7098,dbpedia,6260,freebase,1
+4926,new york times,7572,ambiguity-generator,1
+4926,new york times,4927,geonames,1
+4926,new york times,6260,freebase,1
+7572,ambiguity-generator,4927,geonames,1
+7572,ambiguity-generator,6260,freebase,1
+4927,geonames,6260,freebase,1
+7572,ambiguity-generator,3784,new york times,1
+30,new york times,7148,dbpedia,1
+30,new york times,3861,freebase,1
+30,new york times,31,geonames,1
+7148,dbpedia,3861,freebase,1
+7148,dbpedia,31,geonames,1
+3861,freebase,31,geonames,1
+5494,dbpedia,232,new york times,1
+5494,dbpedia,233,geonames,1
+5494,dbpedia,5884,freebase,1
+232,new york times,233,geonames,1
+232,new york times,5884,freebase,1
+233,geonames,5884,freebase,1
+2597,freebase,7218,geonames,1
+2597,freebase,2596,new york times,1
+2597,freebase,6014,dbpedia,1
+7218,geonames,2596,new york times,1
+7218,geonames,6014,dbpedia,1
+2596,new york times,6014,dbpedia,1
+6336,freebase,393,geonames,1
+6336,freebase,392,new york times,1
+6336,freebase,4801,dbpedia,1
+393,geonames,392,new york times,1
+393,geonames,4801,dbpedia,1
+392,new york times,4801,dbpedia,1
+167,dbpedia,1525,geonames,1
+167,dbpedia,166,new york times,1
+167,dbpedia,6511,freebase,1
+1525,geonames,166,new york times,1
+1525,geonames,6511,freebase,1
+166,new york times,6511,freebase,1
+2692,geonames,6974,freebase,1
+2692,geonames,4773,dbpedia,1
+2692,geonames,2691,new york times,1
+6974,freebase,4773,dbpedia,1
+6974,freebase,2691,new york times,1
+4773,dbpedia,2691,new york times,1
+5141,dbpedia,4862,new york times,1
+5141,dbpedia,7433,geonames,1
+5141,dbpedia,4863,freebase,1
+5141,dbpedia,7573,ambiguity-generator,1
+4862,new york times,7433,geonames,1
+4862,new york times,4863,freebase,1
+4862,new york times,7573,ambiguity-generator,1
+7433,geonames,4863,freebase,1
+7433,geonames,7573,ambiguity-generator,1
+4863,freebase,7573,ambiguity-generator,1
+7573,ambiguity-generator,3650,geonames,1
+6977,freebase,4471,dbpedia,1
+6977,freebase,1923,geonames,1
+6977,freebase,1922,new york times,1
+4471,dbpedia,1923,geonames,1
+4471,dbpedia,1922,new york times,1
+1923,geonames,1922,new york times,1
+5446,dbpedia,7574,ambiguity-generator,1
+5446,dbpedia,4423,geonames,1
+5446,dbpedia,7048,freebase,1
+5446,dbpedia,5445,new york times,1
+7574,ambiguity-generator,4423,geonames,1
+7574,ambiguity-generator,7048,freebase,1
+7574,ambiguity-generator,5445,new york times,1
+4423,geonames,7048,freebase,1
+4423,geonames,5445,new york times,1
+7048,freebase,5445,new york times,1
+7574,ambiguity-generator,4422,new york times,1
+3031,geonames,3030,new york times,1
+3031,geonames,4601,freebase,1
+3031,geonames,3381,dbpedia,1
+3030,new york times,4601,freebase,1
+3030,new york times,3381,dbpedia,1
+4601,freebase,3381,dbpedia,1
+3690,freebase,5864,geonames,1
+3690,freebase,6220,dbpedia,1
+3690,freebase,3689,new york times,1
+5864,geonames,6220,dbpedia,1
+5864,geonames,3689,new york times,1
+6220,dbpedia,3689,new york times,1
+6052,freebase,2815,dbpedia,1
+6052,freebase,791,geonames,1
+6052,freebase,790,new york times,1
+2815,dbpedia,791,geonames,1
+2815,dbpedia,790,new york times,1
+791,geonames,790,new york times,1
+2676,freebase,7449,geonames,1
+2676,freebase,2675,new york times,1
+2676,freebase,6673,dbpedia,1
+7449,geonames,2675,new york times,1
+7449,geonames,6673,dbpedia,1
+2675,new york times,6673,dbpedia,1
+3189,dbpedia,3188,new york times,1
+3189,dbpedia,3457,geonames,1
+3189,dbpedia,6232,freebase,1
+3188,new york times,3457,geonames,1
+3188,new york times,6232,freebase,1
+3457,geonames,6232,freebase,1
+3365,dbpedia,6073,freebase,1
+3365,dbpedia,193,geonames,1
+3365,dbpedia,192,new york times,1
+6073,freebase,193,geonames,1
+6073,freebase,192,new york times,1
+193,geonames,192,new york times,1
+7058,geonames,62,new york times,1
+7058,geonames,63,freebase,1
+7058,geonames,5664,dbpedia,1
+62,new york times,63,freebase,1
+62,new york times,5664,dbpedia,1
+63,freebase,5664,dbpedia,1
+342,geonames,341,new york times,1
+342,geonames,4502,freebase,1
+342,geonames,3427,dbpedia,1
+341,new york times,4502,freebase,1
+341,new york times,3427,dbpedia,1
+4502,freebase,3427,dbpedia,1
+2513,freebase,6776,dbpedia,1
+5829,freebase,1689,geonames,1
+5829,freebase,1688,new york times,1
+5829,freebase,3671,dbpedia,1
+1689,geonames,1688,new york times,1
+1689,geonames,3671,dbpedia,1
+1688,new york times,3671,dbpedia,1
+702,geonames,1075,freebase,1
+702,geonames,3282,dbpedia,1
+702,geonames,701,new york times,1
+1075,freebase,3282,dbpedia,1
+1075,freebase,701,new york times,1
+3282,dbpedia,701,new york times,1
+2041,geonames,2040,new york times,1
+2041,geonames,2715,dbpedia,1
+2040,new york times,2715,dbpedia,1
+627,new york times,628,freebase,1
+627,new york times,4097,dbpedia,1
+627,new york times,7182,geonames,1
+628,freebase,4097,dbpedia,1
+628,freebase,7182,geonames,1
+4097,dbpedia,7182,geonames,1
+6354,dbpedia,5185,freebase,1
+6354,dbpedia,7575,ambiguity-generator,1
+6354,dbpedia,4723,geonames,1
+6354,dbpedia,4722,new york times,1
+5185,freebase,7575,ambiguity-generator,1
+5185,freebase,4723,geonames,1
+5185,freebase,4722,new york times,1
+7575,ambiguity-generator,4723,geonames,1
+7575,ambiguity-generator,4722,new york times,1
+4723,geonames,4722,new york times,1
+7575,ambiguity-generator,2721,geonames,1
+2475,dbpedia,2474,new york times,1
+2475,dbpedia,5427,freebase,1
+2475,dbpedia,3175,geonames,1
+2474,new york times,5427,freebase,1
+2474,new york times,3175,geonames,1
+5427,freebase,3175,geonames,1
+5002,new york times,6895,geonames,1
+5002,new york times,6209,dbpedia,1
+5002,new york times,5003,freebase,1
+6895,geonames,6209,dbpedia,1
+6895,geonames,5003,freebase,1
+6209,dbpedia,5003,freebase,1
+3483,geonames,3482,new york times,1
+3483,geonames,6484,freebase,1
+3483,geonames,6394,dbpedia,1
+3482,new york times,6484,freebase,1
+3482,new york times,6394,dbpedia,1
+6484,freebase,6394,dbpedia,1
+940,geonames,1947,freebase,1
+940,geonames,3519,dbpedia,1
+940,geonames,939,new york times,1
+1947,freebase,3519,dbpedia,1
+1947,freebase,939,new york times,1
+3519,dbpedia,939,new york times,1
+6007,geonames,2141,dbpedia,1
+6007,geonames,2140,new york times,1
+6007,geonames,3989,freebase,1
+2141,dbpedia,2140,new york times,1
+2141,dbpedia,3989,freebase,1
+2140,new york times,3989,freebase,1
+4833,geonames,4695,freebase,1
+4833,geonames,405,dbpedia,1
+4833,geonames,404,new york times,1
+4695,freebase,405,dbpedia,1
+4695,freebase,404,new york times,1
+405,dbpedia,404,new york times,1
+3456,geonames,3383,dbpedia,1
+3456,geonames,811,new york times,1
+3383,dbpedia,811,new york times,1
+4421,geonames,6256,freebase,1
+4421,geonames,774,dbpedia,1
+4421,geonames,773,new york times,1
+6256,freebase,774,dbpedia,1
+6256,freebase,773,new york times,1
+774,dbpedia,773,new york times,1
+2283,new york times,4101,dbpedia,1
+2283,new york times,2284,freebase,1
+2283,new york times,5654,geonames,1
+4101,dbpedia,2284,freebase,1
+4101,dbpedia,5654,geonames,1
+2284,freebase,5654,geonames,1
+130,new york times,7047,freebase,1
+130,new york times,131,dbpedia,1
+7047,freebase,131,dbpedia,1
+3151,freebase,3150,new york times,1
+3151,freebase,5747,geonames,1
+3151,freebase,6941,dbpedia,1
+3150,new york times,5747,geonames,1
+3150,new york times,6941,dbpedia,1
+5747,geonames,6941,dbpedia,1
+7308,freebase,323,dbpedia,1
+7308,freebase,372,geonames,1
+7308,freebase,322,new york times,1
+323,dbpedia,372,geonames,1
+323,dbpedia,322,new york times,1
+372,geonames,322,new york times,1
+1013,new york times,1535,dbpedia,1
+1013,new york times,6866,geonames,1
+1013,new york times,1014,freebase,1
+1535,dbpedia,6866,geonames,1
+1535,dbpedia,1014,freebase,1
+6866,geonames,1014,freebase,1
+4058,dbpedia,3587,new york times,1
+4058,dbpedia,6150,geonames,1
+4058,dbpedia,3588,freebase,1
+3587,new york times,6150,geonames,1
+3587,new york times,3588,freebase,1
+6150,geonames,3588,freebase,1
+652,new york times,653,freebase,1
+652,new york times,7390,geonames,1
+652,new york times,3418,dbpedia,1
+653,freebase,7390,geonames,1
+653,freebase,3418,dbpedia,1
+7390,geonames,3418,dbpedia,1
+5876,dbpedia,1198,geonames,1
+5876,dbpedia,7576,ambiguity-generator,1
+5876,dbpedia,2423,freebase,1
+5876,dbpedia,1197,new york times,1
+1198,geonames,7576,ambiguity-generator,1
+1198,geonames,2423,freebase,1
+1198,geonames,1197,new york times,1
+7576,ambiguity-generator,2423,freebase,1
+7576,ambiguity-generator,1197,new york times,1
+2423,freebase,1197,new york times,1
+7576,ambiguity-generator,3475,geonames,1
+7577,ambiguity-generator,4814,dbpedia,1
+7577,ambiguity-generator,6012,freebase,1
+4814,dbpedia,6012,freebase,1
+7577,ambiguity-generator,4417,geonames,1
+5284,freebase,503,geonames,1
+5284,freebase,4152,dbpedia,1
+5284,freebase,7578,ambiguity-generator,1
+5284,freebase,502,new york times,1
+503,geonames,4152,dbpedia,1
+503,geonames,7578,ambiguity-generator,1
+503,geonames,502,new york times,1
+4152,dbpedia,7578,ambiguity-generator,1
+4152,dbpedia,502,new york times,1
+7578,ambiguity-generator,502,new york times,1
+7578,ambiguity-generator,7053,geonames,1
+3784,new york times,6341,geonames,1
+3784,new york times,3785,freebase,1
+3784,new york times,4315,dbpedia,1
+6341,geonames,3785,freebase,1
+6341,geonames,4315,dbpedia,1
+3785,freebase,4315,dbpedia,1
+854,dbpedia,853,new york times,1
+854,dbpedia,7053,geonames,1
+854,dbpedia,3726,freebase,1
+853,new york times,7053,geonames,1
+853,new york times,3726,freebase,1
+7053,geonames,3726,freebase,1
+1067,geonames,1066,new york times,1
+1067,geonames,7255,dbpedia,1
+1067,geonames,4674,freebase,1
+1066,new york times,7255,dbpedia,1
+1066,new york times,4674,freebase,1
+7255,dbpedia,4674,freebase,1
+4455,new york times,5981,dbpedia,1
+4455,new york times,5998,geonames,1
+4455,new york times,4456,freebase,1
+5981,dbpedia,5998,geonames,1
+5981,dbpedia,4456,freebase,1
+5998,geonames,4456,freebase,1
+2331,dbpedia,1773,new york times,1
+2331,dbpedia,3717,freebase,1
+2331,dbpedia,1774,geonames,1
+1773,new york times,3717,freebase,1
+1773,new york times,1774,geonames,1
+3717,freebase,1774,geonames,1
+3744,new york times,5628,geonames,1
+3744,new york times,7517,dbpedia,1
+3744,new york times,3745,freebase,1
+5628,geonames,7517,dbpedia,1
+5628,geonames,3745,freebase,1
+7517,dbpedia,3745,freebase,1
+1174,geonames,1173,new york times,1
+1174,geonames,6830,dbpedia,1
+1174,geonames,2849,freebase,1
+1173,new york times,6830,dbpedia,1
+1173,new york times,2849,freebase,1
+6830,dbpedia,2849,freebase,1
+7412,dbpedia,2104,new york times,1
+7412,dbpedia,6937,freebase,1
+7412,dbpedia,2105,geonames,1
+2104,new york times,6937,freebase,1
+2104,new york times,2105,geonames,1
+6937,freebase,2105,geonames,1
+4151,freebase,5946,geonames,1
+4151,freebase,4150,new york times,1
+4151,freebase,4603,dbpedia,1
+5946,geonames,4150,new york times,1
+5946,geonames,4603,dbpedia,1
+4150,new york times,4603,dbpedia,1
+2530,new york times,3505,dbpedia,1
+2530,new york times,5244,freebase,1
+2530,new york times,2531,geonames,1
+3505,dbpedia,5244,freebase,1
+3505,dbpedia,2531,geonames,1
+5244,freebase,2531,geonames,1
+5184,dbpedia,5183,new york times,1
+5184,dbpedia,5219,freebase,1
+5184,dbpedia,5983,geonames,1
+5183,new york times,5219,freebase,1
+5183,new york times,5983,geonames,1
+5219,freebase,5983,geonames,1
+6902,freebase,1939,geonames,1
+6902,freebase,71,dbpedia,1
+6902,freebase,70,new york times,1
+1939,geonames,71,dbpedia,1
+1939,geonames,70,new york times,1
+71,dbpedia,70,new york times,1
+5575,freebase,6635,geonames,1
+5575,freebase,4302,new york times,1
+5575,freebase,4303,dbpedia,1
+6635,geonames,4302,new york times,1
+6635,geonames,4303,dbpedia,1
+4302,new york times,4303,dbpedia,1
+1436,new york times,1934,freebase,1
+1436,new york times,4186,geonames,1
+1436,new york times,1437,dbpedia,1
+1934,freebase,4186,geonames,1
+1934,freebase,1437,dbpedia,1
+4186,geonames,1437,dbpedia,1
+5346,freebase,508,geonames,1
+5346,freebase,94,new york times,1
+5346,freebase,95,dbpedia,1
+508,geonames,94,new york times,1
+508,geonames,95,dbpedia,1
+94,new york times,95,dbpedia,1
+5800,dbpedia,1811,geonames,1
+5800,dbpedia,1810,new york times,1
+1811,geonames,1810,new york times,1
+5841,dbpedia,2590,geonames,1
+5841,dbpedia,6997,freebase,1
+5841,dbpedia,2589,new york times,1
+2590,geonames,6997,freebase,1
+2590,geonames,2589,new york times,1
+6997,freebase,2589,new york times,1
+111,freebase,110,new york times,1
+111,freebase,5015,geonames,1
+111,freebase,4440,dbpedia,1
+110,new york times,5015,geonames,1
+110,new york times,4440,dbpedia,1
+5015,geonames,4440,dbpedia,1
+2149,dbpedia,1392,geonames,1
+2149,dbpedia,7115,freebase,1
+2149,dbpedia,1391,new york times,1
+1392,geonames,7115,freebase,1
+1392,geonames,1391,new york times,1
+7115,freebase,1391,new york times,1
+2495,new york times,5168,freebase,1
+2495,new york times,5566,dbpedia,1
+2495,new york times,2496,geonames,1
+5168,freebase,5566,dbpedia,1
+5168,freebase,2496,geonames,1
+5566,dbpedia,2496,geonames,1
+241,dbpedia,240,new york times,1
+241,dbpedia,326,freebase,1
+241,dbpedia,3226,geonames,1
+240,new york times,326,freebase,1
+240,new york times,3226,geonames,1
+326,freebase,3226,geonames,1
+5833,freebase,6751,dbpedia,1
+5833,freebase,2066,geonames,1
+5833,freebase,2065,new york times,1
+6751,dbpedia,2066,geonames,1
+6751,dbpedia,2065,new york times,1
+2066,geonames,2065,new york times,1
+3076,new york times,7112,dbpedia,1
+3076,new york times,3077,freebase,1
+3076,new york times,6425,geonames,1
+7112,dbpedia,3077,freebase,1
+7112,dbpedia,6425,geonames,1
+3077,freebase,6425,geonames,1
+2012,geonames,6766,freebase,1
+2012,geonames,2011,new york times,1
+2012,geonames,4350,dbpedia,1
+6766,freebase,2011,new york times,1
+6766,freebase,4350,dbpedia,1
+2011,new york times,4350,dbpedia,1
+3824,dbpedia,5513,geonames,1
+3824,dbpedia,3823,new york times,1
+3824,dbpedia,6317,freebase,1
+5513,geonames,3823,new york times,1
+5513,geonames,6317,freebase,1
+3823,new york times,6317,freebase,1
+6593,geonames,3752,new york times,1
+6593,geonames,3753,dbpedia,1
+3752,new york times,3753,dbpedia,1
+7028,freebase,4816,geonames,1
+7028,freebase,926,dbpedia,1
+7028,freebase,925,new york times,1
+4816,geonames,926,dbpedia,1
+4816,geonames,925,new york times,1
+926,dbpedia,925,new york times,1
+4973,dbpedia,6521,freebase,1
+3382,freebase,1053,dbpedia,1
+3382,freebase,1052,new york times,1
+3382,freebase,5618,geonames,1
+1053,dbpedia,1052,new york times,1
+1053,dbpedia,5618,geonames,1
+1052,new york times,5618,geonames,1
+5165,geonames,461,new york times,1
+3724,dbpedia,3723,new york times,1
+3724,dbpedia,6746,freebase,1
+3724,dbpedia,4589,geonames,1
+3723,new york times,6746,freebase,1
+3723,new york times,4589,geonames,1
+6746,freebase,4589,geonames,1
+1634,freebase,2807,dbpedia,1
+1634,freebase,1633,new york times,1
+1634,freebase,4600,geonames,1
+2807,dbpedia,1633,new york times,1
+2807,dbpedia,4600,geonames,1
+1633,new york times,4600,geonames,1
+5325,geonames,7212,dbpedia,1
+5325,geonames,2892,freebase,1
+5325,geonames,2891,new york times,1
+7212,dbpedia,2892,freebase,1
+7212,dbpedia,2891,new york times,1
+2892,freebase,2891,new york times,1
+5567,freebase,5847,geonames,1
+5567,freebase,4615,dbpedia,1
+5567,freebase,4614,new york times,1
+5847,geonames,4615,dbpedia,1
+5847,geonames,4614,new york times,1
+4615,dbpedia,4614,new york times,1
+4068,dbpedia,906,geonames,1
+4068,dbpedia,6814,freebase,1
+4068,dbpedia,905,new york times,1
+906,geonames,6814,freebase,1
+906,geonames,905,new york times,1
+6814,freebase,905,new york times,1
+3775,dbpedia,3,freebase,1
+3775,dbpedia,5407,geonames,1
+3775,dbpedia,2,new york times,1
+3,freebase,5407,geonames,1
+3,freebase,2,new york times,1
+5407,geonames,2,new york times,1
+3616,new york times,4775,dbpedia,1
+3616,new york times,3617,freebase,1
+3616,new york times,4725,geonames,1
+4775,dbpedia,3617,freebase,1
+4775,dbpedia,4725,geonames,1
+3617,freebase,4725,geonames,1
+6388,dbpedia,215,geonames,1
+6388,dbpedia,214,new york times,1
+6388,dbpedia,5770,freebase,1
+215,geonames,214,new york times,1
+215,geonames,5770,freebase,1
+214,new york times,5770,freebase,1
+1131,geonames,1130,new york times,1
+1131,geonames,5636,freebase,1
+1131,geonames,5091,dbpedia,1
+1130,new york times,5636,freebase,1
+1130,new york times,5091,dbpedia,1
+5636,freebase,5091,dbpedia,1
+3676,freebase,6065,dbpedia,1
+3676,freebase,6293,geonames,1
+3676,freebase,3675,new york times,1
+6065,dbpedia,6293,geonames,1
+6065,dbpedia,3675,new york times,1
+6293,geonames,3675,new york times,1
+5798,freebase,4290,new york times,1
+5798,freebase,5760,geonames,1
+5798,freebase,4291,dbpedia,1
+4290,new york times,5760,geonames,1
+4290,new york times,4291,dbpedia,1
+5760,geonames,4291,dbpedia,1
+5554,freebase,7579,ambiguity-generator,1
+5554,freebase,3714,dbpedia,1
+5554,freebase,4721,geonames,1
+5554,freebase,3713,new york times,1
+7579,ambiguity-generator,3714,dbpedia,1
+7579,ambiguity-generator,4721,geonames,1
+7579,ambiguity-generator,3713,new york times,1
+3714,dbpedia,4721,geonames,1
+3714,dbpedia,3713,new york times,1
+4721,geonames,3713,new york times,1
+7579,ambiguity-generator,1510,geonames,1
+3881,dbpedia,4818,freebase,1
+3881,dbpedia,3880,new york times,1
+3881,dbpedia,4686,geonames,1
+4818,freebase,3880,new york times,1
+4818,freebase,4686,geonames,1
+3880,new york times,4686,geonames,1
+274,new york times,1096,freebase,1
+274,new york times,6564,geonames,1
+274,new york times,275,dbpedia,1
+1096,freebase,6564,geonames,1
+1096,freebase,275,dbpedia,1
+6564,geonames,275,dbpedia,1
+3862,freebase,7580,ambiguity-generator,1
+3862,freebase,1828,new york times,1
+3862,freebase,2510,geonames,1
+3862,freebase,1829,dbpedia,1
+7580,ambiguity-generator,1828,new york times,1
+7580,ambiguity-generator,2510,geonames,1
+7580,ambiguity-generator,1829,dbpedia,1
+1828,new york times,2510,geonames,1
+1828,new york times,1829,dbpedia,1
+2510,geonames,1829,dbpedia,1
+7580,ambiguity-generator,3111,new york times,1
+6290,freebase,3874,geonames,1
+6290,freebase,3873,new york times,1
+6290,freebase,6237,dbpedia,1
+3874,geonames,3873,new york times,1
+3874,geonames,6237,dbpedia,1
+3873,new york times,6237,dbpedia,1
+4083,new york times,6656,geonames,1
+4083,new york times,4084,dbpedia,1
+4083,new york times,6726,freebase,1
+6656,geonames,4084,dbpedia,1
+6656,geonames,6726,freebase,1
+4084,dbpedia,6726,freebase,1
+263,dbpedia,262,new york times,1
+263,dbpedia,2933,geonames,1
+263,dbpedia,7046,freebase,1
+262,new york times,2933,geonames,1
+262,new york times,7046,freebase,1
+2933,geonames,7046,freebase,1
+5062,freebase,2619,geonames,1
+5062,freebase,2344,new york times,1
+5062,freebase,2345,dbpedia,1
+2619,geonames,2344,new york times,1
+2619,geonames,2345,dbpedia,1
+2344,new york times,2345,dbpedia,1
+5206,freebase,4965,geonames,1
+5206,freebase,3975,dbpedia,1
+5206,freebase,3974,new york times,1
+4965,geonames,3975,dbpedia,1
+4965,geonames,3974,new york times,1
+3975,dbpedia,3974,new york times,1
+6691,dbpedia,3977,freebase,1
+6691,dbpedia,4727,geonames,1
+6691,dbpedia,3976,new york times,1
+3977,freebase,4727,geonames,1
+3977,freebase,3976,new york times,1
+4727,geonames,3976,new york times,1
+645,new york times,5793,freebase,1
+645,new york times,7581,ambiguity-generator,1
+645,new york times,1154,geonames,1
+645,new york times,646,dbpedia,1
+5793,freebase,7581,ambiguity-generator,1
+5793,freebase,1154,geonames,1
+5793,freebase,646,dbpedia,1
+7581,ambiguity-generator,1154,geonames,1
+7581,ambiguity-generator,646,dbpedia,1
+1154,geonames,646,dbpedia,1
+7581,ambiguity-generator,7451,geonames,1
+4118,new york times,7424,freebase,1
+4118,new york times,4119,dbpedia,1
+4118,new york times,6750,geonames,1
+7424,freebase,4119,dbpedia,1
+7424,freebase,6750,geonames,1
+4119,dbpedia,6750,geonames,1
+6471,geonames,4414,new york times,1
+6471,geonames,4415,freebase,1
+6471,geonames,7516,dbpedia,1
+4414,new york times,4415,freebase,1
+4414,new york times,7516,dbpedia,1
+4415,freebase,7516,dbpedia,1
+6919,geonames,4563,dbpedia,1
+6919,geonames,4562,new york times,1
+6919,geonames,7415,freebase,1
+4563,dbpedia,4562,new york times,1
+4563,dbpedia,7415,freebase,1
+4562,new york times,7415,freebase,1
+1319,new york times,7476,dbpedia,1
+1319,new york times,1320,freebase,1
+1319,new york times,3812,geonames,1
+7476,dbpedia,1320,freebase,1
+7476,dbpedia,3812,geonames,1
+1320,freebase,3812,geonames,1
+7074,geonames,4715,dbpedia,1
+7074,geonames,4714,new york times,1
+7074,geonames,6906,freebase,1
+4715,dbpedia,4714,new york times,1
+4715,dbpedia,6906,freebase,1
+4714,new york times,6906,freebase,1
+3288,geonames,3856,freebase,1
+3288,geonames,5506,dbpedia,1
+3288,geonames,3287,new york times,1
+3856,freebase,5506,dbpedia,1
+3856,freebase,3287,new york times,1
+5506,dbpedia,3287,new york times,1
+2763,dbpedia,1469,freebase,1
+2763,dbpedia,6087,geonames,1
+2763,dbpedia,1468,new york times,1
+1469,freebase,6087,geonames,1
+1469,freebase,1468,new york times,1
+6087,geonames,1468,new york times,1
+1517,freebase,3442,dbpedia,1
+1517,freebase,1516,new york times,1
+1517,freebase,6708,geonames,1
+3442,dbpedia,1516,new york times,1
+3442,dbpedia,6708,geonames,1
+1516,new york times,6708,geonames,1
+3548,freebase,4865,dbpedia,1
+3548,freebase,1233,geonames,1
+3548,freebase,1232,new york times,1
+4865,dbpedia,1233,geonames,1
+4865,dbpedia,1232,new york times,1
+1233,geonames,1232,new york times,1
+5298,geonames,6287,dbpedia,1
+5298,geonames,4550,freebase,1
+5298,geonames,4549,new york times,1
+6287,dbpedia,4550,freebase,1
+6287,dbpedia,4549,new york times,1
+4550,freebase,4549,new york times,1
+6993,dbpedia,1450,geonames,1
+6993,dbpedia,1449,new york times,1
+6993,dbpedia,6305,freebase,1
+1450,geonames,1449,new york times,1
+1450,geonames,6305,freebase,1
+1449,new york times,6305,freebase,1
+6472,geonames,1117,new york times,1
+6472,geonames,1118,dbpedia,1
+6472,geonames,5051,freebase,1
+1117,new york times,1118,dbpedia,1
+1117,new york times,5051,freebase,1
+1118,dbpedia,5051,freebase,1
+4886,freebase,5522,geonames,1
+4886,freebase,2759,dbpedia,1
+4886,freebase,2758,new york times,1
+5522,geonames,2759,dbpedia,1
+5522,geonames,2758,new york times,1
+2759,dbpedia,2758,new york times,1
+4310,geonames,4309,new york times,1
+4310,geonames,4840,dbpedia,1
+4310,geonames,5492,freebase,1
+4309,new york times,4840,dbpedia,1
+4309,new york times,5492,freebase,1
+4840,dbpedia,5492,freebase,1
+6240,dbpedia,4461,new york times,1
+6240,dbpedia,7186,geonames,1
+6240,dbpedia,4462,freebase,1
+4461,new york times,7186,geonames,1
+4461,new york times,4462,freebase,1
+7186,geonames,4462,freebase,1
+2473,freebase,5927,geonames,1
+2473,freebase,2134,dbpedia,1
+2473,freebase,2133,new york times,1
+5927,geonames,2134,dbpedia,1
+5927,geonames,2133,new york times,1
+2134,dbpedia,2133,new york times,1
+2598,new york times,7291,dbpedia,1
+2598,new york times,3540,freebase,1
+2598,new york times,2599,geonames,1
+7291,dbpedia,3540,freebase,1
+7291,dbpedia,2599,geonames,1
+3540,freebase,2599,geonames,1
+2744,dbpedia,6795,freebase,1
+2744,dbpedia,2743,new york times,1
+2744,dbpedia,4944,geonames,1
+6795,freebase,2743,new york times,1
+6795,freebase,4944,geonames,1
+2743,new york times,4944,geonames,1
+3105,geonames,4711,freebase,1
+3105,geonames,4476,dbpedia,1
+3105,geonames,7582,ambiguity-generator,1
+3105,geonames,3104,new york times,1
+4711,freebase,4476,dbpedia,1
+4711,freebase,7582,ambiguity-generator,1
+4711,freebase,3104,new york times,1
+4476,dbpedia,7582,ambiguity-generator,1
+4476,dbpedia,3104,new york times,1
+7582,ambiguity-generator,3104,new york times,1
+7582,ambiguity-generator,6075,dbpedia,1
+6485,dbpedia,3119,freebase,1
+6485,dbpedia,3118,new york times,1
+6485,dbpedia,6337,geonames,1
+3119,freebase,3118,new york times,1
+3119,freebase,6337,geonames,1
+3118,new york times,6337,geonames,1
+5810,geonames,3652,dbpedia,1
+5810,geonames,3651,new york times,1
+5810,geonames,5240,freebase,1
+3652,dbpedia,3651,new york times,1
+3652,dbpedia,5240,freebase,1
+3651,new york times,5240,freebase,1
+2294,dbpedia,4618,geonames,1
+2294,dbpedia,5294,freebase,1
+2294,dbpedia,2293,new york times,1
+4618,geonames,5294,freebase,1
+4618,geonames,2293,new york times,1
+5294,freebase,2293,new york times,1
+5853,new york times,6995,dbpedia,1
+5853,new york times,5991,freebase,1
+5853,new york times,5854,geonames,1
+6995,dbpedia,5991,freebase,1
+6995,dbpedia,5854,geonames,1
+5991,freebase,5854,geonames,1
+7511,geonames,6912,dbpedia,1
+7511,geonames,6911,new york times,1
+7511,geonames,7527,freebase,1
+6912,dbpedia,6911,new york times,1
+6912,dbpedia,7527,freebase,1
+6911,new york times,7527,freebase,1
+3806,dbpedia,3557,freebase,1
+3806,dbpedia,3741,geonames,1
+3806,dbpedia,3556,new york times,1
+3557,freebase,3741,geonames,1
+3557,freebase,3556,new york times,1
+3741,geonames,3556,new york times,1
+3811,freebase,3252,dbpedia,1
+3811,freebase,14,new york times,1
+3811,freebase,15,geonames,1
+3252,dbpedia,14,new york times,1
+3252,dbpedia,15,geonames,1
+14,new york times,15,geonames,1
+4650,geonames,896,dbpedia,1
+4650,geonames,895,new york times,1
+4650,geonames,6517,freebase,1
+896,dbpedia,895,new york times,1
+896,dbpedia,6517,freebase,1
+895,new york times,6517,freebase,1
+6355,freebase,3475,geonames,1
+6355,freebase,2669,dbpedia,1
+6355,freebase,2668,new york times,1
+3475,geonames,2669,dbpedia,1
+3475,geonames,2668,new york times,1
+2669,dbpedia,2668,new york times,1
+3111,new york times,3112,dbpedia,1
+3111,new york times,3884,geonames,1
+3111,new york times,7366,freebase,1
+3112,dbpedia,3884,geonames,1
+3112,dbpedia,7366,freebase,1
+3884,geonames,7366,freebase,1
+1340,dbpedia,831,new york times,1
+1340,dbpedia,832,freebase,1
+1340,dbpedia,3498,geonames,1
+831,new york times,832,freebase,1
+831,new york times,3498,geonames,1
+832,freebase,3498,geonames,1
+1452,freebase,1451,new york times,1
+1452,freebase,1749,geonames,1
+1452,freebase,3172,dbpedia,1
+1451,new york times,1749,geonames,1
+1451,new york times,3172,dbpedia,1
+1749,geonames,3172,dbpedia,1
+460,dbpedia,459,new york times,1
+460,dbpedia,3790,freebase,1
+459,new york times,3790,freebase,1
+2666,freebase,2821,geonames,1
+2666,freebase,2665,new york times,1
+2666,freebase,7097,dbpedia,1
+2821,geonames,2665,new york times,1
+2821,geonames,7097,dbpedia,1
+2665,new york times,7097,dbpedia,1
+7389,geonames,5484,freebase,1
+7389,geonames,7457,dbpedia,1
+7389,geonames,5483,new york times,1
+5484,freebase,7457,dbpedia,1
+5484,freebase,5483,new york times,1
+7457,dbpedia,5483,new york times,1
+5032,freebase,6130,geonames,1
+5032,freebase,4108,dbpedia,1
+5032,freebase,4107,new york times,1
+6130,geonames,4108,dbpedia,1
+6130,geonames,4107,new york times,1
+4108,dbpedia,4107,new york times,1
+3665,new york times,7319,freebase,1
+3665,new york times,3674,dbpedia,1
+3665,new york times,3666,geonames,1
+7319,freebase,3674,dbpedia,1
+7319,freebase,3666,geonames,1
+3674,dbpedia,3666,geonames,1
+3322,dbpedia,2790,freebase,1
+3322,dbpedia,7243,geonames,1
+3322,dbpedia,2789,new york times,1
+2790,freebase,7243,geonames,1
+2790,freebase,2789,new york times,1
+7243,geonames,2789,new york times,1
+3461,dbpedia,3460,new york times,1
+3461,dbpedia,4485,geonames,1
+3461,dbpedia,6677,freebase,1
+3460,new york times,4485,geonames,1
+3460,new york times,6677,freebase,1
+4485,geonames,6677,freebase,1
+4227,new york times,7440,freebase,1
+4227,new york times,4942,geonames,1
+4227,new york times,4228,dbpedia,1
+7440,freebase,4942,geonames,1
+7440,freebase,4228,dbpedia,1
+4942,geonames,4228,dbpedia,1
+3650,geonames,1611,freebase,1
+3650,geonames,755,dbpedia,1
+3650,geonames,754,new york times,1
+1611,freebase,755,dbpedia,1
+1611,freebase,754,new york times,1
+755,dbpedia,754,new york times,1
+4292,new york times,6550,dbpedia,1
+4292,new york times,6728,freebase,1
+4292,new york times,4293,geonames,1
+6550,dbpedia,6728,freebase,1
+6550,dbpedia,4293,geonames,1
+6728,freebase,4293,geonames,1
+1519,geonames,1518,new york times,1
+1519,geonames,3117,freebase,1
+1519,geonames,6685,dbpedia,1
+1518,new york times,3117,freebase,1
+1518,new york times,6685,dbpedia,1
+3117,freebase,6685,dbpedia,1
+4587,dbpedia,2783,freebase,1
+4587,dbpedia,2782,new york times,1
+4587,dbpedia,5230,geonames,1
+2783,freebase,2782,new york times,1
+2783,freebase,5230,geonames,1
+2782,new york times,5230,geonames,1
+4312,new york times,7365,dbpedia,1
+4312,new york times,5402,geonames,1
+7365,dbpedia,5402,geonames,1
+3513,freebase,6931,geonames,1
+3513,freebase,1377,dbpedia,1
+3513,freebase,1376,new york times,1
+6931,geonames,1377,dbpedia,1
+6931,geonames,1376,new york times,1
+1377,dbpedia,1376,new york times,1
+436,geonames,7332,freebase,1
+436,geonames,5692,dbpedia,1
+436,geonames,435,new york times,1
+7332,freebase,5692,dbpedia,1
+7332,freebase,435,new york times,1
+5692,dbpedia,435,new york times,1
+4637,freebase,426,dbpedia,1
+4637,freebase,425,new york times,1
+4637,freebase,7418,geonames,1
+426,dbpedia,425,new york times,1
+426,dbpedia,7418,geonames,1
+425,new york times,7418,geonames,1
+2520,freebase,6735,geonames,1
+2520,freebase,2642,dbpedia,1
+2520,freebase,2519,new york times,1
+6735,geonames,2642,dbpedia,1
+6735,geonames,2519,new york times,1
+2642,dbpedia,2519,new york times,1
+3032,new york times,4324,geonames,1
+3032,new york times,4442,dbpedia,1
+4324,geonames,4442,dbpedia,1
+6054,new york times,7364,geonames,1
+6054,new york times,6092,freebase,1
+6054,new york times,6055,dbpedia,1
+7364,geonames,6092,freebase,1
+7364,geonames,6055,dbpedia,1
+6092,freebase,6055,dbpedia,1
+2177,dbpedia,3850,freebase,1
+2177,dbpedia,1905,new york times,1
+2177,dbpedia,1906,geonames,1
+3850,freebase,1905,new york times,1
+3850,freebase,1906,geonames,1
+1905,new york times,1906,geonames,1
+2709,new york times,6164,freebase,1
+2709,new york times,2710,dbpedia,1
+2709,new york times,7505,geonames,1
+6164,freebase,2710,dbpedia,1
+6164,freebase,7505,geonames,1
+2710,dbpedia,7505,geonames,1
+1104,freebase,296,new york times,1
+1104,freebase,2085,dbpedia,1
+1104,freebase,297,geonames,1
+296,new york times,2085,dbpedia,1
+296,new york times,297,geonames,1
+2085,dbpedia,297,geonames,1
+6193,freebase,4612,dbpedia,1
+6193,freebase,4611,new york times,1
+6193,freebase,6438,geonames,1
+4612,dbpedia,4611,new york times,1
+4612,dbpedia,6438,geonames,1
+4611,new york times,6438,geonames,1
+7314,freebase,1706,dbpedia,1
+6565,dbpedia,5482,freebase,1
+6565,dbpedia,6663,geonames,1
+6565,dbpedia,5481,new york times,1
+5482,freebase,6663,geonames,1
+5482,freebase,5481,new york times,1
+6663,geonames,5481,new york times,1
+570,geonames,569,new york times,1
+6680,geonames,38,new york times,1
+6680,geonames,39,dbpedia,1
+6680,geonames,3710,freebase,1
+38,new york times,39,dbpedia,1
+38,new york times,3710,freebase,1
+39,dbpedia,3710,freebase,1
+2617,new york times,4933,freebase,1
+2617,new york times,6384,dbpedia,1
+2617,new york times,2618,geonames,1
+4933,freebase,6384,dbpedia,1
+4933,freebase,2618,geonames,1
+6384,dbpedia,2618,geonames,1
+6448,dbpedia,3309,geonames,1
+6448,dbpedia,3308,new york times,1
+6448,dbpedia,5526,freebase,1
+3309,geonames,3308,new york times,1
+3309,geonames,5526,freebase,1
+3308,new york times,5526,freebase,1
+2256,new york times,5310,freebase,1
+2256,new york times,4279,geonames,1
+2256,new york times,2257,dbpedia,1
+5310,freebase,4279,geonames,1
+5310,freebase,2257,dbpedia,1
+4279,geonames,2257,dbpedia,1
+2454,new york times,6219,dbpedia,1
+2454,new york times,3407,geonames,1
+2454,new york times,2455,freebase,1
+6219,dbpedia,3407,geonames,1
+6219,dbpedia,2455,freebase,1
+3407,geonames,2455,freebase,1
+3662,geonames,3069,new york times,1
+3662,geonames,7195,freebase,1
+3662,geonames,3070,dbpedia,1
+3069,new york times,7195,freebase,1
+3069,new york times,3070,dbpedia,1
+7195,freebase,3070,dbpedia,1
+3408,new york times,7583,ambiguity-generator,1
+3408,new york times,3409,geonames,1
+3408,new york times,6730,dbpedia,1
+3408,new york times,5889,freebase,1
+7583,ambiguity-generator,3409,geonames,1
+7583,ambiguity-generator,6730,dbpedia,1
+7583,ambiguity-generator,5889,freebase,1
+3409,geonames,6730,dbpedia,1
+3409,geonames,5889,freebase,1
+6730,dbpedia,5889,freebase,1
+7583,ambiguity-generator,3899,geonames,1
+2871,dbpedia,2870,new york times,1
+2871,dbpedia,7059,geonames,1
+2871,dbpedia,6921,freebase,1
+2870,new york times,7059,geonames,1
+2870,new york times,6921,freebase,1
+7059,geonames,6921,freebase,1
+6927,dbpedia,3206,geonames,1
+6927,dbpedia,1708,freebase,1
+6927,dbpedia,1707,new york times,1
+3206,geonames,1708,freebase,1
+3206,geonames,1707,new york times,1
+1708,freebase,1707,new york times,1
+5951,new york times,6820,geonames,1
+2920,freebase,389,dbpedia,1
+2176,dbpedia,2175,new york times,1
+2176,dbpedia,3274,freebase,1
+2176,dbpedia,5610,geonames,1
+2175,new york times,3274,freebase,1
+2175,new york times,5610,geonames,1
+3274,freebase,5610,geonames,1
+3375,freebase,5109,geonames,1
+3375,freebase,6391,dbpedia,1
+3375,freebase,3374,new york times,1
+5109,geonames,6391,dbpedia,1
+5109,geonames,3374,new york times,1
+6391,dbpedia,3374,new york times,1
+2639,new york times,5194,freebase,1
+2639,new york times,2640,geonames,1
+2639,new york times,6101,dbpedia,1
+5194,freebase,2640,geonames,1
+5194,freebase,6101,dbpedia,1
+2640,geonames,6101,dbpedia,1
+2952,new york times,7010,freebase,1
+2952,new york times,3896,geonames,1
+2952,new york times,2953,dbpedia,1
+7010,freebase,3896,geonames,1
+7010,freebase,2953,dbpedia,1
+3896,geonames,2953,dbpedia,1
+3371,dbpedia,2721,geonames,1
+3371,dbpedia,3351,freebase,1
+3371,dbpedia,2720,new york times,1
+2721,geonames,3351,freebase,1
+2721,geonames,2720,new york times,1
+3351,freebase,2720,new york times,1
+2263,geonames,4408,dbpedia,1
+2263,geonames,2262,new york times,1
+2263,geonames,3919,freebase,1
+4408,dbpedia,2262,new york times,1
+4408,dbpedia,3919,freebase,1
+2262,new york times,3919,freebase,1
+5320,geonames,3472,dbpedia,1
+5320,geonames,3471,new york times,1
+5320,geonames,3769,freebase,1
+3472,dbpedia,3471,new york times,1
+3472,dbpedia,3769,freebase,1
+3471,new york times,3769,freebase,1
+1343,dbpedia,5098,geonames,1
+1343,dbpedia,1342,new york times,1
+1343,dbpedia,2791,freebase,1
+5098,geonames,1342,new york times,1
+5098,geonames,2791,freebase,1
+1342,new york times,2791,freebase,1
+5301,dbpedia,6250,freebase,1
+5301,dbpedia,670,new york times,1
+5301,dbpedia,671,geonames,1
+6250,freebase,670,new york times,1
+6250,freebase,671,geonames,1
+670,new york times,671,geonames,1
+3312,new york times,6353,freebase,1
+3312,new york times,5913,geonames,1
+3312,new york times,3313,dbpedia,1
+6353,freebase,5913,geonames,1
+6353,freebase,3313,dbpedia,1
+5913,geonames,3313,dbpedia,1
+4139,geonames,4138,new york times,1
+4139,geonames,5085,dbpedia,1
+4139,geonames,5611,freebase,1
+4138,new york times,5085,dbpedia,1
+4138,new york times,5611,freebase,1
+5085,dbpedia,5611,freebase,1
+3379,dbpedia,3378,new york times,1
+3379,dbpedia,4002,geonames,1
+3379,dbpedia,6869,freebase,1
+3378,new york times,4002,geonames,1
+3378,new york times,6869,freebase,1
+4002,geonames,6869,freebase,1
+4542,dbpedia,221,freebase,1
+1229,freebase,1228,new york times,1
+1229,freebase,2135,dbpedia,1
+1229,freebase,3917,geonames,1
+1228,new york times,2135,dbpedia,1
+1228,new york times,3917,geonames,1
+2135,dbpedia,3917,geonames,1
+648,freebase,647,new york times,1
+648,freebase,2915,dbpedia,1
+648,freebase,2378,geonames,1
+647,new york times,2915,dbpedia,1
+647,new york times,2378,geonames,1
+2915,dbpedia,2378,geonames,1
+1018,freebase,1017,new york times,1
+1018,freebase,5403,dbpedia,1
+1018,freebase,7402,geonames,1
+1017,new york times,5403,dbpedia,1
+1017,new york times,7402,geonames,1
+5403,dbpedia,7402,geonames,1
+5011,new york times,5804,dbpedia,1
+5011,new york times,5012,freebase,1
+5011,new york times,5512,geonames,1
+5804,dbpedia,5012,freebase,1
+5804,dbpedia,5512,geonames,1
+5012,freebase,5512,geonames,1
+3160,freebase,6551,dbpedia,1
+3160,freebase,6044,geonames,1
+3160,freebase,3159,new york times,1
+6551,dbpedia,6044,geonames,1
+6551,dbpedia,3159,new york times,1
+6044,geonames,3159,new york times,1
+6843,freebase,6831,geonames,1
+6843,freebase,2080,dbpedia,1
+6843,freebase,2079,new york times,1
+6831,geonames,2080,dbpedia,1
+6831,geonames,2079,new york times,1
+2080,dbpedia,2079,new york times,1
+143,geonames,4514,dbpedia,1
+143,geonames,142,new york times,1
+143,geonames,6058,freebase,1
+4514,dbpedia,142,new york times,1
+4514,dbpedia,6058,freebase,1
+142,new york times,6058,freebase,1
+5588,freebase,5256,dbpedia,1
+5588,freebase,5255,new york times,1
+5588,freebase,5753,geonames,1
+5256,dbpedia,5255,new york times,1
+5256,dbpedia,5753,geonames,1
+5255,new york times,5753,geonames,1
+5071,freebase,5070,new york times,1
+5071,freebase,5906,geonames,1
+5071,freebase,5683,dbpedia,1
+5070,new york times,5906,geonames,1
+5070,new york times,5683,dbpedia,1
+5906,geonames,5683,dbpedia,1
+5221,new york times,6179,freebase,1
+5221,new york times,7331,dbpedia,1
+5221,new york times,5222,geonames,1
+6179,freebase,7331,dbpedia,1
+6179,freebase,5222,geonames,1
+7331,dbpedia,5222,geonames,1
+1224,new york times,6461,geonames,1
+1224,new york times,1225,freebase,1
+1224,new york times,3207,dbpedia,1
+6461,geonames,1225,freebase,1
+6461,geonames,3207,dbpedia,1
+1225,freebase,3207,dbpedia,1
+4642,dbpedia,7444,geonames,1
+4642,dbpedia,3802,new york times,1
+7444,geonames,3802,new york times,1
+1629,new york times,4355,dbpedia,1
+1629,new york times,7018,geonames,1
+1629,new york times,1630,freebase,1
+4355,dbpedia,7018,geonames,1
+4355,dbpedia,1630,freebase,1
+7018,geonames,1630,freebase,1
+2498,geonames,7515,freebase,1
+2498,geonames,2762,dbpedia,1
+2498,geonames,2497,new york times,1
+7515,freebase,2762,dbpedia,1
+7515,freebase,2497,new york times,1
+2762,dbpedia,2497,new york times,1
+4946,geonames,638,freebase,1
+4946,geonames,4738,dbpedia,1
+4946,geonames,637,new york times,1
+638,freebase,4738,dbpedia,1
+638,freebase,637,new york times,1
+4738,dbpedia,637,new york times,1
+257,freebase,256,new york times,1
+257,freebase,1550,dbpedia,1
+257,freebase,2191,geonames,1
+256,new york times,1550,dbpedia,1
+256,new york times,2191,geonames,1
+1550,dbpedia,2191,geonames,1
+2305,new york times,2511,freebase,1
+2305,new york times,2306,geonames,1
+2305,new york times,2371,dbpedia,1
+2511,freebase,2306,geonames,1
+2511,freebase,2371,dbpedia,1
+2306,geonames,2371,dbpedia,1
+5451,geonames,3583,dbpedia,1
+5451,geonames,3582,new york times,1
+5451,geonames,7320,freebase,1
+3583,dbpedia,3582,new york times,1
+3583,dbpedia,7320,freebase,1
+3582,new york times,7320,freebase,1
+2776,dbpedia,7066,geonames,1
+2776,dbpedia,4457,freebase,1
+2776,dbpedia,2775,new york times,1
+7066,geonames,4457,freebase,1
+7066,geonames,2775,new york times,1
+4457,freebase,2775,new york times,1
+3749,freebase,3748,new york times,1
+3749,freebase,5227,geonames,1
+3749,freebase,5584,dbpedia,1
+3748,new york times,5227,geonames,1
+3748,new york times,5584,dbpedia,1
+5227,geonames,5584,dbpedia,1
+7474,geonames,872,freebase,1
+7474,geonames,5181,dbpedia,1
+7474,geonames,871,new york times,1
+872,freebase,5181,dbpedia,1
+872,freebase,871,new york times,1
+5181,dbpedia,871,new york times,1
+1055,geonames,1054,new york times,1
+1055,geonames,5693,dbpedia,1
+1055,geonames,1252,freebase,1
+1054,new york times,5693,dbpedia,1
+1054,new york times,1252,freebase,1
+5693,dbpedia,1252,freebase,1
+2285,freebase,823,new york times,1
+2285,freebase,824,dbpedia,1
+2285,freebase,6372,geonames,1
+823,new york times,824,dbpedia,1
+823,new york times,6372,geonames,1
+824,dbpedia,6372,geonames,1
+3401,geonames,6097,freebase,1
+3401,geonames,3400,new york times,1
+3401,geonames,4560,dbpedia,1
+6097,freebase,3400,new york times,1
+6097,freebase,4560,dbpedia,1
+3400,new york times,4560,dbpedia,1
+4925,dbpedia,4520,freebase,1
+4925,dbpedia,1860,geonames,1
+4925,dbpedia,1859,new york times,1
+4520,freebase,1860,geonames,1
+4520,freebase,1859,new york times,1
+1860,geonames,1859,new york times,1
+368,new york times,369,dbpedia,1
+368,new york times,4629,geonames,1
+368,new york times,2745,freebase,1
+369,dbpedia,4629,geonames,1
+369,dbpedia,2745,freebase,1
+4629,geonames,2745,freebase,1
+5191,dbpedia,7322,geonames,1
+5191,dbpedia,5745,freebase,1
+5191,dbpedia,5190,new york times,1
+7322,geonames,5745,freebase,1
+7322,geonames,5190,new york times,1
+5745,freebase,5190,new york times,1
+687,new york times,1083,dbpedia,1
+687,new york times,7132,geonames,1
+687,new york times,688,freebase,1
+1083,dbpedia,7132,geonames,1
+1083,dbpedia,688,freebase,1
+7132,geonames,688,freebase,1
+4112,geonames,723,new york times,1
+4112,geonames,1762,freebase,1
+4112,geonames,724,dbpedia,1
+723,new york times,1762,freebase,1
+723,new york times,724,dbpedia,1
+1762,freebase,724,dbpedia,1
+3323,new york times,5579,geonames,1
+3323,new york times,4040,dbpedia,1
+3323,new york times,3324,freebase,1
+5579,geonames,4040,dbpedia,1
+5579,geonames,3324,freebase,1
+4040,dbpedia,3324,freebase,1
+1479,freebase,2342,dbpedia,1
+1479,freebase,1612,geonames,1
+1479,freebase,1478,new york times,1
+2342,dbpedia,1612,geonames,1
+2342,dbpedia,1478,new york times,1
+1612,geonames,1478,new york times,1
+6015,freebase,4573,dbpedia,1
+6015,freebase,4572,new york times,1
+6015,freebase,5396,geonames,1
+4573,dbpedia,4572,new york times,1
+4573,dbpedia,5396,geonames,1
+4572,new york times,5396,geonames,1
+7435,geonames,6173,freebase,1
+7435,geonames,3736,dbpedia,1
+7435,geonames,3735,new york times,1
+6173,freebase,3736,dbpedia,1
+6173,freebase,3735,new york times,1
+3736,dbpedia,3735,new york times,1
+4704,freebase,4935,geonames,1
+4704,freebase,3060,new york times,1
+4704,freebase,3061,dbpedia,1
+4935,geonames,3060,new york times,1
+4935,geonames,3061,dbpedia,1
+3060,new york times,3061,dbpedia,1
+744,new york times,6957,dbpedia,1
+744,new york times,6781,freebase,1
+744,new york times,745,geonames,1
+6957,dbpedia,6781,freebase,1
+6957,dbpedia,745,geonames,1
+6781,freebase,745,geonames,1
+3385,geonames,7584,ambiguity-generator,1
+3385,geonames,3384,new york times,1
+3385,geonames,3851,dbpedia,1
+3385,geonames,7356,freebase,1
+7584,ambiguity-generator,3384,new york times,1
+7584,ambiguity-generator,3851,dbpedia,1
+7584,ambiguity-generator,7356,freebase,1
+3384,new york times,3851,dbpedia,1
+3384,new york times,7356,freebase,1
+3851,dbpedia,7356,freebase,1
+7584,ambiguity-generator,7096,geonames,1
+4782,geonames,1393,new york times,1
+4782,geonames,1394,freebase,1
+4782,geonames,5897,dbpedia,1
+1393,new york times,1394,freebase,1
+1393,new york times,5897,dbpedia,1
+1394,freebase,5897,dbpedia,1
+7055,geonames,7317,dbpedia,1
+7055,geonames,784,new york times,1
+7317,dbpedia,784,new york times,1
+4285,freebase,2312,geonames,1
+4285,freebase,2311,new york times,1
+4285,freebase,7585,ambiguity-generator,1
+4285,freebase,6489,dbpedia,1
+2312,geonames,2311,new york times,1
+2312,geonames,7585,ambiguity-generator,1
+2312,geonames,6489,dbpedia,1
+2311,new york times,7585,ambiguity-generator,1
+2311,new york times,6489,dbpedia,1
+7585,ambiguity-generator,6489,dbpedia,1
+7585,ambiguity-generator,4972,geonames,1
+613,new york times,614,freebase,1
+613,new york times,3229,dbpedia,1
+613,new york times,4972,geonames,1
+614,freebase,3229,dbpedia,1
+614,freebase,4972,geonames,1
+3229,dbpedia,4972,geonames,1
+5516,geonames,1963,dbpedia,1
+5516,geonames,1962,new york times,1
+5516,geonames,5409,freebase,1
+1963,dbpedia,1962,new york times,1
+1963,dbpedia,5409,freebase,1
+1962,new york times,5409,freebase,1
+3584,new york times,5665,dbpedia,1
+3584,new york times,4881,geonames,1
+3584,new york times,3585,freebase,1
+5665,dbpedia,4881,geonames,1
+5665,dbpedia,3585,freebase,1
+4881,geonames,3585,freebase,1
+3091,dbpedia,2313,new york times,1
+3091,dbpedia,4072,geonames,1
+3091,dbpedia,2314,freebase,1
+2313,new york times,4072,geonames,1
+2313,new york times,2314,freebase,1
+4072,geonames,2314,freebase,1
+3358,freebase,7380,geonames,1
+3358,freebase,109,dbpedia,1
+3358,freebase,108,new york times,1
+7380,geonames,109,dbpedia,1
+7380,geonames,108,new york times,1
+109,dbpedia,108,new york times,1
+4628,freebase,5130,dbpedia,1
+4628,freebase,1146,new york times,1
+4628,freebase,1147,geonames,1
+5130,dbpedia,1146,new york times,1
+5130,dbpedia,1147,geonames,1
+1146,new york times,1147,geonames,1
+1299,geonames,1298,new york times,1
+1299,geonames,2008,dbpedia,1
+1299,geonames,4627,freebase,1
+1298,new york times,2008,dbpedia,1
+1298,new york times,4627,freebase,1
+2008,dbpedia,4627,freebase,1
+4740,freebase,3793,geonames,1
+4740,freebase,961,dbpedia,1
+4740,freebase,960,new york times,1
+3793,geonames,961,dbpedia,1
+3793,geonames,960,new york times,1
+961,dbpedia,960,new york times,1
+1644,dbpedia,618,freebase,1
+1644,dbpedia,617,new york times,1
+1644,dbpedia,2925,geonames,1
+618,freebase,617,new york times,1
+618,freebase,2925,geonames,1
+617,new york times,2925,geonames,1
+5277,dbpedia,5704,geonames,1
+5277,dbpedia,5276,new york times,1
+5277,dbpedia,5477,freebase,1
+5704,geonames,5276,new york times,1
+5704,geonames,5477,freebase,1
+5276,new york times,5477,freebase,1
+5068,freebase,4417,geonames,1
+5068,freebase,6095,dbpedia,1
+5068,freebase,4416,new york times,1
+4417,geonames,6095,dbpedia,1
+4417,geonames,4416,new york times,1
+6095,dbpedia,4416,new york times,1
+4707,freebase,2884,new york times,1
+4707,freebase,3831,geonames,1
+4707,freebase,2885,dbpedia,1
+2884,new york times,3831,geonames,1
+2884,new york times,2885,dbpedia,1
+3831,geonames,2885,dbpedia,1
+5652,freebase,5014,geonames,1
+5652,freebase,432,dbpedia,1
+5652,freebase,431,new york times,1
+5014,geonames,432,dbpedia,1
+5014,geonames,431,new york times,1
+432,dbpedia,431,new york times,1
+3680,dbpedia,3679,new york times,1
+3680,dbpedia,6882,freebase,1
+3680,dbpedia,5205,geonames,1
+3679,new york times,6882,freebase,1
+3679,new york times,5205,geonames,1
+6882,freebase,5205,geonames,1
+7485,freebase,4225,dbpedia,1
+7485,freebase,6991,geonames,1
+7485,freebase,4224,new york times,1
+4225,dbpedia,6991,geonames,1
+4225,dbpedia,4224,new york times,1
+6991,geonames,4224,new york times,1
+4376,freebase,5048,dbpedia,1
+5937,dbpedia,4754,geonames,1
+5937,dbpedia,7198,freebase,1
+5937,dbpedia,4753,new york times,1
+4754,geonames,7198,freebase,1
+4754,geonames,4753,new york times,1
+7198,freebase,4753,new york times,1
+5724,dbpedia,2823,freebase,1
+5724,dbpedia,2822,new york times,1
+5724,dbpedia,7108,geonames,1
+2823,freebase,2822,new york times,1
+2823,freebase,7108,geonames,1
+2822,new york times,7108,geonames,1
+534,dbpedia,533,new york times,1
+534,dbpedia,2183,freebase,1
+534,dbpedia,7117,geonames,1
+533,new york times,2183,freebase,1
+533,new york times,7117,geonames,1
+2183,freebase,7117,geonames,1
+4581,dbpedia,2340,new york times,1
+4581,dbpedia,2341,freebase,1
+4581,dbpedia,3376,geonames,1
+2340,new york times,2341,freebase,1
+2340,new york times,3376,geonames,1
+2341,freebase,3376,geonames,1
+5060,geonames,5059,new york times,1
+5060,geonames,6104,dbpedia,1
+5060,geonames,6970,freebase,1
+5059,new york times,6104,dbpedia,1
+5059,new york times,6970,freebase,1
+6104,dbpedia,6970,freebase,1
+3996,new york times,6835,freebase,1
+3996,new york times,4610,dbpedia,1
+3996,new york times,3997,geonames,1
+6835,freebase,4610,dbpedia,1
+6835,freebase,3997,geonames,1
+4610,dbpedia,3997,geonames,1
+516,new york times,2970,geonames,1
+516,new york times,7035,dbpedia,1
+516,new york times,517,freebase,1
+2970,geonames,7035,dbpedia,1
+2970,geonames,517,freebase,1
+7035,dbpedia,517,freebase,1
+7586,ambiguity-generator,1269,new york times,1
+7586,ambiguity-generator,4988,geonames,1
+7586,ambiguity-generator,1270,freebase,1
+7586,ambiguity-generator,2966,dbpedia,1
+1269,new york times,4988,geonames,1
+1269,new york times,1270,freebase,1
+1269,new york times,2966,dbpedia,1
+4988,geonames,1270,freebase,1
+4988,geonames,2966,dbpedia,1
+1270,freebase,2966,dbpedia,1
+7586,ambiguity-generator,3299,new york times,1
+6094,geonames,3003,new york times,1
+6094,geonames,5352,freebase,1
+6094,geonames,3004,dbpedia,1
+3003,new york times,5352,freebase,1
+3003,new york times,3004,dbpedia,1
+5352,freebase,3004,dbpedia,1
+1221,freebase,3789,dbpedia,1
+1221,freebase,5850,geonames,1
+1221,freebase,1220,new york times,1
+3789,dbpedia,5850,geonames,1
+3789,dbpedia,1220,new york times,1
+5850,geonames,1220,new york times,1
+301,geonames,300,new york times,1
+301,geonames,5758,freebase,1
+301,geonames,6177,dbpedia,1
+300,new york times,5758,freebase,1
+300,new york times,6177,dbpedia,1
+5758,freebase,6177,dbpedia,1
+2771,dbpedia,2770,new york times,1
+2771,dbpedia,5505,geonames,1
+2771,dbpedia,6488,freebase,1
+2770,new york times,5505,geonames,1
+2770,new york times,6488,freebase,1
+5505,geonames,6488,freebase,1
+4964,geonames,4963,new york times,1
+4964,geonames,7501,freebase,1
+4964,geonames,7384,dbpedia,1
+4963,new york times,7501,freebase,1
+4963,new york times,7384,dbpedia,1
+7501,freebase,7384,dbpedia,1
+6865,geonames,6917,dbpedia,1
+6865,geonames,7227,freebase,1
+6865,geonames,6864,new york times,1
+6917,dbpedia,7227,freebase,1
+6917,dbpedia,6864,new york times,1
+7227,freebase,6864,new york times,1
+1455,geonames,4037,dbpedia,1
+1455,geonames,1454,new york times,1
+1455,geonames,7315,freebase,1
+4037,dbpedia,1454,new york times,1
+4037,dbpedia,7315,freebase,1
+1454,new york times,7315,freebase,1
+3659,geonames,3658,new york times,1
+3659,geonames,4276,dbpedia,1
+3659,geonames,7288,freebase,1
+3658,new york times,4276,dbpedia,1
+3658,new york times,7288,freebase,1
+4276,dbpedia,7288,freebase,1
+1726,freebase,1725,new york times,1
+1726,freebase,5292,geonames,1
+1726,freebase,3389,dbpedia,1
+1725,new york times,5292,geonames,1
+1725,new york times,3389,dbpedia,1
+5292,geonames,3389,dbpedia,1
+7199,geonames,6320,dbpedia,1
+7199,geonames,4233,freebase,1
+7199,geonames,4232,new york times,1
+6320,dbpedia,4233,freebase,1
+6320,dbpedia,4232,new york times,1
+4233,freebase,4232,new york times,1
+2366,dbpedia,2365,new york times,1
+2366,dbpedia,6806,freebase,1
+2366,dbpedia,6335,geonames,1
+2365,new york times,6806,freebase,1
+2365,new york times,6335,geonames,1
+6806,freebase,6335,geonames,1
+2242,new york times,7170,geonames,1
+2242,new york times,2460,freebase,1
+2242,new york times,2243,dbpedia,1
+7170,geonames,2460,freebase,1
+7170,geonames,2243,dbpedia,1
+2460,freebase,2243,dbpedia,1
+7087,geonames,4336,freebase,1
+7087,geonames,6299,dbpedia,1
+7087,geonames,4335,new york times,1
+4336,freebase,6299,dbpedia,1
+4336,freebase,4335,new york times,1
+6299,dbpedia,4335,new york times,1
+4652,geonames,931,new york times,1
+4652,geonames,932,dbpedia,1
+4652,geonames,6286,freebase,1
+931,new york times,932,dbpedia,1
+931,new york times,6286,freebase,1
+932,dbpedia,6286,freebase,1
+6623,freebase,6622,new york times,1
+6623,freebase,7269,dbpedia,1
+6623,freebase,7106,geonames,1
+6622,new york times,7269,dbpedia,1
+6622,new york times,7106,geonames,1
+7269,dbpedia,7106,geonames,1
+2361,dbpedia,2360,new york times,1
+2361,dbpedia,3141,geonames,1
+2361,dbpedia,5439,freebase,1
+2360,new york times,3141,geonames,1
+2360,new york times,5439,freebase,1
+3141,geonames,5439,freebase,1
+5765,dbpedia,4914,freebase,1
+5765,dbpedia,1313,new york times,1
+5765,dbpedia,1314,geonames,1
+4914,freebase,1313,new york times,1
+4914,freebase,1314,geonames,1
+1313,new york times,1314,geonames,1
+6395,dbpedia,5099,geonames,1
+6395,dbpedia,3028,new york times,1
+6395,dbpedia,3029,freebase,1
+5099,geonames,3028,new york times,1
+5099,geonames,3029,freebase,1
+3028,new york times,3029,freebase,1
+6088,dbpedia,1544,freebase,1
+6088,dbpedia,1543,new york times,1
+6088,dbpedia,6456,geonames,1
+1544,freebase,1543,new york times,1
+1544,freebase,6456,geonames,1
+1543,new york times,6456,geonames,1
+2386,geonames,7587,ambiguity-generator,1
+2386,geonames,2471,dbpedia,1
+2386,geonames,2117,new york times,1
+7587,ambiguity-generator,2471,dbpedia,1
+7587,ambiguity-generator,2117,new york times,1
+2471,dbpedia,2117,new york times,1
+7587,ambiguity-generator,5501,geonames,1
+1487,dbpedia,1486,new york times,1
+1487,dbpedia,1863,freebase,1
+1487,dbpedia,3833,geonames,1
+1486,new york times,1863,freebase,1
+1486,new york times,3833,geonames,1
+1863,freebase,3833,geonames,1
+953,geonames,952,new york times,1
+3396,geonames,2261,dbpedia,1
+3396,geonames,2260,new york times,1
+3396,geonames,6050,freebase,1
+2261,dbpedia,2260,new york times,1
+2261,dbpedia,6050,freebase,1
+2260,new york times,6050,freebase,1
+2487,dbpedia,3155,freebase,1
+2487,dbpedia,2486,new york times,1
+2487,dbpedia,7443,geonames,1
+3155,freebase,2486,new york times,1
+3155,freebase,7443,geonames,1
+2486,new york times,7443,geonames,1
+0,new york times,6478,geonames,1
+0,new york times,1,dbpedia,1
+6478,geonames,1,dbpedia,1
+2449,freebase,2448,new york times,1
+2449,freebase,5813,dbpedia,1
+2449,freebase,5519,geonames,1
+2448,new york times,5813,dbpedia,1
+2448,new york times,5519,geonames,1
+5813,dbpedia,5519,geonames,1
+4805,new york times,7495,dbpedia,1
+4805,new york times,6304,geonames,1
+4805,new york times,4806,freebase,1
+7495,dbpedia,6304,geonames,1
+7495,dbpedia,4806,freebase,1
+6304,geonames,4806,freebase,1
+738,new york times,4952,freebase,1
+738,new york times,739,geonames,1
+738,new york times,2048,dbpedia,1
+4952,freebase,739,geonames,1
+4952,freebase,2048,dbpedia,1
+739,geonames,2048,dbpedia,1
+6811,geonames,1983,new york times,1
+6811,geonames,1984,dbpedia,1
+6811,geonames,6229,freebase,1
+1983,new york times,1984,dbpedia,1
+1983,new york times,6229,freebase,1
+1984,dbpedia,6229,freebase,1
+4422,new york times,5613,dbpedia,1
+5084,geonames,4115,new york times,1
+5084,geonames,4116,dbpedia,1
+5084,geonames,5143,freebase,1
+4115,new york times,4116,dbpedia,1
+4115,new york times,5143,freebase,1
+4116,dbpedia,5143,freebase,1
+2575,dbpedia,2574,new york times,1
+2575,dbpedia,3918,freebase,1
+2575,dbpedia,4170,geonames,1
+2574,new york times,3918,freebase,1
+2574,new york times,4170,geonames,1
+3918,freebase,4170,geonames,1
+4788,dbpedia,2188,geonames,1
+4788,dbpedia,2187,new york times,1
+4788,dbpedia,4231,freebase,1
+2188,geonames,2187,new york times,1
+2188,geonames,4231,freebase,1
+2187,new york times,4231,freebase,1
+3075,geonames,5364,dbpedia,1
+3075,geonames,3074,new york times,1
+3075,geonames,6712,freebase,1
+5364,dbpedia,3074,new york times,1
+5364,dbpedia,6712,freebase,1
+3074,new york times,6712,freebase,1
+690,geonames,6755,dbpedia,1
+690,geonames,689,new york times,1
+6755,dbpedia,689,new york times,1
+4013,new york times,4124,freebase,1
+4013,new york times,6079,dbpedia,1
+4124,freebase,6079,dbpedia,1
+1189,new york times,6363,geonames,1
+1189,new york times,2436,freebase,1
+1189,new york times,1190,dbpedia,1
+6363,geonames,2436,freebase,1
+6363,geonames,1190,dbpedia,1
+2436,freebase,1190,dbpedia,1
+6754,freebase,757,geonames,1
+6754,freebase,5546,dbpedia,1
+6754,freebase,756,new york times,1
+757,geonames,5546,dbpedia,1
+757,geonames,756,new york times,1
+5546,dbpedia,756,new york times,1
+441,dbpedia,348,freebase,1
+441,dbpedia,1341,geonames,1
+441,dbpedia,347,new york times,1
+348,freebase,1341,geonames,1
+348,freebase,347,new york times,1
+1341,geonames,347,new york times,1
+3740,dbpedia,571,new york times,1
+3740,dbpedia,572,freebase,1
+3740,dbpedia,4597,geonames,1
+571,new york times,572,freebase,1
+571,new york times,4597,geonames,1
+572,freebase,4597,geonames,1
+6546,dbpedia,6922,geonames,1
+6546,dbpedia,7281,freebase,1
+6546,dbpedia,6545,new york times,1
+6922,geonames,7281,freebase,1
+6922,geonames,6545,new york times,1
+7281,freebase,6545,new york times,1
+5371,dbpedia,3668,geonames,1
+5371,dbpedia,216,new york times,1
+3668,geonames,216,new york times,1
+3627,new york times,5381,geonames,1
+3627,new york times,7588,ambiguity-generator,1
+3627,new york times,3628,dbpedia,1
+5381,geonames,7588,ambiguity-generator,1
+5381,geonames,3628,dbpedia,1
+7588,ambiguity-generator,3628,dbpedia,1
+7588,ambiguity-generator,7101,geonames,1
+1897,freebase,1577,dbpedia,1
+1897,freebase,1502,geonames,1
+1897,freebase,1501,new york times,1
+1577,dbpedia,1502,geonames,1
+1577,dbpedia,1501,new york times,1
+1502,geonames,1501,new york times,1
+1322,geonames,1321,new york times,1
+2047,dbpedia,3718,freebase,1
+2047,dbpedia,2046,new york times,1
+2047,dbpedia,2746,geonames,1
+3718,freebase,2046,new york times,1
+3718,freebase,2746,geonames,1
+2046,new york times,2746,geonames,1
+1729,new york times,1730,freebase,1
+1729,new york times,6163,geonames,1
+1729,new york times,6245,dbpedia,1
+1730,freebase,6163,geonames,1
+1730,freebase,6245,dbpedia,1
+6163,geonames,6245,dbpedia,1
+3395,geonames,3868,dbpedia,1
+3395,geonames,1917,freebase,1
+3395,geonames,1916,new york times,1
+3868,dbpedia,1917,freebase,1
+3868,dbpedia,1916,new york times,1
+1917,freebase,1916,new york times,1
+5507,dbpedia,5501,geonames,1
+5507,dbpedia,2128,new york times,1
+5507,dbpedia,2129,freebase,1
+5501,geonames,2128,new york times,1
+5501,geonames,2129,freebase,1
+2128,new york times,2129,freebase,1
+4576,dbpedia,2581,freebase,1
+1374,new york times,1767,dbpedia,1
+1374,new york times,3223,geonames,1
+1374,new york times,1375,freebase,1
+1767,dbpedia,3223,geonames,1
+1767,dbpedia,1375,freebase,1
+3223,geonames,1375,freebase,1
+2936,freebase,2935,new york times,1
+2936,freebase,6046,dbpedia,1
+2936,freebase,7125,geonames,1
+2935,new york times,6046,dbpedia,1
+2935,new york times,7125,geonames,1
+6046,dbpedia,7125,geonames,1
+5046,geonames,3268,freebase,1
+5046,geonames,3267,new york times,1
+5046,geonames,6943,dbpedia,1
+3268,freebase,3267,new york times,1
+3268,freebase,6943,dbpedia,1
+3267,new york times,6943,dbpedia,1
+6284,freebase,4697,dbpedia,1
+6284,freebase,4696,new york times,1
+6284,freebase,4850,geonames,1
+4697,dbpedia,4696,new york times,1
+4697,dbpedia,4850,geonames,1
+4696,new york times,4850,geonames,1
+5529,dbpedia,3925,geonames,1
+5529,dbpedia,5419,freebase,1
+5529,dbpedia,3924,new york times,1
+3925,geonames,5419,freebase,1
+3925,geonames,3924,new york times,1
+5419,freebase,3924,new york times,1
+4000,dbpedia,5462,freebase,1
+4000,dbpedia,3742,new york times,1
+4000,dbpedia,3743,geonames,1
+5462,freebase,3742,new york times,1
+5462,freebase,3743,geonames,1
+3742,new york times,3743,geonames,1
+1286,freebase,1285,new york times,1
+1286,freebase,2588,geonames,1
+1286,freebase,2322,dbpedia,1
+1285,new york times,2588,geonames,1
+1285,new york times,2322,dbpedia,1
+2588,geonames,2322,dbpedia,1
+675,geonames,674,new york times,1
+675,geonames,4561,freebase,1
+675,geonames,4043,dbpedia,1
+674,new york times,4561,freebase,1
+674,new york times,4043,dbpedia,1
+4561,freebase,4043,dbpedia,1
+3299,new york times,7024,geonames,1
+3299,new york times,4649,freebase,1
+3299,new york times,3300,dbpedia,1
+7024,geonames,4649,freebase,1
+7024,geonames,3300,dbpedia,1
+4649,freebase,3300,dbpedia,1
+1626,freebase,7260,dbpedia,1
+1626,freebase,1625,new york times,1
+1626,freebase,4057,geonames,1
+7260,dbpedia,1625,new york times,1
+7260,dbpedia,4057,geonames,1
+1625,new york times,4057,geonames,1
+84,new york times,85,dbpedia,1
+84,new york times,6492,freebase,1
+84,new york times,7274,geonames,1
+85,dbpedia,6492,freebase,1
+85,dbpedia,7274,geonames,1
+6492,freebase,7274,geonames,1
+310,new york times,311,dbpedia,1
+310,new york times,5933,geonames,1
+310,new york times,2222,freebase,1
+310,new york times,7589,ambiguity-generator,1
+311,dbpedia,5933,geonames,1
+311,dbpedia,2222,freebase,1
+311,dbpedia,7589,ambiguity-generator,1
+5933,geonames,2222,freebase,1
+5933,geonames,7589,ambiguity-generator,1
+2222,freebase,7589,ambiguity-generator,1
+7589,ambiguity-generator,3044,new york times,1
+3525,geonames,3524,new york times,1
+3525,geonames,7409,dbpedia,1
+3524,new york times,7409,dbpedia,1
+5193,dbpedia,5192,new york times,1
+5193,dbpedia,6907,freebase,1
+5193,dbpedia,5398,geonames,1
+5192,new york times,6907,freebase,1
+5192,new york times,5398,geonames,1
+6907,freebase,5398,geonames,1
+2898,freebase,2897,new york times,1
+2898,freebase,4430,dbpedia,1
+2898,freebase,6856,geonames,1
+2897,new york times,4430,dbpedia,1
+2897,new york times,6856,geonames,1
+4430,dbpedia,6856,geonames,1
+6916,dbpedia,5766,freebase,1
+6916,dbpedia,4034,geonames,1
+6916,dbpedia,4033,new york times,1
+5766,freebase,4034,geonames,1
+5766,freebase,4033,new york times,1
+4034,geonames,4033,new york times,1
+2334,freebase,747,dbpedia,1
+1666,geonames,5733,dbpedia,1
+1666,geonames,1665,new york times,1
+1666,geonames,2820,freebase,1
+5733,dbpedia,1665,new york times,1
+5733,dbpedia,2820,freebase,1
+1665,new york times,2820,freebase,1
+255,dbpedia,4388,freebase,1
+3759,dbpedia,3758,new york times,1
+3759,dbpedia,7309,geonames,1
+3759,dbpedia,4128,freebase,1
+3758,new york times,7309,geonames,1
+3758,new york times,4128,freebase,1
+7309,geonames,4128,freebase,1
+1970,dbpedia,1969,new york times,1
+1970,dbpedia,4797,freebase,1
+1970,dbpedia,4056,geonames,1
+1969,new york times,4797,freebase,1
+1969,new york times,4056,geonames,1
+4797,freebase,4056,geonames,1
+3164,dbpedia,5959,freebase,1
+3164,dbpedia,6147,geonames,1
+3164,dbpedia,3163,new york times,1
+5959,freebase,6147,geonames,1
+5959,freebase,3163,new york times,1
+6147,geonames,3163,new york times,1
+5533,new york times,6732,geonames,1
+5533,new york times,6025,freebase,1
+5533,new york times,5534,dbpedia,1
+6732,geonames,6025,freebase,1
+6732,geonames,5534,dbpedia,1
+6025,freebase,5534,dbpedia,1
+2860,dbpedia,1751,geonames,1
+2860,dbpedia,5577,freebase,1
+2860,dbpedia,1750,new york times,1
+1751,geonames,5577,freebase,1
+1751,geonames,1750,new york times,1
+5577,freebase,1750,new york times,1
+5296,geonames,1227,freebase,1
+5296,geonames,1226,new york times,1
+5296,geonames,3484,dbpedia,1
+1227,freebase,1226,new york times,1
+1227,freebase,3484,dbpedia,1
+1226,new york times,3484,dbpedia,1
+1180,geonames,3165,freebase,1
+1180,geonames,5248,dbpedia,1
+1180,geonames,1179,new york times,1
+3165,freebase,5248,dbpedia,1
+3165,freebase,1179,new york times,1
+5248,dbpedia,1179,new york times,1
+81,geonames,80,new york times,1
+81,geonames,5272,dbpedia,1
+81,geonames,2569,freebase,1
+80,new york times,5272,dbpedia,1
+80,new york times,2569,freebase,1
+5272,dbpedia,2569,freebase,1
+635,new york times,7093,geonames,1
+635,new york times,4853,freebase,1
+635,new york times,636,dbpedia,1
+7093,geonames,4853,freebase,1
+7093,geonames,636,dbpedia,1
+4853,freebase,636,dbpedia,1
+1257,new york times,1681,freebase,1
+1257,new york times,1258,dbpedia,1
+1257,new york times,3221,geonames,1
+1681,freebase,1258,dbpedia,1
+1681,freebase,3221,geonames,1
+1258,dbpedia,3221,geonames,1
+1894,freebase,2307,dbpedia,1
+1894,freebase,1301,geonames,1
+1894,freebase,1300,new york times,1
+2307,dbpedia,1301,geonames,1
+2307,dbpedia,1300,new york times,1
+1301,geonames,1300,new york times,1
+7257,freebase,5157,new york times,1
+7257,freebase,5158,dbpedia,1
+7257,freebase,7451,geonames,1
+5157,new york times,5158,dbpedia,1
+5157,new york times,7451,geonames,1
+5158,dbpedia,7451,geonames,1
+1413,freebase,1412,new york times,1
+1413,freebase,7241,dbpedia,1
+1413,freebase,2412,geonames,1
+1412,new york times,7241,dbpedia,1
+1412,new york times,2412,geonames,1
+7241,dbpedia,2412,geonames,1
+5382,geonames,5028,new york times,1
+5382,geonames,5029,freebase,1
+5382,geonames,7271,dbpedia,1
+5028,new york times,5029,freebase,1
+5028,new york times,7271,dbpedia,1
+5029,freebase,7271,dbpedia,1
+5133,freebase,3692,dbpedia,1
+5133,freebase,3691,new york times,1
+5133,freebase,6032,geonames,1
+3692,dbpedia,3691,new york times,1
+3692,dbpedia,6032,geonames,1
+3691,new york times,6032,geonames,1
+6157,geonames,272,new york times,1
+6157,geonames,7504,dbpedia,1
+6157,geonames,273,freebase,1
+272,new york times,7504,dbpedia,1
+272,new york times,273,freebase,1
+7504,dbpedia,273,freebase,1
+3230,geonames,2030,dbpedia,1
+3230,geonames,2029,new york times,1
+3230,geonames,5556,freebase,1
+2030,dbpedia,2029,new york times,1
+2030,dbpedia,5556,freebase,1
+2029,new york times,5556,freebase,1
+5621,dbpedia,5620,new york times,1
+5621,dbpedia,6687,freebase,1
+5621,dbpedia,6560,geonames,1
+5620,new york times,6687,freebase,1
+5620,new york times,6560,geonames,1
+6687,freebase,6560,geonames,1
+6645,geonames,2756,new york times,1
+6645,geonames,5564,dbpedia,1
+2756,new york times,5564,dbpedia,1
+7296,dbpedia,2943,freebase,1
+7296,dbpedia,2942,new york times,1
+7296,dbpedia,3725,geonames,1
+2943,freebase,2942,new york times,1
+2943,freebase,3725,geonames,1
+2942,new york times,3725,geonames,1
+7488,geonames,1852,dbpedia,1
+7488,geonames,1851,new york times,1
+7488,geonames,6316,freebase,1
+1852,dbpedia,1851,new york times,1
+1852,dbpedia,6316,freebase,1
+1851,new york times,6316,freebase,1
+4691,new york times,6854,geonames,1
+4691,new york times,4692,freebase,1
+4691,new york times,5713,dbpedia,1
+6854,geonames,4692,freebase,1
+6854,geonames,5713,dbpedia,1
+4692,freebase,5713,dbpedia,1
+4769,freebase,4768,new york times,1
+4769,freebase,7379,geonames,1
+4769,freebase,7263,dbpedia,1
+4768,new york times,7379,geonames,1
+4768,new york times,7263,dbpedia,1
+7379,geonames,7263,dbpedia,1
+6075,dbpedia,7509,freebase,1
+2298,new york times,3971,geonames,1
+2298,new york times,2299,dbpedia,1
+2298,new york times,3836,freebase,1
+3971,geonames,2299,dbpedia,1
+3971,geonames,3836,freebase,1
+2299,dbpedia,3836,freebase,1
+1815,geonames,1814,new york times,1
+1815,geonames,4981,dbpedia,1
+1815,geonames,4834,freebase,1
+1814,new york times,4981,dbpedia,1
+1814,new york times,4834,freebase,1
+4981,dbpedia,4834,freebase,1
+6819,dbpedia,6068,geonames,1
+6819,dbpedia,4051,freebase,1
+6819,dbpedia,4050,new york times,1
+6068,geonames,4051,freebase,1
+6068,geonames,4050,new york times,1
+4051,freebase,4050,new york times,1
+1946,dbpedia,1945,new york times,1
+1946,dbpedia,6698,freebase,1
+1946,dbpedia,2865,geonames,1
+1945,new york times,6698,freebase,1
+1945,new york times,2865,geonames,1
+6698,freebase,2865,geonames,1
+2926,dbpedia,2373,freebase,1
+2926,dbpedia,7507,geonames,1
+2926,dbpedia,2372,new york times,1
+2373,freebase,7507,geonames,1
+2373,freebase,2372,new york times,1
+7507,geonames,2372,new york times,1
+5378,new york times,5576,geonames,1
+5378,new york times,5719,dbpedia,1
+5378,new york times,5379,freebase,1
+5576,geonames,5719,dbpedia,1
+5576,geonames,5379,freebase,1
+5719,dbpedia,5379,freebase,1
+5312,geonames,5311,new york times,1
+5312,geonames,6026,dbpedia,1
+5312,geonames,6938,freebase,1
+5311,new york times,6026,dbpedia,1
+5311,new york times,6938,freebase,1
+6026,dbpedia,6938,freebase,1
+797,dbpedia,796,new york times,1
+797,dbpedia,5075,freebase,1
+797,dbpedia,7077,geonames,1
+796,new york times,5075,freebase,1
+796,new york times,7077,geonames,1
+5075,freebase,7077,geonames,1
+5055,dbpedia,5164,geonames,1
+5055,dbpedia,3180,freebase,1
+5055,dbpedia,3179,new york times,1
+5164,geonames,3180,freebase,1
+5164,geonames,3179,new york times,1
+3180,freebase,3179,new york times,1
+1183,freebase,7213,dbpedia,1
+1183,freebase,1182,new york times,1
+1183,freebase,5145,geonames,1
+7213,dbpedia,1182,new york times,1
+7213,dbpedia,5145,geonames,1
+1182,new york times,5145,geonames,1
+5147,freebase,5146,new york times,1
+5147,freebase,7523,geonames,1
+5147,freebase,6500,dbpedia,1
+5146,new york times,7523,geonames,1
+5146,new york times,6500,dbpedia,1
+7523,geonames,6500,dbpedia,1
+5806,geonames,5305,new york times,1
+5806,geonames,7006,dbpedia,1
+5806,geonames,5306,freebase,1
+5305,new york times,7006,dbpedia,1
+5305,new york times,5306,freebase,1
+7006,dbpedia,5306,freebase,1
+5641,freebase,1193,new york times,1
+5641,freebase,3902,dbpedia,1
+5641,freebase,1194,geonames,1
+1193,new york times,3902,dbpedia,1
+1193,new york times,1194,geonames,1
+3902,dbpedia,1194,geonames,1
+7025,freebase,3843,dbpedia,1
+485,freebase,7284,geonames,1
+485,freebase,484,new york times,1
+485,freebase,1746,dbpedia,1
+7284,geonames,484,new york times,1
+7284,geonames,1746,dbpedia,1
+484,new york times,1746,dbpedia,1
+3865,freebase,6167,dbpedia,1
+3865,freebase,5646,geonames,1
+3865,freebase,3864,new york times,1
+6167,dbpedia,5646,geonames,1
+6167,dbpedia,3864,new york times,1
+5646,geonames,3864,new york times,1
+3979,freebase,3978,new york times,1
+3979,freebase,7003,dbpedia,1
+3979,freebase,4959,geonames,1
+3978,new york times,7003,dbpedia,1
+3978,new york times,4959,geonames,1
+7003,dbpedia,4959,geonames,1
+6301,new york times,6599,geonames,1
+6301,new york times,7510,dbpedia,1
+6301,new york times,6302,freebase,1
+6599,geonames,7510,dbpedia,1
+6599,geonames,6302,freebase,1
+7510,dbpedia,6302,freebase,1
+5551,geonames,5125,dbpedia,1
+5551,geonames,5124,new york times,1
+5551,geonames,5957,freebase,1
+5125,dbpedia,5124,new york times,1
+5125,dbpedia,5957,freebase,1
+5124,new york times,5957,freebase,1
+2005,geonames,2004,new york times,1
+2005,geonames,6540,dbpedia,1
+2005,geonames,4402,freebase,1
+2004,new york times,6540,dbpedia,1
+2004,new york times,4402,freebase,1
+6540,dbpedia,4402,freebase,1
+1864,geonames,5030,freebase,1
+1864,geonames,141,dbpedia,1
+1864,geonames,140,new york times,1
+5030,freebase,141,dbpedia,1
+5030,freebase,140,new york times,1
+141,dbpedia,140,new york times,1
+6805,freebase,6508,dbpedia,1
+6805,freebase,3529,geonames,1
+6805,freebase,3528,new york times,1
+6508,dbpedia,3529,geonames,1
+6508,dbpedia,3528,new york times,1
+3529,geonames,3528,new york times,1
+2857,dbpedia,2810,new york times,1
+2857,dbpedia,2811,freebase,1
+2857,dbpedia,6115,geonames,1
+2810,new york times,2811,freebase,1
+2810,new york times,6115,geonames,1
+2811,freebase,6115,geonames,1
+4210,dbpedia,2492,freebase,1
+3781,dbpedia,3780,new york times,1
+3781,dbpedia,6619,freebase,1
+3781,dbpedia,4229,geonames,1
+3780,new york times,6619,freebase,1
+3780,new york times,4229,geonames,1
+6619,freebase,4229,geonames,1
+3186,geonames,1430,freebase,1
+3186,geonames,2850,dbpedia,1
+3186,geonames,1429,new york times,1
+1430,freebase,2850,dbpedia,1
+1430,freebase,1429,new york times,1
+2850,dbpedia,1429,new york times,1
+4987,freebase,1656,dbpedia,1
+4987,freebase,762,new york times,1
+4987,freebase,763,geonames,1
+1656,dbpedia,762,new york times,1
+1656,dbpedia,763,geonames,1
+762,new york times,763,geonames,1
+1680,geonames,3972,dbpedia,1
+1680,geonames,1679,new york times,1
+1680,geonames,4046,freebase,1
+3972,dbpedia,1679,new york times,1
+3972,dbpedia,4046,freebase,1
+1679,new york times,4046,freebase,1
+3751,freebase,2092,geonames,1
+3751,freebase,2091,new york times,1
+3751,freebase,2812,dbpedia,1
+2092,geonames,2091,new york times,1
+2092,geonames,2812,dbpedia,1
+2091,new york times,2812,dbpedia,1
+6373,geonames,6892,dbpedia,1
+6373,geonames,4567,new york times,1
+6373,geonames,4568,freebase,1
+6892,dbpedia,4567,new york times,1
+6892,dbpedia,4568,freebase,1
+4567,new york times,4568,freebase,1
+1512,dbpedia,5338,geonames,1
+1512,dbpedia,826,freebase,1
+1512,dbpedia,825,new york times,1
+5338,geonames,826,freebase,1
+5338,geonames,825,new york times,1
+826,freebase,825,new york times,1
+1387,new york times,1388,dbpedia,1
+1387,new york times,6515,geonames,1
+1387,new york times,6800,freebase,1
+1388,dbpedia,6515,geonames,1
+1388,dbpedia,6800,freebase,1
+6515,geonames,6800,freebase,1
+32,new york times,5716,geonames,1
+32,new york times,7590,ambiguity-generator,1
+32,new york times,2587,dbpedia,1
+32,new york times,33,freebase,1
+5716,geonames,7590,ambiguity-generator,1
+5716,geonames,2587,dbpedia,1
+5716,geonames,33,freebase,1
+7590,ambiguity-generator,2587,dbpedia,1
+7590,ambiguity-generator,33,freebase,1
+2587,dbpedia,33,freebase,1
+7590,ambiguity-generator,5642,geonames,1
+5278,dbpedia,1510,geonames,1
+5278,dbpedia,1509,new york times,1
+5278,dbpedia,1757,freebase,1
+1510,geonames,1509,new york times,1
+1510,geonames,1757,freebase,1
+1509,new york times,1757,freebase,1
+1944,dbpedia,1646,freebase,1
+2381,new york times,6903,freebase,1
+2381,new york times,2878,dbpedia,1
+2381,new york times,2382,geonames,1
+6903,freebase,2878,dbpedia,1
+6903,freebase,2382,geonames,1
+2878,dbpedia,2382,geonames,1
+5722,geonames,5721,new york times,1
+5722,geonames,7119,dbpedia,1
+5722,geonames,6210,freebase,1
+5721,new york times,7119,dbpedia,1
+5721,new york times,6210,freebase,1
+7119,dbpedia,6210,freebase,1
+5369,freebase,3489,geonames,1
+5369,freebase,1215,new york times,1
+3489,geonames,1215,new york times,1
+5212,freebase,5799,dbpedia,1
+6419,dbpedia,3499,geonames,1
+6419,dbpedia,1433,freebase,1
+6419,dbpedia,1432,new york times,1
+3499,geonames,1433,freebase,1
+3499,geonames,1432,new york times,1
+1433,freebase,1432,new york times,1
+4481,freebase,7248,dbpedia,1
+4481,freebase,4480,new york times,1
+4481,freebase,6221,geonames,1
+7248,dbpedia,4480,new york times,1
+7248,dbpedia,6221,geonames,1
+4480,new york times,6221,geonames,1
+4953,dbpedia,2110,new york times,1
+4953,dbpedia,2111,geonames,1
+4953,dbpedia,2670,freebase,1
+2110,new york times,2111,geonames,1
+2110,new york times,2670,freebase,1
+2111,geonames,2670,freebase,1
+5934,dbpedia,4884,freebase,1
+5934,dbpedia,6182,geonames,1
+5934,dbpedia,4883,new york times,1
+4884,freebase,6182,geonames,1
+4884,freebase,4883,new york times,1
+6182,geonames,4883,new york times,1
+5386,freebase,1059,geonames,1
+5386,freebase,1058,new york times,1
+5386,freebase,5697,dbpedia,1
+1059,geonames,1058,new york times,1
+1059,geonames,5697,dbpedia,1
+1058,new york times,5697,dbpedia,1
+3905,dbpedia,1672,geonames,1
+3905,dbpedia,1671,new york times,1
+3905,dbpedia,6077,freebase,1
+1672,geonames,1671,new york times,1
+1672,geonames,6077,freebase,1
+1671,new york times,6077,freebase,1
+676,new york times,4892,dbpedia,1
+676,new york times,6174,geonames,1
+676,new york times,677,freebase,1
+4892,dbpedia,6174,geonames,1
+4892,dbpedia,677,freebase,1
+6174,geonames,677,freebase,1
+2380,geonames,4311,freebase,1
+2380,geonames,1993,dbpedia,1
+2380,geonames,1992,new york times,1
+4311,freebase,1993,dbpedia,1
+4311,freebase,1992,new york times,1
+1993,dbpedia,1992,new york times,1
+4617,dbpedia,4616,new york times,1
+4617,dbpedia,7422,geonames,1
+4617,dbpedia,5162,freebase,1
+4616,new york times,7422,geonames,1
+4616,new york times,5162,freebase,1
+7422,geonames,5162,freebase,1
+4368,geonames,7131,dbpedia,1
+4368,geonames,5682,freebase,1
+4368,geonames,4367,new york times,1
+7131,dbpedia,5682,freebase,1
+7131,dbpedia,4367,new york times,1
+5682,freebase,4367,new york times,1
+5939,dbpedia,7455,freebase,1
+5939,dbpedia,5938,new york times,1
+5939,dbpedia,6440,geonames,1
+7455,freebase,5938,new york times,1
+7455,freebase,6440,geonames,1
+5938,new york times,6440,geonames,1
+6144,dbpedia,3899,geonames,1
+6144,dbpedia,6655,freebase,1
+6144,dbpedia,3898,new york times,1
+3899,geonames,6655,freebase,1
+3899,geonames,3898,new york times,1
+6655,freebase,3898,new york times,1
+2586,dbpedia,7204,freebase,1
+2586,dbpedia,2585,new york times,1
+2586,dbpedia,5517,geonames,1
+7204,freebase,2585,new york times,1
+7204,freebase,5517,geonames,1
+2585,new york times,5517,geonames,1
+6585,geonames,2625,dbpedia,1
+6585,geonames,79,freebase,1
+6585,geonames,78,new york times,1
+2625,dbpedia,79,freebase,1
+2625,dbpedia,78,new york times,1
+79,freebase,78,new york times,1
+3816,geonames,3815,new york times,1
+3816,geonames,4506,dbpedia,1
+3816,geonames,7109,freebase,1
+3815,new york times,4506,dbpedia,1
+3815,new york times,7109,freebase,1
+4506,dbpedia,7109,freebase,1
+6590,dbpedia,6589,new york times,1
+6590,dbpedia,7341,freebase,1
+6590,dbpedia,7236,geonames,1
+6589,new york times,7341,freebase,1
+6589,new york times,7236,geonames,1
+7341,freebase,7236,geonames,1
+5605,dbpedia,4791,freebase,1
+5605,dbpedia,2167,new york times,1
+5605,dbpedia,2168,geonames,1
+4791,freebase,2167,new york times,1
+4791,freebase,2168,geonames,1
+2167,new york times,2168,geonames,1
+175,geonames,174,new york times,1
+175,geonames,4839,dbpedia,1
+175,geonames,4681,freebase,1
+174,new york times,4839,dbpedia,1
+174,new york times,4681,freebase,1
+4839,dbpedia,4681,freebase,1
+3542,dbpedia,3541,new york times,1
+3542,dbpedia,5811,freebase,1
+3542,dbpedia,6479,geonames,1
+3541,new york times,5811,freebase,1
+3541,new york times,6479,geonames,1
+5811,freebase,6479,geonames,1
+1120,dbpedia,7591,ambiguity-generator,1
+1120,dbpedia,5177,geonames,1
+1120,dbpedia,1615,freebase,1
+1120,dbpedia,1119,new york times,1
+7591,ambiguity-generator,5177,geonames,1
+7591,ambiguity-generator,1615,freebase,1
+7591,ambiguity-generator,1119,new york times,1
+5177,geonames,1615,freebase,1
+5177,geonames,1119,new york times,1
+1615,freebase,1119,new york times,1
+7591,ambiguity-generator,1882,geonames,1
+3044,new york times,3106,geonames,1
+3044,new york times,4089,dbpedia,1
+3044,new york times,3045,freebase,1
+3106,geonames,4089,dbpedia,1
+3106,geonames,3045,freebase,1
+4089,dbpedia,3045,freebase,1
+2329,freebase,5508,geonames,1
+2329,freebase,2328,new york times,1
+2329,freebase,6939,dbpedia,1
+5508,geonames,2328,new york times,1
+5508,geonames,6939,dbpedia,1
+2328,new york times,6939,dbpedia,1
+265,freebase,264,new york times,1
+265,freebase,1289,geonames,1
+265,freebase,6156,dbpedia,1
+264,new york times,1289,geonames,1
+264,new york times,6156,dbpedia,1
+1289,geonames,6156,dbpedia,1
+2193,new york times,5695,geonames,1
+2193,new york times,5978,dbpedia,1
+2193,new york times,2194,freebase,1
+5695,geonames,5978,dbpedia,1
+5695,geonames,2194,freebase,1
+5978,dbpedia,2194,freebase,1
+7101,geonames,6859,freebase,1
+7101,geonames,24,new york times,1
+7101,geonames,25,dbpedia,1
+6859,freebase,24,new york times,1
+6859,freebase,25,dbpedia,1
+24,new york times,25,dbpedia,1
+4799,dbpedia,3765,geonames,1
+4799,dbpedia,3764,new york times,1
+4799,dbpedia,5699,freebase,1
+3765,geonames,3764,new york times,1
+3765,geonames,5699,freebase,1
+3764,new york times,5699,freebase,1
+5642,geonames,624,dbpedia,1
+5642,geonames,2690,freebase,1
+5642,geonames,623,new york times,1
+624,dbpedia,2690,freebase,1
+624,dbpedia,623,new york times,1
+2690,freebase,623,new york times,1
+2796,freebase,5736,dbpedia,1
+2796,freebase,2795,new york times,1
+2796,freebase,6674,geonames,1
+5736,dbpedia,2795,new york times,1
+5736,dbpedia,6674,geonames,1
+2795,new york times,6674,geonames,1
+716,dbpedia,715,new york times,1
+716,dbpedia,4148,freebase,1
+716,dbpedia,6563,geonames,1
+715,new york times,4148,freebase,1
+715,new york times,6563,geonames,1
+4148,freebase,6563,geonames,1
+6273,geonames,6162,dbpedia,1
+6273,geonames,5837,freebase,1
+6273,geonames,5836,new york times,1
+6162,dbpedia,5837,freebase,1
+6162,dbpedia,5836,new york times,1
+5837,freebase,5836,new york times,1
+1642,freebase,5970,dbpedia,1
+1642,freebase,576,geonames,1
+1642,freebase,575,new york times,1
+5970,dbpedia,576,geonames,1
+5970,dbpedia,575,new york times,1
+576,geonames,575,new york times,1
+5932,freebase,7105,geonames,1
+5932,freebase,5931,new york times,1
+5932,freebase,6620,dbpedia,1
+7105,geonames,5931,new york times,1
+7105,geonames,6620,dbpedia,1
+5931,new york times,6620,dbpedia,1
+1368,dbpedia,1367,new york times,1
+1368,dbpedia,5452,geonames,1
+1368,dbpedia,3289,freebase,1
+1367,new york times,5452,geonames,1
+1367,new york times,3289,freebase,1
+5452,geonames,3289,freebase,1
+5858,dbpedia,5857,new york times,1
+5858,dbpedia,6389,freebase,1
+5858,dbpedia,6365,geonames,1
+5857,new york times,6389,freebase,1
+5857,new york times,6365,geonames,1
+6389,freebase,6365,geonames,1
+7448,freebase,1040,geonames,1
+7448,freebase,4393,dbpedia,1
+7448,freebase,1039,new york times,1
+1040,geonames,4393,dbpedia,1
+1040,geonames,1039,new york times,1
+4393,dbpedia,1039,new york times,1
+4956,dbpedia,4955,new york times,1
+4956,dbpedia,7270,geonames,1
+4956,dbpedia,6652,freebase,1
+4955,new york times,7270,geonames,1
+4955,new york times,6652,freebase,1
+7270,geonames,6652,freebase,1
+795,geonames,7056,dbpedia,1
+795,geonames,794,new york times,1
+795,geonames,7211,freebase,1
+7056,dbpedia,794,new york times,1
+7056,dbpedia,7211,freebase,1
+794,new york times,7211,freebase,1
+729,geonames,83,dbpedia,1
+729,geonames,3255,freebase,1
+729,geonames,82,new york times,1
+83,dbpedia,3255,freebase,1
+83,dbpedia,82,new york times,1
+3255,freebase,82,new york times,1
+5201,geonames,1411,dbpedia,1
+5201,geonames,1410,new york times,1
+5201,geonames,6184,freebase,1
+1411,dbpedia,1410,new york times,1
+1411,dbpedia,6184,freebase,1
+1410,new york times,6184,freebase,1
+987,geonames,4273,dbpedia,1
+987,geonames,4453,freebase,1
+987,geonames,986,new york times,1
+4273,dbpedia,4453,freebase,1
+4273,dbpedia,986,new york times,1
+4453,freebase,986,new york times,1
+4373,dbpedia,3598,freebase,1
+838,freebase,837,new york times,1
+838,freebase,3955,geonames,1
+838,freebase,946,dbpedia,1
+837,new york times,3955,geonames,1
+837,new york times,946,dbpedia,1
+3955,geonames,946,dbpedia,1
+866,geonames,5090,freebase,1
+866,geonames,4656,dbpedia,1
+866,geonames,865,new york times,1
+5090,freebase,4656,dbpedia,1
+5090,freebase,865,new york times,1
+4656,dbpedia,865,new york times,1
+5073,freebase,2552,new york times,1
+5073,freebase,2553,geonames,1
+5073,freebase,2792,dbpedia,1
+2552,new york times,2553,geonames,1
+2552,new york times,2792,dbpedia,1
+2553,geonames,2792,dbpedia,1
+5432,new york times,6985,geonames,1
+5432,new york times,7239,freebase,1
+5432,new york times,5433,dbpedia,1
+6985,geonames,7239,freebase,1
+6985,geonames,5433,dbpedia,1
+7239,freebase,5433,dbpedia,1
+2389,new york times,5573,geonames,1
+2389,new york times,6936,dbpedia,1
+2389,new york times,2390,freebase,1
+5573,geonames,6936,dbpedia,1
+5573,geonames,2390,freebase,1
+6936,dbpedia,2390,freebase,1
+3251,geonames,5909,dbpedia,1
+3251,geonames,271,freebase,1
+3251,geonames,270,new york times,1
+5909,dbpedia,271,freebase,1
+5909,dbpedia,270,new york times,1
+271,freebase,270,new york times,1
+7011,dbpedia,4897,freebase,1
+7011,dbpedia,453,geonames,1
+7011,dbpedia,452,new york times,1
+4897,freebase,453,geonames,1
+4897,freebase,452,new york times,1
+453,geonames,452,new york times,1
+974,freebase,7348,dbpedia,1
+974,freebase,5627,geonames,1
+974,freebase,973,new york times,1
+7348,dbpedia,5627,geonames,1
+7348,dbpedia,973,new york times,1
+5627,geonames,973,new york times,1
+5447,dbpedia,299,freebase,1
+5447,dbpedia,298,new york times,1
+5447,dbpedia,5013,geonames,1
+299,freebase,298,new york times,1
+299,freebase,5013,geonames,1
+298,new york times,5013,geonames,1
+1696,geonames,1695,new york times,1
+1696,geonames,2132,freebase,1
+1696,geonames,4821,dbpedia,1
+1695,new york times,2132,freebase,1
+1695,new york times,4821,dbpedia,1
+2132,freebase,4821,dbpedia,1
+2405,new york times,4066,dbpedia,1
+2405,new york times,4960,freebase,1
+2405,new york times,2406,geonames,1
+4066,dbpedia,4960,freebase,1
+4066,dbpedia,2406,geonames,1
+4960,freebase,2406,geonames,1
+5595,geonames,284,new york times,1
+5418,geonames,1262,dbpedia,1
+5418,geonames,5375,freebase,1
+5418,geonames,1261,new york times,1
+1262,dbpedia,5375,freebase,1
+1262,dbpedia,1261,new york times,1
+5375,freebase,1261,new york times,1
+5790,freebase,1159,geonames,1
+5790,freebase,5910,dbpedia,1
+5790,freebase,1158,new york times,1
+1159,geonames,5910,dbpedia,1
+1159,geonames,1158,new york times,1
+5910,dbpedia,1158,new york times,1
+1903,new york times,4117,freebase,1
+1903,new york times,7386,geonames,1
+1903,new york times,1904,dbpedia,1
+4117,freebase,7386,geonames,1
+4117,freebase,1904,dbpedia,1
+7386,geonames,1904,dbpedia,1
+213,geonames,212,new york times,1
+213,geonames,375,freebase,1
+213,geonames,4021,dbpedia,1
+212,new york times,375,freebase,1
+212,new york times,4021,dbpedia,1
+375,freebase,4021,dbpedia,1
+269,geonames,3195,dbpedia,1
+269,geonames,268,new york times,1
+269,geonames,3565,freebase,1
+3195,dbpedia,268,new york times,1
+3195,dbpedia,3565,freebase,1
+268,new york times,3565,freebase,1
+1835,new york times,5741,dbpedia,1
+1835,new york times,5126,freebase,1
+1835,new york times,1836,geonames,1
+5741,dbpedia,5126,freebase,1
+5741,dbpedia,1836,geonames,1
+5126,freebase,1836,geonames,1
+5449,geonames,6920,dbpedia,1
+5449,geonames,5448,new york times,1
+6920,dbpedia,5448,new york times,1
+6187,new york times,7071,freebase,1
+6187,new york times,7012,dbpedia,1
+6187,new york times,6188,geonames,1
+7071,freebase,7012,dbpedia,1
+7071,freebase,6188,geonames,1
+7012,dbpedia,6188,geonames,1
+3005,new york times,7222,freebase,1
+3005,new york times,5822,geonames,1
+3005,new york times,3006,dbpedia,1
+7222,freebase,5822,geonames,1
+7222,freebase,3006,dbpedia,1
+5822,geonames,3006,dbpedia,1
+977,new york times,4726,geonames,1
+977,new york times,978,dbpedia,1
+977,new york times,4535,freebase,1
+4726,geonames,978,dbpedia,1
+4726,geonames,4535,freebase,1
+978,dbpedia,4535,freebase,1
+7245,geonames,2564,new york times,1
+7245,geonames,2565,freebase,1
+7245,geonames,3467,dbpedia,1
+2564,new york times,2565,freebase,1
+2564,new york times,3467,dbpedia,1
+2565,freebase,3467,dbpedia,1
+2703,geonames,2702,new york times,1
+2703,geonames,6339,dbpedia,1
+2702,new york times,6339,dbpedia,1
+1044,freebase,1043,new york times,1
+1044,freebase,6833,geonames,1
+1044,freebase,4358,dbpedia,1
+1043,new york times,6833,geonames,1
+1043,new york times,4358,dbpedia,1
+6833,geonames,4358,dbpedia,1
+6876,geonames,52,new york times,1
+6876,geonames,2921,dbpedia,1
+6876,geonames,53,freebase,1
+52,new york times,2921,dbpedia,1
+52,new york times,53,freebase,1
+2921,dbpedia,53,freebase,1
+415,dbpedia,58,new york times,1
+415,dbpedia,5340,geonames,1
+415,dbpedia,59,freebase,1
+58,new york times,5340,geonames,1
+58,new york times,59,freebase,1
+5340,geonames,59,freebase,1
+1771,dbpedia,345,new york times,1
+1771,dbpedia,4646,freebase,1
+1771,dbpedia,346,geonames,1
+345,new york times,4646,freebase,1
+345,new york times,346,geonames,1
+4646,freebase,346,geonames,1
+7519,freebase,3464,geonames,1
+7519,freebase,3463,new york times,1
+7519,freebase,5671,dbpedia,1
+3464,geonames,3463,new york times,1
+3464,geonames,5671,dbpedia,1
+3463,new york times,5671,dbpedia,1
+5744,dbpedia,7143,geonames,1
+5744,dbpedia,424,freebase,1
+5744,dbpedia,423,new york times,1
+7143,geonames,424,freebase,1
+7143,geonames,423,new york times,1
+424,freebase,423,new york times,1
+4351,geonames,3594,dbpedia,1
+4351,geonames,1721,new york times,1
+4351,geonames,1722,freebase,1
+3594,dbpedia,1721,new york times,1
+3594,dbpedia,1722,freebase,1
+1721,new york times,1722,freebase,1
+7261,freebase,3538,new york times,1
+7261,freebase,3539,dbpedia,1
+7261,freebase,1869,geonames,1
+3538,new york times,3539,dbpedia,1
+3538,new york times,1869,geonames,1
+3539,dbpedia,1869,geonames,1
+6630,geonames,1841,dbpedia,1
+6630,geonames,3050,freebase,1
+6630,geonames,1840,new york times,1
+1841,dbpedia,3050,freebase,1
+1841,dbpedia,1840,new york times,1
+3050,freebase,1840,new york times,1
+5631,geonames,2761,dbpedia,1
+5631,geonames,3875,freebase,1
+5631,geonames,2760,new york times,1
+2761,dbpedia,3875,freebase,1
+2761,dbpedia,2760,new york times,1
+3875,freebase,2760,new york times,1
+5653,dbpedia,7061,freebase,1
+5653,dbpedia,2438,geonames,1
+5653,dbpedia,2437,new york times,1
+7061,freebase,2438,geonames,1
+7061,freebase,2437,new york times,1
+2438,geonames,2437,new york times,1
+1588,new york times,1589,freebase,1
+1588,new york times,5232,geonames,1
+1588,new york times,6682,dbpedia,1
+1589,freebase,5232,geonames,1
+1589,freebase,6682,dbpedia,1
+5232,geonames,6682,dbpedia,1
+6499,dbpedia,7129,geonames,1
+6499,dbpedia,6498,new york times,1
+6499,dbpedia,7068,freebase,1
+7129,geonames,6498,new york times,1
+7129,geonames,7068,freebase,1
+6498,new york times,7068,freebase,1
+3738,new york times,4504,geonames,1
+3738,new york times,4659,freebase,1
+3738,new york times,3739,dbpedia,1
+4504,geonames,4659,freebase,1
+4504,geonames,3739,dbpedia,1
+4659,freebase,3739,dbpedia,1
+6061,dbpedia,3760,freebase,1
+6061,dbpedia,959,geonames,1
+6061,dbpedia,958,new york times,1
+3760,freebase,959,geonames,1
+3760,freebase,958,new york times,1
+959,geonames,958,new york times,1
+6412,freebase,1208,geonames,1
+6412,freebase,1678,dbpedia,1
+6412,freebase,1207,new york times,1
+1208,geonames,1678,dbpedia,1
+1208,geonames,1207,new york times,1
+1678,dbpedia,1207,new york times,1
+422,dbpedia,421,new york times,1
+422,dbpedia,7373,geonames,1
+422,dbpedia,5637,freebase,1
+421,new york times,7373,geonames,1
+421,new york times,5637,freebase,1
+7373,geonames,5637,freebase,1
+1547,freebase,1408,new york times,1
+1547,freebase,1409,dbpedia,1
+1547,freebase,6402,geonames,1
+1408,new york times,1409,dbpedia,1
+1408,new york times,6402,geonames,1
+1409,dbpedia,6402,geonames,1
+3938,freebase,5180,geonames,1
+3938,freebase,2881,dbpedia,1
+3938,freebase,2880,new york times,1
+5180,geonames,2881,dbpedia,1
+5180,geonames,2880,new york times,1
+2881,dbpedia,2880,new york times,1
+6281,dbpedia,4342,freebase,1
+6281,dbpedia,1882,geonames,1
+6281,dbpedia,1881,new york times,1
+4342,freebase,1882,geonames,1
+4342,freebase,1881,new york times,1
+1882,geonames,1881,new york times,1
+89,dbpedia,88,new york times,1
+89,dbpedia,6443,geonames,1
+89,dbpedia,5797,freebase,1
+88,new york times,6443,geonames,1
+88,new york times,5797,freebase,1
+6443,geonames,5797,freebase,1
+6792,dbpedia,4433,geonames,1
+6792,dbpedia,4432,new york times,1
+6792,dbpedia,6761,freebase,1
+4433,geonames,4432,new york times,1
+4433,geonames,6761,freebase,1
+4432,new york times,6761,freebase,1
+840,freebase,7226,dbpedia,1
+840,freebase,7096,geonames,1
+840,freebase,839,new york times,1
+7226,dbpedia,7096,geonames,1
+7226,dbpedia,839,new york times,1
+7096,geonames,839,new york times,1
+4489,dbpedia,3611,new york times,1
+4489,dbpedia,4322,geonames,1
+4489,dbpedia,3612,freebase,1
+3611,new york times,4322,geonames,1
+3611,new york times,3612,freebase,1
+4322,geonames,3612,freebase,1
+994,new york times,2835,dbpedia,1
+994,new york times,995,geonames,1
+2835,dbpedia,995,geonames,1
+6203,geonames,6469,dbpedia,1
+6203,geonames,1366,freebase,1
+6203,geonames,1365,new york times,1
+6469,dbpedia,1366,freebase,1
+6469,dbpedia,1365,new york times,1
+1366,freebase,1365,new york times,1
+2155,new york times,3660,geonames,1
+2155,new york times,2156,dbpedia,1
+2155,new york times,4700,freebase,1
+3660,geonames,2156,dbpedia,1
+3660,geonames,4700,freebase,1
+2156,dbpedia,4700,freebase,1
+5019,dbpedia,6947,geonames,1
+5019,dbpedia,6011,freebase,1
+5019,dbpedia,5018,new york times,1
+6947,geonames,6011,freebase,1
+6947,geonames,5018,new york times,1
+6011,freebase,5018,new york times,1
+1816,new york times,3170,dbpedia,1
+1816,new york times,1817,geonames,1
+1816,new york times,2969,freebase,1
+3170,dbpedia,1817,geonames,1
+3170,dbpedia,2969,freebase,1
+1817,geonames,2969,freebase,1
+6699,dbpedia,2391,new york times,1
+6699,dbpedia,2392,freebase,1
+6699,dbpedia,7456,geonames,1
+2391,new york times,2392,freebase,1
+2391,new york times,7456,geonames,1
+2392,freebase,7456,geonames,1
+4213,geonames,611,dbpedia,1
+4213,geonames,6348,freebase,1
+4213,geonames,610,new york times,1
+611,dbpedia,6348,freebase,1
+611,dbpedia,610,new york times,1
+6348,freebase,610,new york times,1
+7206,geonames,1936,freebase,1
+7206,geonames,1935,new york times,1
+7206,geonames,4790,dbpedia,1
+1936,freebase,1935,new york times,1
+1936,freebase,4790,dbpedia,1
+1935,new york times,4790,dbpedia,1
+1086,new york times,2774,dbpedia,1
+1086,new york times,6242,geonames,1
+1086,new york times,1087,freebase,1
+2774,dbpedia,6242,geonames,1
+2774,dbpedia,1087,freebase,1
+6242,geonames,1087,freebase,1
+6689,freebase,1441,new york times,1
+6689,freebase,1442,geonames,1
+6689,freebase,5387,dbpedia,1
+1441,new york times,1442,geonames,1
+1441,new york times,5387,dbpedia,1
+1442,geonames,5387,dbpedia,1
+2620,dbpedia,698,geonames,1
+2620,dbpedia,1337,freebase,1
+2620,dbpedia,697,new york times,1
+698,geonames,1337,freebase,1
+698,geonames,697,new york times,1
+1337,freebase,697,new york times,1
+5538,new york times,7316,freebase,1
+5538,new york times,5539,geonames,1
+5538,new york times,7483,dbpedia,1
+7316,freebase,5539,geonames,1
+7316,freebase,7483,dbpedia,1
+5539,geonames,7483,dbpedia,1
+1291,dbpedia,1290,new york times,1
+1291,dbpedia,7471,geonames,1
+1291,dbpedia,7016,freebase,1
+1290,new york times,7471,geonames,1
+1290,new york times,7016,freebase,1
+7471,geonames,7016,freebase,1
+3439,freebase,1838,geonames,1
+3439,freebase,2173,dbpedia,1
+3439,freebase,1837,new york times,1
+1838,geonames,2173,dbpedia,1
+1838,geonames,1837,new york times,1
+2173,dbpedia,1837,new york times,1

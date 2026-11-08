@@ -1,0 +1,9 @@
+The CSV files were obtained from the original cora.arff available at:
+https://www.cs.utexas.edu/~ml/riddle/data.html.
+
+* cora1_ids contains distinct (clean-clean) records with unique IDs
+* cora1_cluster_mapping contains the original clusters inferred from the 'class'
+  attribute of the original dataset
+* cora1_mapping contains the ideal mapping for record linkage/duplicate
+  detection obtained by providing the combinations of matching pairs based on
+  the cora1 cluster mapping

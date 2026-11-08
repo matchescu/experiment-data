@@ -1,0 +1,3111 @@
+id,source,label,latitude,longitude,elevation
+0,new york times,Petra (Jordan),30.3167,35.4833,NaN
+1,dbpedia,Petra,NaN,NaN,NaN
+5,dbpedia,"Cordoba, Spain",NaN,NaN,NaN
+6,new york times,Prague (Czech Republic),50.0878,14.4241,NaN
+12,new york times,Girona (Spain),41.9831,2.82493,NaN
+15,geonames,Split,43.5089,16.4392,NaN
+24,new york times,San Jose (Calif),37.3394,-121.895,NaN
+25,dbpedia,"San Jose, California",NaN,NaN,NaN
+30,new york times,Moscow (Russia),55.7522,37.6156,NaN
+32,new york times,Zermatt (Switzerland),46.0167,7.75,NaN
+52,new york times,Wengen (Switzerland),46.6,7.91667,NaN
+56,new york times,Savannah (Ga),32.0835,-81.0998,NaN
+57,freebase,savannah,32.0507,-81.1038,15.0
+59,freebase,norwalk,41.1175,-73.4083,NaN
+63,freebase,dublin,53.3428,-6.2661,NaN
+70,new york times,Hollywood (Calif),34.0983,-118.327,NaN
+78,new york times,Guilin (China),25.2819,110.286,NaN
+83,dbpedia,"Killington, Vermont",NaN,NaN,NaN
+84,new york times,Zihuatanejo (Mexico),17.6333,-101.55,NaN
+85,dbpedia,Zihuatanejo,17.6367,-101.551,NaN
+86,new york times,Ouro Preto (Brazil),-20.2875,-43.5081,NaN
+87,geonames,Ouro Preto,-20.3948,-43.5052,NaN
+89,dbpedia,Hiroshima,34.3981,132.476,NaN
+100,new york times,Mombasa (Kenya),-4.05,39.6667,NaN
+101,freebase,mombasa,-4.05,39.6667,NaN
+109,dbpedia,Kathmandu,27.7,85.3333,NaN
+110,new york times,Vienna (Austria),48.2085,16.3721,NaN
+111,freebase,vienna,48.2088,16.3726,NaN
+123,freebase,lake louise alberta,51.4311,-116.184,NaN
+130,new york times,Pawleys Island (SC),33.4296,-79.1217,NaN
+141,dbpedia,Ayodhya,26.8,82.2,NaN
+145,freebase,zanzibar,-6.1333,39.3167,NaN
+148,new york times,Espanola (NM),35.9911,-106.081,NaN
+149,dbpedia,"Espanola, New Mexico",NaN,NaN,NaN
+157,freebase,punta gorda belize,16.1,-88.8,NaN
+167,dbpedia,"Chachapoyas, Peru",NaN,NaN,NaN
+170,new york times,Wellington (New Zealand),-41.2785,174.777,NaN
+171,geonames,Wellington,-41.2866,174.776,NaN
+175,geonames,Lafayette,30.2241,-92.0198,NaN
+176,new york times,Ghent (Belgium),51.05,3.71667,NaN
+180,new york times,Puerto Vallarta (Mexico),20.6204,-105.231,NaN
+181,geonames,Puerto Vallarta,20.6204,-105.231,NaN
+186,new york times,Nairobi (Kenya),-1.28333,36.8167,NaN
+187,geonames,Nairobi,-1.28333,36.8167,NaN
+198,new york times,Sihanoukville (Cambodia),10.6333,103.5,NaN
+199,freebase,sihanoukville,10.6333,103.5,NaN
+200,new york times,Ocean City (NJ),39.2776,-74.5746,NaN
+201,freebase,ocean city new jersey,39.2775,-74.575,NaN
+203,freebase,vezelay,47.4667,3.74667,NaN
+215,geonames,Mott Haven,40.809,-73.9229,NaN
+216,new york times,St Mawes (England),50.1594,-5.01222,NaN
+219,dbpedia,"Toledo, Spain",NaN,NaN,NaN
+221,freebase,guadalupe mexico,32.0667,-116.583,NaN
+232,new york times,Valparaiso (Chile),-33.0393,-71.6273,NaN
+233,geonames,Valparaíso,-33.0393,-71.6273,NaN
+237,geonames,Armação de Búzios,-22.7469,-41.8817,NaN
+249,freebase,geneva,46.2,6.15,NaN
+256,new york times,Arosa (Switzerland),46.7833,9.66667,NaN
+257,freebase,arosa,46.783333,9.683333,1775.0
+261,freebase,brussels,50.8411,4.35642,13.1064
+262,new york times,Oporto (Portugal),41.15,-8.61667,NaN
+264,new york times,Seville (Spain),37.3772,-5.98694,NaN
+265,freebase,seville,37.3833,-5.98333,NaN
+267,geonames,New Orleans,29.9546,-90.0751,NaN
+268,new york times,Shanghai (China),31.2222,121.458,NaN
+269,geonames,Shanghai,31.2222,121.458,NaN
+271,freebase,bogota,4.59806,-74.0758,NaN
+272,new york times,Scituate (Mass),42.1959,-70.7259,NaN
+274,new york times,Lisbon (Portugal),38.7167,-9.13333,NaN
+275,dbpedia,Lisbon,38.7138,-9.13939,NaN
+280,new york times,Patchogue (NY),40.7657,-73.0151,NaN
+282,new york times,Bergama (Turkey),39.1207,27.1805,NaN
+288,new york times,Punta Cana (Dominican Republic),18.5818,-68.4043,NaN
+289,dbpedia,Punta Cana,18.5333,-68.3667,NaN
+296,new york times,Pucon (Chile),-39.2822,-71.9543,NaN
+300,new york times,Ras al-Khaimah (United Arab Emirates),25.7911,55.9428,NaN
+301,geonames,Ra's al Khaymah,25.7911,55.9428,NaN
+322,new york times,Acapulco (Mexico),16.8634,-99.8901,NaN
+342,geonames,Lagos,6.45306,3.39583,NaN
+343,new york times,Alice Springs (Australia),-23.7,133.883,NaN
+346,geonames,San Juan,18.4663,-66.1057,NaN
+347,new york times,San Pedro de Atacama (Chile),-22.9167,-68.2167,NaN
+348,freebase,san pedro de atacama,-22.9147,-68.1942,NaN
+357,new york times,Kips Bay (NYC),40.7395,-73.9771,NaN
+358,geonames,Kips Bay,40.7395,-73.9771,NaN
+368,new york times,Lhasa (Tibet),29.65,91.1,NaN
+369,dbpedia,Lhasa,29.65,91.1,NaN
+372,geonames,Acapulco,16.8634,-99.8901,NaN
+374,dbpedia,Ushuaia,-54.8,-68.3,NaN
+375,freebase,north adams,42.7008,-73.1092,NaN
+392,new york times,Philadelphia (Pa),39.9523,-75.1638,NaN
+394,new york times,Seattle (Wash),47.6062,-122.332,NaN
+395,freebase,seattle,47.6097,-122.333,NaN
+405,dbpedia,Chengdu,30.6636,104.067,NaN
+411,new york times,Gori (Georgian Republic),41.9736,44.1111,NaN
+417,geonames,Saint-Tropez,43.2667,6.63333,NaN
+420,freebase,maplewood,40.7311,-74.2739,NaN
+421,new york times,Leavenworth (Wash),47.5962,-120.661,NaN
+424,freebase,amenia,41.8494,-73.5566,NaN
+425,new york times,Belfast (Northern Ireland),54.6,-5.93333,NaN
+427,new york times,El Chalten (Patagonia),-49.3286,-72.93,NaN
+429,new york times,Hyderabad (India),17.3753,78.4744,NaN
+431,new york times,Salida (Colo),38.5347,-105.999,NaN
+444,new york times,Huntington Station (NY),40.8534,-73.4115,NaN
+448,new york times,Plainsboro (NJ),40.3334,-74.6004,NaN
+449,dbpedia,"Plainsboro Township, New Jersey",NaN,NaN,NaN
+455,dbpedia,"Paterson, New Jersey",NaN,NaN,NaN
+459,new york times,Mahmudiya (Iraq),33.0696,44.3675,NaN
+460,dbpedia,Mahmudiya (district),NaN,NaN,NaN
+472,new york times,Munich (Germany),48.1374,11.5755,NaN
+473,geonames,Munich,48.1374,11.5755,NaN
+485,freebase,orleans,47.9031,1.905,NaN
+490,new york times,Copenhagen (Denmark),55.6777,12.5709,NaN
+491,dbpedia,Copenhagen,55.6761,12.5683,NaN
+503,geonames,Long Beach,33.767,-118.189,NaN
+508,geonames,Pátzcuaro,19.5167,-101.6,NaN
+517,freebase,hunts point bronx,40.812601,-73.884025,NaN
+544,new york times,Falls Village (Conn),41.9559,-73.3632,NaN
+566,freebase,dragor,55.6,12.6833,NaN
+570,geonames,SoHo,40.7224,-73.9996,NaN
+571,new york times,Bristol (England),51.45,-2.58333,NaN
+573,new york times,Niagara-on-the-Lake (Ontario),43.2501,-79.0663,NaN
+574,dbpedia,Niagara-on-the-Lake,43.2553,-79.0717,NaN
+575,new york times,Melbourne (Australia),-37.814,144.963,NaN
+576,geonames,Melbourne,-37.814,144.963,NaN
+595,new york times,Scottsdale (Ariz),33.5092,-111.899,NaN
+599,new york times,Cairo (Egypt),30.05,31.25,NaN
+600,freebase,cairo,30.0566,31.2262,NaN
+610,new york times,Guimaraes (Portugal),41.45,-8.3,NaN
+611,dbpedia,Guimaraes,NaN,NaN,NaN
+620,freebase,ulyanovsk,54.3249,48.3852,NaN
+624,dbpedia,Strasbourg,48.5844,7.74861,NaN
+627,new york times,Beijing (China),39.9075,116.397,NaN
+637,new york times,Mogadishu (Somalia),2.03914,45.3419,NaN
+638,freebase,mogadishu,2.04109,45.3426,NaN
+645,new york times,Milford (Pa),41.3223,-74.8024,NaN
+657,freebase,cabarete,19.7511,-70.4083,NaN
+677,freebase,abu dhabi,24.47,54.38,NaN
+682,new york times,Rochester (NY),43.1548,-77.6156,NaN
+683,freebase,rochester,43.1547,-77.6158,NaN
+685,new york times,Bath (England),51.3794,-2.36556,NaN
+686,freebase,bath,51.3833,-2.3667,NaN
+690,geonames,St Ives,50.2086,-5.4875,NaN
+697,new york times,Timbuktu (Mali),16.7735,-3.00742,NaN
+701,new york times,Red Bank (NJ),40.3471,-74.0643,NaN
+702,geonames,Red Bank,40.3471,-74.0643,NaN
+704,dbpedia,Colmar,48.0817,7.35556,NaN
+712,dbpedia,Trieste,45.6333,13.8,NaN
+716,dbpedia,Xalapa,19.54,-96.9275,NaN
+719,new york times,North Stonington (Conn),41.4409,-71.8812,NaN
+720,geonames,North Stonington,41.4409,-71.8812,NaN
+724,dbpedia,"Hot Springs, Arkansas",NaN,NaN,NaN
+728,freebase,old lyme,41.3159,-72.329,NaN
+731,dbpedia,Bangkok,13.7522,100.494,NaN
+744,new york times,Dubai (United Arab Emirates),25.2522,55.28,NaN
+747,dbpedia,"Middletown, Connecticut",NaN,NaN,NaN
+754,new york times,Naples (Italy),40.8333,14.25,NaN
+756,new york times,Kuala Lumpur (Malaysia),3.16667,101.7,NaN
+757,geonames,Kuala Lumpur,3.1412,101.687,NaN
+758,new york times,Lower East Side (NYC),40.7161,-73.9868,NaN
+761,dbpedia,Dujiangyan City,30.9,103.5,NaN
+762,new york times,Pyongyang (North Korea),39.0194,125.755,NaN
+774,dbpedia,"Aveiro, Portugal",NaN,NaN,NaN
+784,new york times,Homer (Alaska),59.6425,-151.548,NaN
+791,geonames,Ravenna,44.4175,12.2011,NaN
+794,new york times,Haditha (Iraq),34.1397,42.3781,NaN
+796,new york times,Calcutta (India),22.5697,88.3697,NaN
+797,dbpedia,Kolkata,22.0,88.0,NaN
+823,new york times,Seoul (South Korea),37.5664,127.0,NaN
+825,new york times,Brisbane (Australia),-27.4679,153.028,NaN
+826,freebase,brisbane,-27.4667,153.033,NaN
+831,new york times,Nassau (Bahamas),25.0833,-77.35,NaN
+832,freebase,nassau,25.0667,-77.3333,NaN
+837,new york times,Monteverde (Costa Rica),10.1,-83.4333,NaN
+838,freebase,monteverde,10.3143,-84.825,NaN
+839,new york times,Antwerp (Belgium),51.2167,4.41667,NaN
+840,freebase,antwerp,51.2209,4.40208,NaN
+854,dbpedia,"Long Beach, New York",NaN,NaN,NaN
+856,geonames,Soweto,-26.2667,27.8667,NaN
+858,freebase,amalfi,40.6333,14.6,NaN
+871,new york times,Nagasaki (Japan),32.755,129.868,NaN
+896,dbpedia,San Cristobal de las Casas,NaN,NaN,NaN
+901,new york times,Bayreuth (Germany),49.9481,11.5783,NaN
+902,dbpedia,Bayreuth,49.9481,11.5783,NaN
+905,new york times,Lecce (Italy),40.357,18.172,NaN
+930,geonames,Niagara Falls,43.1001,-79.0663,NaN
+931,new york times,Punta Gorda (Fla),26.9298,-82.0454,NaN
+938,dbpedia,Lockerbie,55.12,-3.357,NaN
+939,new york times,San Antonio (Tex),29.4241,-98.4936,NaN
+946,dbpedia,Monteverde,10.3143,-84.825,NaN
+949,new york times,Ayacucho (Peru),-13.1583,-74.2239,NaN
+950,geonames,Ayacucho,-13.1583,-74.2239,NaN
+952,new york times,Roosevelt Island (NYC),40.764,-73.9482,NaN
+958,new york times,Juarez (Mexico),31.7333,-106.483,NaN
+959,geonames,Ciudad Juárez,31.7333,-106.483,NaN
+960,new york times,Edirne (Turkey),41.6772,26.556,NaN
+974,freebase,las vegas,NaN,-115.136389,NaN
+982,new york times,Parma (Italy),44.8027,10.329,NaN
+983,dbpedia,Parma,44.8,10.3333,NaN
+986,new york times,Bay Ridge (NYC),40.634,-74.0146,NaN
+987,geonames,Bay Ridge,40.634,-74.0146,NaN
+995,geonames,Ixtapa,17.6678,-101.642,NaN
+1003,freebase,aswan,24.0667,32.9167,NaN
+1004,new york times,New Milford (Conn),41.577,-73.4085,NaN
+1005,freebase,new milford,41.5769,-73.4089,NaN
+1013,new york times,Jena (LA),31.6832,-92.1337,NaN
+1018,freebase,rio de janeiro,-22.9083,-43.2436,NaN
+1021,new york times,Prospect Heights (NYC),40.6775,-73.9677,NaN
+1032,dbpedia,Fontainebleau,48.4097,2.7025,NaN
+1037,new york times,Piermont (NY),41.042,-73.9182,NaN
+1039,new york times,Sleepy Hollow (NY),41.0857,-73.8585,NaN
+1040,geonames,Sleepy Hollow,41.0857,-73.8585,NaN
+1043,new york times,Santiago de Cuba (Cuba),20.0247,-75.8219,NaN
+1044,freebase,santiago de cuba,20.0283,-75.8206,NaN
+1054,new york times,Bodrum (Turkey),37.0383,27.4292,NaN
+1060,dbpedia,Ulyanovsk,54.3167,48.3667,NaN
+1063,freebase,mashpee,41.6484,-70.4811,NaN
+1083,dbpedia,Fes,34.0333,-5.0,NaN
+1086,new york times,Norfolk (Va),36.8468,-76.2852,NaN
+1094,geonames,Berchtesgaden,47.6333,13.0,NaN
+1096,freebase,lisbon,38.7,-9.1833,NaN
+1104,freebase,pucon,-39.2667,-71.9667,NaN
+1115,new york times,Chinatown (NYC),40.7165,-73.9963,NaN
+1116,dbpedia,"Chinatown, Manhattan",NaN,NaN,NaN
+1119,new york times,Oxford (Conn),41.434,-73.1168,NaN
+1121,new york times,Quito (Ecuador),-0.216667,-78.5,NaN
+1154,geonames,Milford,41.3223,-74.8024,NaN
+1156,new york times,Alajuela (Costa Rica),10.0167,-84.2167,NaN
+1158,new york times,Sacramento (Calif),38.5816,-121.494,NaN
+1159,geonames,Sacramento,38.5816,-121.494,NaN
+1171,new york times,Orleans (Mass),41.7898,-69.9897,NaN
+1172,geonames,Orleans,41.7898,-69.9897,NaN
+1178,freebase,dumbo brooklyn,40.703056,-73.989444,NaN
+1182,new york times,Tours (France),47.3833,0.683333,NaN
+1183,freebase,tours,47.38,0.69,NaN
+1184,new york times,Rovinj (Croatia),45.08,13.64,NaN
+1186,new york times,Montauk (NY),41.0359,-71.9545,NaN
+1189,new york times,Basra (Iraq),30.4942,47.8192,NaN
+1198,geonames,Manchester,42.9956,-71.4548,NaN
+1203,new york times,Lucca (Italy),43.8436,10.5058,NaN
+1204,dbpedia,Lucca,43.85,10.5,NaN
+1206,dbpedia,Cahuita,9.73889,-82.8456,NaN
+1207,new york times,St Petersburg (Russia),59.8944,30.2642,NaN
+1217,new york times,Curitiba (Brazil),-25.4278,-49.2731,NaN
+1218,dbpedia,Curitiba,-25.4167,-49.25,NaN
+1220,new york times,Deauville (France),49.357,0.069952,NaN
+1226,new york times,Danang (Vietnam),16.0678,108.221,NaN
+1228,new york times,Provincetown (Mass),42.0584,-70.1786,NaN
+1232,new york times,Eilat (Israel),29.5611,34.9517,NaN
+1233,geonames,Eilat,29.5611,34.9517,NaN
+1240,freebase,wellington,-41.2889,174.777,NaN
+1243,geonames,El Calafate,-50.3407,-72.2768,NaN
+1244,geonames,Patchogue,40.7657,-73.0151,NaN
+1252,freebase,bodrum,37.0409,27.4339,NaN
+1259,new york times,Vientiane (Laos),17.9667,102.6,NaN
+1260,geonames,Vientiane,17.9667,102.6,NaN
+1262,dbpedia,Sochi,43.5853,39.7203,NaN
+1265,new york times,Brooklyn Heights (NYC),40.6977,-73.9943,NaN
+1298,new york times,Varanasi (India),25.3333,83.0,NaN
+1300,new york times,Ludlow (Vt),43.3959,-72.7007,NaN
+1327,new york times,Sag Harbor (NY),40.9979,-72.2926,NaN
+1336,freebase,santa barbara,34.4208,-119.697,NaN
+1340,dbpedia,"Nassau, Bahamas",NaN,NaN,NaN
+1341,geonames,San Pedro de Atacama,-22.9167,-68.2167,NaN
+1343,dbpedia,Port Elizabeth,-33.9581,25.6,NaN
+1349,dbpedia,Sintra,NaN,NaN,NaN
+1360,freebase,orlando,28.5381,-81.3794,NaN
+1367,new york times,Killarney (Ireland),52.05,-9.51667,NaN
+1368,dbpedia,Killarney,52.0588,-9.5072,NaN
+1374,new york times,Battery Park City (NYC),40.7115,-74.0163,NaN
+1386,freebase,new castle new york,41.185278,-73.768611,170.9928
+1387,new york times,Milwaukee (Wis),43.0389,-87.9065,NaN
+1391,new york times,Zurich (Switzerland),47.3667,8.55,NaN
+1392,geonames,Zurich,47.3667,8.55,NaN
+1409,dbpedia,Antigua Guatemala,14.5667,-90.7333,NaN
+1410,new york times,Indianapolis (Ind),39.7684,-86.158,NaN
+1413,freebase,courchevel,45.415,6.6339,NaN
+1430,freebase,oklahoma city,35.4675,-97.5161,NaN
+1432,new york times,Belgrade (Serbia),44.8186,20.4681,NaN
+1433,freebase,belgrade,44.8206,20.4622,116.75
+1436,new york times,Cortona (Italy),43.2747,11.9853,NaN
+1437,dbpedia,Cortona,43.2756,11.9881,NaN
+1441,new york times,Frankfurt (Germany),50.1167,8.68333,NaN
+1443,new york times,Padua (Italy),45.4152,11.8818,NaN
+1444,dbpedia,Padua,45.4167,11.8667,NaN
+1450,geonames,Genoa,44.4063,8.93386,NaN
+1451,new york times,Estoril (Portugal),38.7057,-9.39773,NaN
+1452,freebase,estoril,38.6983,-9.4231,NaN
+1466,new york times,Mumbai (India),19.0144,72.8479,NaN
+1467,dbpedia,Mumbai,18.975,72.8258,NaN
+1468,new york times,Kent (Conn),41.7248,-73.4771,NaN
+1474,new york times,Casablanca (Morocco),33.59,-7.61,NaN
+1475,geonames,Casablanca,33.59,-7.61,NaN
+1502,geonames,Grasse,43.6667,6.91667,NaN
+1504,freebase,dusseldorf,51.2256,6.78278,NaN
+1509,new york times,Portland (Me),43.6615,-70.2553,NaN
+1510,geonames,Portland,43.6615,-70.2553,NaN
+1512,dbpedia,Brisbane,27.4678,153.028,NaN
+1525,geonames,Chachapoyas,-6.23169,-77.869,NaN
+1531,dbpedia,"Ocean City, New Jersey",NaN,NaN,NaN
+1534,freebase,thessaloniki,40.6333,22.95,NaN
+1535,dbpedia,"Jena, Louisiana",NaN,NaN,NaN
+1539,dbpedia,Saint-Tropez,43.2733,6.63962,NaN
+1547,freebase,antigua guatemala,14.5517,-90.7328,NaN
+1550,dbpedia,Arosa,46.7833,9.68333,NaN
+1552,new york times,Jersey City (NJ),40.7282,-74.0776,NaN
+1577,dbpedia,Grasse,43.6667,6.9167,NaN
+1588,new york times,Millau (France),44.1,3.08333,NaN
+1589,freebase,millau,44.0986,3.07833,NaN
+1595,new york times,Laguna Beach (Calif),33.5422,-117.783,NaN
+1610,dbpedia,"Garment District, Manhattan",NaN,NaN,NaN
+1611,freebase,naples,40.8333,14.25,NaN
+1612,geonames,Durban,-29.85,31.0167,NaN
+1615,freebase,oxford connecticut,41.434,-73.1168,NaN
+1625,new york times,Tallinn (Estonia),59.437,24.7535,NaN
+1626,freebase,tallinn,59.4339,24.7549,NaN
+1629,new york times,Myrtle Beach (SC),33.6891,-78.8867,NaN
+1630,freebase,myrtle beach,33.6889,-78.8869,NaN
+1631,new york times,New Rochelle (NY),40.9115,-73.7824,NaN
+1632,geonames,New Rochelle,40.9115,-73.7824,NaN
+1634,freebase,bedford stuyvesant brooklyn,40.683333,-73.941111,NaN
+1642,freebase,melbourne australia,-37.7833,144.967,NaN
+1646,freebase,hyannis,41.6528,-70.2833,NaN
+1652,new york times,Saas-Fee (Switzerland),46.1135,7.93488,NaN
+1654,new york times,Orvieto (Italy),42.7195,12.1116,NaN
+1655,geonames,Orvieto,42.7195,12.1116,NaN
+1666,geonames,Viña del Mar,-33.0246,-71.5518,NaN
+1671,new york times,Raleigh (NC),35.7721,-78.6386,NaN
+1681,freebase,hood river oregon,45.7056,-121.52,NaN
+1695,new york times,Kinsale (Ireland),51.7075,-8.53056,NaN
+1708,freebase,szentendre,47.7044,19.0686,NaN
+1720,geonames,Palm Springs,33.8303,-116.545,NaN
+1725,new york times,Sydney (Australia),-33.8679,151.207,NaN
+1726,freebase,sydney,-33.8683,151.209,NaN
+1728,freebase,boquete,8.78,-82.44,NaN
+1729,new york times,Rincon (Puerto Rico),18.3402,-67.2499,NaN
+1730,freebase,rincon puerto rico,18.3403,-67.2517,NaN
+1746,dbpedia,Orleans,NaN,NaN,NaN
+1749,geonames,Estoril,38.7057,-9.39773,NaN
+1751,geonames,Cork,51.8986,-8.49583,NaN
+1766,geonames,Canberra,-35.2835,149.128,NaN
+1767,dbpedia,Battery Park City,40.7127,-74.0157,NaN
+1771,dbpedia,"San Juan, Puerto Rico",NaN,NaN,NaN
+1773,new york times,Cirencester (England),51.7333,-1.98333,NaN
+1790,new york times,Quebec City (Quebec),46.8123,-71.2145,NaN
+1792,new york times,New Castle (Del),39.6621,-75.5663,NaN
+1797,new york times,Hong Kong,22.284,114.15,NaN
+1798,freebase,hong kong,22.3,114.167,NaN
+1811,geonames,Falmouth,41.5515,-70.6148,NaN
+1817,geonames,Giverny,49.0667,1.53333,NaN
+1828,new york times,Granada (Nicaragua),11.9333,-85.95,NaN
+1829,dbpedia,"Granada, Nicaragua",NaN,NaN,NaN
+1837,new york times,Pawtucket (RI),41.8787,-71.3826,NaN
+1838,geonames,Pawtucket,41.8787,-71.3826,NaN
+1846,new york times,Seward (Alaska),60.1042,-149.442,NaN
+1847,geonames,Seward,60.1042,-149.442,NaN
+1855,new york times,Ankara (Turkey),39.9272,32.8644,NaN
+1856,dbpedia,Ankara,39.8667,32.8333,NaN
+1860,geonames,Saint Paul,44.9444,-93.0933,NaN
+1863,freebase,cambridge,52.21,0.13,NaN
+1864,geonames,Ayodhya,26.8,82.2,NaN
+1869,geonames,Aix-en-Provence,43.5283,5.44973,NaN
+1870,new york times,Saugatuck (Mich),42.655,-86.202,NaN
+1873,geonames,Pattaya,12.9333,100.883,NaN
+1874,dbpedia,"Saugatuck, Michigan",NaN,NaN,NaN
+1877,geonames,Merca,1.71667,44.8833,NaN
+1878,new york times,Auxerre (France),47.8,3.56667,NaN
+1882,geonames,Oxford,51.7522,-1.25596,NaN
+1887,dbpedia,"Pawling (town), New York",NaN,NaN,NaN
+1897,freebase,grasse,43.6589,6.9258,NaN
+1900,freebase,niagara falls ontario,43.1167,-79.0667,NaN
+1904,dbpedia,"Providence, Rhode Island",NaN,NaN,NaN
+1905,new york times,Szeged (Hungary),46.253,20.1482,NaN
+1906,geonames,Szeged,46.253,20.1482,NaN
+1911,dbpedia,San Miguel de Allende,20.9142,-100.744,NaN
+1915,dbpedia,"Simi Valley, California",34.2711,-118.739,NaN
+1916,new york times,Verona (Italy),45.4342,10.9978,NaN
+1920,new york times,Caracas (Venezuela),10.5,-66.9167,NaN
+1921,geonames,Caracas,10.5,-66.9167,NaN
+1923,geonames,Malmö,55.6059,13.0007,NaN
+1935,new york times,Carnac (France),47.5833,-3.08333,NaN
+1936,freebase,carnac,47.5728,-3.07083,NaN
+1939,geonames,Hollywood,34.0983,-118.327,NaN
+1944,dbpedia,"Hyannis, Massachusetts",NaN,NaN,NaN
+1947,freebase,san antonio,29.4239,-98.4933,NaN
+1962,new york times,Kyoto (Japan),35.0211,135.754,NaN
+1965,dbpedia,Honfleur,49.4194,0.2325,NaN
+1969,new york times,Baden-Baden (Germany),48.75,8.25,NaN
+1970,dbpedia,Baden-Baden,48.7628,8.24083,NaN
+1981,new york times,Weimar (Germany),50.9833,11.3167,NaN
+1983,new york times,Oranienburg (Germany),52.75,13.2333,NaN
+1984,dbpedia,Oranienburg,52.7544,13.2369,NaN
+1987,new york times,Kunming (China),25.0389,102.718,NaN
+1988,dbpedia,Kunming,25.0417,102.705,NaN
+1992,new york times,Salt Lake City (Utah),40.7608,-111.891,NaN
+1993,dbpedia,Salt Lake City,40.75,-111.883,NaN
+2004,new york times,L'Aquila (Italy),42.3506,13.3995,NaN
+2012,geonames,Tel Aviv,32.0678,34.7647,NaN
+2014,new york times,Monterey (Calif),36.6002,-121.895,NaN
+2015,geonames,Monterey,36.6002,-121.895,NaN
+2029,new york times,Sofia (Bulgaria),42.6975,23.3241,NaN
+2040,new york times,Tikal (Guatemala),17.225,-89.6133,NaN
+2046,new york times,San Francisco (Calif),37.7749,-122.419,NaN
+2047,dbpedia,San Francisco,37.7793,-122.419,NaN
+2048,dbpedia,"Shanksville, Pennsylvania",NaN,NaN,NaN
+2060,dbpedia,"Lake Louise, Alberta",NaN,NaN,NaN
+2066,geonames,Kiawah Island,32.6082,-80.0848,NaN
+2072,freebase,val disere,45.4506,6.9667,NaN
+2080,dbpedia,"Red Hook, Brooklyn",NaN,NaN,NaN
+2085,dbpedia,Pucon,NaN,NaN,NaN
+2091,new york times,Toulouse (France),43.6043,1.44367,NaN
+2094,dbpedia,Bursa,40.1833,29.0667,NaN
+2102,geonames,Nantucket,41.2835,-70.0995,NaN
+2104,new york times,Doha (Qatar),25.2867,51.5333,NaN
+2109,freebase,nantes,47.2181,-1.55278,NaN
+2110,new york times,Ashgabat (Turkmenistan),37.95,58.3833,NaN
+2114,geonames,Mosul,36.335,43.1189,NaN
+2122,new york times,Sucre (Bolivia),-19.0431,-65.2592,NaN
+2128,new york times,Madison (Wis),43.0731,-89.4012,NaN
+2134,dbpedia,Minneapolis,44.9833,-93.2667,NaN
+2138,new york times,Madrid (Spain),40.4165,-3.70256,NaN
+2139,freebase,madrid,40.4,-3.6833,NaN
+2141,dbpedia,"Richmond, Virginia",NaN,NaN,NaN
+2142,geonames,Mantova,45.1603,10.7978,NaN
+2147,new york times,Isla Mujeres (Mexico),21.2311,-86.7311,NaN
+2148,freebase,isla mujeres,21.2167,-86.7167,NaN
+2149,dbpedia,Zrich,NaN,NaN,NaN
+2150,dbpedia,"Sheepshead Bay, Brooklyn",NaN,NaN,NaN
+2163,new york times,Puntarenas (Costa Rica),9.97625,-84.8384,NaN
+2164,dbpedia,Puntarenas,9.96667,-84.8333,NaN
+2168,geonames,Nasiriyah,31.0542,46.2594,NaN
+2169,geonames,Ankara,39.9199,32.8543,NaN
+2174,freebase,espanola,35.9911,-106.08,NaN
+2183,freebase,dominical,9.25,-83.8667,NaN
+2187,new york times,San Sebastian (Spain),43.3128,-1.97499,NaN
+2193,new york times,Scarsdale (NY),41.0051,-73.7846,NaN
+2209,geonames,Mashpee,41.6484,-70.4811,NaN
+2222,freebase,monopoli,40.95,17.3,NaN
+2223,geonames,Cairo,30.0626,31.2497,NaN
+2225,geonames,Long Branch,40.3043,-73.9924,NaN
+2226,new york times,Alkmaar (Netherlands),52.6317,4.74861,NaN
+2242,new york times,Islip (NY),40.7298,-73.2104,NaN
+2249,freebase,ouro preto,-20.3708,-43.51,NaN
+2250,geonames,Gori,41.9736,44.1111,NaN
+2256,new york times,Santa Fe (NM),35.687,-105.938,NaN
+2260,new york times,Matsumoto (Japan),36.2333,137.967,NaN
+2261,dbpedia,"Matsumoto, Nagano",NaN,NaN,NaN
+2268,freebase,natal,-5.7667,-35.2,NaN
+2273,new york times,Hermanus (South Africa),-34.4167,19.2333,NaN
+2274,dbpedia,Hermanus,-34.4167,19.25,NaN
+2275,new york times,Bamberg (Germany),49.8667,10.8667,NaN
+2283,new york times,Cochabamba (Bolivia),-17.3833,-66.15,NaN
+2284,freebase,cochabamba,-17.3836,-66.1667,NaN
+2285,freebase,seoul,37.5833,127.0,NaN
+2288,dbpedia,"Cobble Hill, Brooklyn",NaN,NaN,NaN
+2294,dbpedia,Panama City,8.98333,-79.5167,NaN
+2297,dbpedia,Luxembourg (city),49.6117,6.13,NaN
+2298,new york times,Qum (Iran),34.6453,50.8808,NaN
+2305,new york times,Nafplio (Greece),37.5636,22.8075,NaN
+2306,geonames,Nafplion,37.5636,22.8075,NaN
+2312,geonames,Jackson Heights,40.7557,-73.8854,NaN
+2315,new york times,Bilbao (Spain),43.2627,-2.92528,NaN
+2323,freebase,monterey california,36.6003,-121.894,NaN
+2325,freebase,kandahar,31.6078,65.7053,NaN
+2326,new york times,Tokyo (Japan),35.6895,139.692,NaN
+2327,freebase,tokyo,35.6833,139.767,NaN
+2334,freebase,middletown,41.5622,-72.6511,NaN
+2340,new york times,Rawalpindi (Pakistan),33.6,73.0667,NaN
+2341,freebase,rawalpindi,33.6,73.05,NaN
+2343,freebase,rovinj,45.0833,13.6333,NaN
+2345,dbpedia,"Darwin, Northern Territory",NaN,NaN,NaN
+2371,dbpedia,Nafplion,NaN,NaN,NaN
+2374,geonames,San Miguel de Allende,20.9167,-100.75,NaN
+2380,geonames,Salt Lake City,40.7608,-111.891,NaN
+2381,new york times,Dubrovnik (Croatia),42.6481,18.0922,NaN
+2383,new york times,Bonn (Germany),50.7333,7.1,NaN
+2386,geonames,Madison,41.2795,-72.5984,NaN
+2392,freebase,hanover,52.3699,9.73526,NaN
+2409,geonames,Dragør,55.5945,12.6664,NaN
+2422,dbpedia,Crans-Montana,46.3119,7.48278,NaN
+2423,freebase,manchester,42.9956,-71.4553,NaN
+2424,freebase,seward,60.1244,-149.433,NaN
+2433,freebase,autun,46.9503,4.29874,NaN
+2436,freebase,basra,30.4944,47.8236,NaN
+2439,new york times,Biarritz (France),43.4833,-1.56667,NaN
+2440,dbpedia,Biarritz,43.4817,-1.55611,NaN
+2445,dbpedia,Klosters,46.8833,9.88333,NaN
+2454,new york times,Mendocino (Calif),39.3077,-123.799,NaN
+2455,freebase,mendocino,39.3078,-123.798,NaN
+2458,new york times,Amsterdam (Netherlands),52.3731,4.8999,NaN
+2478,new york times,Hell's Kitchen (NYC),40.7573,-73.9954,NaN
+2480,dbpedia,"Prospect Heights, Brooklyn",NaN,NaN,NaN
+2485,geonames,Beirut,33.8889,35.4944,NaN
+2487,dbpedia,Salzburg,47.8,13.0333,NaN
+2494,freebase,eging am see,48.7167,13.2667,NaN
+2495,new york times,Yangon (Myanmar),16.8053,96.1561,NaN
+2496,geonames,Yangon,16.8053,96.1561,NaN
+2497,new york times,Charlotte Amalie (Virgin Islands),18.3419,-64.9307,NaN
+2510,geonames,Granada,11.9333,-85.95,NaN
+2511,freebase,nafplion,37.5713,22.8093,NaN
+2513,freebase,al anbar governorate,33.0,41.75,NaN
+2530,new york times,Cortina d'Ampezzo (Italy),46.5361,12.1489,NaN
+2552,new york times,Hoffenheim (Germany),49.2667,8.85,NaN
+2565,freebase,buenos aires,-34.6036,-58.3817,NaN
+2569,freebase,shimla,31.1033,77.1722,NaN
+2575,dbpedia,Birmingham,52.4796,-1.89361,NaN
+2581,freebase,deer isle,44.2239,-68.6781,NaN
+2582,new york times,Sharjah (United Arab Emirates),25.3622,55.3911,NaN
+2585,new york times,Pittsfield (Mass),42.4501,-73.2454,NaN
+2587,dbpedia,Zermatt,46.0167,7.75,NaN
+2589,new york times,Stockholm (Sweden),59.3326,18.0649,NaN
+2590,geonames,Stockholm,59.3326,18.0649,NaN
+2593,geonames,Kashgar,39.4547,75.9797,NaN
+2596,new york times,Hay-on-Wye (Wales),52.0667,-3.11667,NaN
+2598,new york times,Vilnius (Lithuania),54.6833,25.3167,NaN
+2599,geonames,Vilnius,54.6892,25.2798,NaN
+2628,geonames,Hong Kong,22.2855,114.158,NaN
+2635,new york times,Hobart (Tasmania),-42.9167,147.333,NaN
+2636,dbpedia,Hobart,-42.8667,147.325,NaN
+2640,geonames,Seaside,30.321,-86.1416,NaN
+2645,new york times,Bergen (Norway),60.3932,5.32428,NaN
+2670,freebase,asgabat,37.9667,58.3333,NaN
+2674,freebase,kirkuk,35.4664,44.3922,NaN
+2675,new york times,Mammoth Lakes (Calif),37.6485,-118.972,NaN
+2678,dbpedia,Munich,48.1333,11.5667,NaN
+2691,new york times,La Paz (Bolivia),-16.5,-68.15,NaN
+2702,new york times,Bethel (NY),41.9545,-73.6337,NaN
+2706,new york times,Haines (Alaska),59.2358,-135.445,NaN
+2710,dbpedia,"Nelson, British Columbia",NaN,NaN,NaN
+2715,dbpedia,Tikal,17.2221,-89.6236,NaN
+2720,new york times,Cape Town (South Africa),-33.9167,18.4167,NaN
+2721,geonames,Cape Town,-33.9167,18.4167,NaN
+2735,new york times,Pensacola (Fla),30.4213,-87.2169,NaN
+2736,geonames,Pensacola,30.4213,-87.2169,NaN
+2744,dbpedia,"Napa, California",NaN,NaN,NaN
+2754,freebase,cuenca ecuador,-2.89917,-79.0153,NaN
+2756,new york times,Mystic (Conn),41.3543,-71.9665,NaN
+2758,new york times,New Haven (Conn),41.3082,-72.9282,NaN
+2760,new york times,Macon (Ga),32.8407,-83.6324,NaN
+2761,dbpedia,"Macon, Georgia",NaN,NaN,NaN
+2762,dbpedia,"Charlotte Amalie, United States Virgin Islands",NaN,NaN,NaN
+2770,new york times,Lugano (Switzerland),46.0101,8.96004,NaN
+2771,dbpedia,Lugano,46.0,8.95,NaN
+2775,new york times,Oslo (Norway),59.9132,10.7389,NaN
+2780,new york times,Amara (Iraq),31.8453,47.1753,NaN
+2783,freebase,perugia,43.1167,12.3833,NaN
+2784,new york times,Ho Chi Minh City (Vietnam),10.75,106.667,NaN
+2792,dbpedia,Hoffenheim,49.2722,8.84444,NaN
+2795,new york times,Ojai (Calif),34.448,-119.243,NaN
+2796,freebase,ojai,34.4481,-119.242,NaN
+2807,dbpedia,"Bedford-Stuyvesant, Brooklyn",NaN,NaN,NaN
+2811,freebase,portsmouth new hampshire,43.0717,-70.7631,NaN
+2820,freebase,vina del mar,-33.0333,-71.5417,NaN
+2823,freebase,hua hin,12.5686,99.9578,NaN
+2844,new york times,Santiago de Compostela (Spain),42.8805,-8.54569,NaN
+2857,dbpedia,"Portsmouth, New Hampshire",NaN,NaN,NaN
+2864,dbpedia,"Revelstoke, British Columbia",NaN,NaN,NaN
+2869,dbpedia,"Natal, Rio Grande do Norte",NaN,NaN,NaN
+2876,new york times,Giza (Egypt),30.0086,31.2122,NaN
+2877,dbpedia,Giza Necropolis,29.9761,31.1328,NaN
+2878,dbpedia,Dubrovnik,42.6403,18.1083,NaN
+2880,new york times,Bern (Switzerland),46.9481,7.44744,NaN
+2884,new york times,Cleveland (Ohio),41.4995,-81.6954,NaN
+2887,new york times,Paris (Texas),33.6609,-95.5555,NaN
+2888,freebase,paris texas,33.6608,-95.5553,NaN
+2897,new york times,Avignon (France),43.95,4.81667,NaN
+2899,new york times,Goreme (Turkey),38.6486,34.8639,NaN
+2900,dbpedia,Goreme,NaN,NaN,NaN
+2905,new york times,London (England),51.5084,-0.125533,NaN
+2906,freebase,london,51.5171,-0.106196,NaN
+2907,new york times,Hanoi (Vietnam),21.0333,105.85,NaN
+2910,dbpedia,Hamilton Heights,NaN,NaN,NaN
+2915,dbpedia,Golfito,8.63432,-83.1619,NaN
+2916,new york times,Chennai (India),13.0878,80.2785,NaN
+2920,freebase,punta del este,-34.9667,-54.95,NaN
+2921,dbpedia,Wengen,46.6,7.91667,NaN
+2923,geonames,Tokyo,35.6149,139.581,NaN
+2925,geonames,Cahors,44.4491,1.43663,NaN
+2926,dbpedia,Delft,52.015,4.35667,NaN
+2934,geonames,St. Moritz,46.5,9.83333,NaN
+2935,new york times,Armonk (NY),41.1265,-73.714,NaN
+2936,freebase,armonk,41.1264,-73.7144,NaN
+2939,freebase,el chalten,-49.3289,-72.93,NaN
+2942,new york times,Los Angeles (Calif),34.0522,-118.244,NaN
+2943,freebase,los angeles,34.0522,-118.243,71.0
+2952,new york times,Diamond District (NYC),40.7566,-73.9786,NaN
+2953,dbpedia,Diamond District,40.7575,-73.9806,NaN
+2966,dbpedia,"Salem, Massachusetts",NaN,NaN,NaN
+2967,new york times,Rotterdam (Netherlands),51.9225,4.47917,NaN
+2969,freebase,giverny,49.0769,1.53,NaN
+2970,geonames,Hunts Point,40.8126,-73.884,NaN
+2981,geonames,Orlando,28.5383,-81.3792,NaN
+2985,dbpedia,Saas-Fee,46.1097,7.92917,NaN
+2986,geonames,Trieste,45.6486,13.78,NaN
+2987,new york times,Naypyidaw (Myanmar),19.745,96.1297,NaN
+2989,dbpedia,Nairobi,-1.28333,36.8167,NaN
+3002,freebase,ditmas park brooklyn,40.64,-73.961,NaN
+3003,new york times,Kufa (Iraq),32.0347,44.4033,NaN
+3006,dbpedia,Phnom Penh,11.55,104.917,NaN
+3007,freebase,copenhagen,55.675,12.5687,NaN
+3023,new york times,Petropolis (Brazil),-22.505,-43.1786,NaN
+3028,new york times,Hague (Netherlands),52.0767,4.29861,NaN
+3032,new york times,Korcula (Croatia),42.9622,17.1369,NaN
+3045,freebase,segovia,40.95,-4.11667,NaN
+3050,freebase,millbrook,41.785,-73.6944,NaN
+3059,geonames,Chamonix,45.9167,6.86667,NaN
+3060,new york times,Cartagena (Colombia),10.3997,-75.5144,NaN
+3066,freebase,patchogue,40.7656,-73.0156,NaN
+3069,new york times,Agra (India),27.1833,78.0167,NaN
+3070,dbpedia,Agra,27.18,78.02,NaN
+3074,new york times,Manaus (Brazil),-3.10194,-60.025,NaN
+3075,geonames,Manaus,-3.10194,-60.025,NaN
+3076,new york times,Puerto Jimenez (Costa Rica),8.53333,-83.3167,NaN
+3103,dbpedia,Queens,40.7042,-73.9178,NaN
+3104,new york times,York (England),53.9667,-1.08333,NaN
+3112,dbpedia,Granada,37.1781,-3.60083,NaN
+3113,new york times,Verbier (Switzerland),46.1,7.21667,NaN
+3114,freebase,verbier,46.1,7.21667,NaN
+3117,freebase,sderot,31.5167,34.5833,NaN
+3119,freebase,bridgehampton,40.9378,-72.3014,NaN
+3123,dbpedia,"Marfa, Texas",NaN,NaN,NaN
+3136,new york times,Bowery (NYC),NaN,NaN,NaN
+3150,new york times,Marseille (France),43.3,5.4,NaN
+3152,new york times,Locust Valley (NY),40.8759,-73.5971,NaN
+3153,geonames,Locust Valley,40.8759,-73.5971,NaN
+3155,freebase,salzburg,47.8,13.0333,NaN
+3160,freebase,addis ababa,9.02722,38.7369,NaN
+3163,new york times,Kelowna (British Columbia),49.8831,-119.486,NaN
+3165,freebase,chartres,48.4436,1.48583,NaN
+3166,new york times,Galway (Ireland),53.2719,-9.04889,NaN
+3167,dbpedia,Galway,53.2719,-9.04889,NaN
+3168,geonames,Scranton,41.409,-75.6624,NaN
+3171,dbpedia,Chennai,13.0839,80.27,NaN
+3172,dbpedia,Estoril,38.7061,-9.39778,NaN
+3180,freebase,ocracoke,35.1144,-75.9814,NaN
+3182,new york times,Baquba (Iraq),33.75,44.6411,NaN
+3190,freebase,cologne,50.9424,7.02919,NaN
+3195,dbpedia,Shanghai,31.2,121.5,NaN
+3224,new york times,Hue (Vietnam),16.4667,107.6,NaN
+3226,geonames,New Brunswick,40.4862,-74.4518,NaN
+3229,dbpedia,"Jackson, Mississippi",NaN,NaN,NaN
+3240,new york times,North Salem (NY),41.3348,-73.5712,NaN
+3241,freebase,north salem,41.3347,-73.5717,NaN
+3245,new york times,Nashville (Tenn),36.1659,-86.7844,NaN
+3246,geonames,Nashville,36.1659,-86.7844,NaN
+3256,new york times,Siwa (Egypt),29.2,25.5167,NaN
+3265,dbpedia,"Sandwich, Massachusetts",NaN,NaN,NaN
+3267,new york times,Luxor (Egypt),25.6989,32.6421,NaN
+3268,freebase,luxor,25.6969,32.6422,NaN
+3282,dbpedia,"Red Bank, New Jersey",NaN,NaN,NaN
+3285,freebase,mumbai,18.9647,72.8258,NaN
+3290,geonames,Cabarete,19.75,-70.4,NaN
+3292,freebase,manteca,37.7975,-121.215,NaN
+3299,new york times,Jerusalem (Israel),31.779,35.2253,NaN
+3300,dbpedia,Jerusalem,31.7833,35.2167,NaN
+3301,geonames,Kirkuk,35.4681,44.3922,NaN
+3304,new york times,Freeport (Me),43.857,-70.1031,NaN
+3305,geonames,Freeport,43.857,-70.1031,NaN
+3308,new york times,Algiers (Algeria),36.7631,3.05056,NaN
+3309,geonames,Algiers,36.7525,3.04197,NaN
+3311,geonames,Revelstoke,50.9832,-118.202,NaN
+3313,dbpedia,Palermo,38.1167,13.3667,NaN
+3337,geonames,Manteca,37.7974,-121.216,NaN
+3346,new york times,Louisville (Ky),38.2542,-85.7594,NaN
+3358,freebase,kathmandu,27.7167,85.3667,NaN
+3368,new york times,Dhaka (Bangladesh),23.7231,90.4086,NaN
+3369,freebase,dhaka,23.7,90.3833,NaN
+3374,new york times,Udaipur (India),24.5712,73.6918,NaN
+3376,geonames,Rawalpindi,33.6,73.0667,NaN
+3378,new york times,Edinburgh (Scotland),55.95,-3.2,NaN
+3379,dbpedia,Edinburgh,55.9494,-3.16028,NaN
+3385,geonames,Bruges,51.2098,3.225,NaN
+3386,freebase,dujiangyan,30.9,103.5,NaN
+3389,dbpedia,Sydney,-33.86,151.211,NaN
+3400,new york times,Florianopolis (Brazil),-27.5967,-48.5492,NaN
+3401,geonames,Florianópolis,-27.5967,-48.5492,NaN
+3404,freebase,san miguel de allende,20.915,-100.75,NaN
+3407,geonames,Mendocino,39.3077,-123.799,NaN
+3408,new york times,Nice (France),43.7031,7.26608,NaN
+3415,dbpedia,"Jersey City, New Jersey",NaN,NaN,NaN
+3417,geonames,Garrison,41.384,-73.9457,NaN
+3421,new york times,Manila (Philippines),14.6042,120.982,NaN
+3422,dbpedia,Manila,14.5833,121.0,NaN
+3427,dbpedia,Lagos,6.45306,3.39583,NaN
+3428,freebase,bowery manhattan,40.719894,-73.994128,NaN
+3434,dbpedia,Mombasa,-4.05,39.6667,NaN
+3436,geonames,Pawling,41.562,-73.6026,NaN
+3439,freebase,pawtucket,41.8786,-71.3831,NaN
+3442,dbpedia,Rome,41.9,12.5,NaN
+3443,new york times,Kansas City (Mo),39.0997,-94.5786,NaN
+3444,freebase,kansas city,39.0997,-94.5783,NaN
+3445,new york times,Samthar (India),26.9833,88.5,NaN
+3448,new york times,Jaffna (Sri Lanka),9.66667,80.0,NaN
+3449,geonames,Jaffna,9.66667,80.0,NaN
+3456,geonames,Dafen,23.9747,113.378,NaN
+3457,geonames,Kennebunkport,43.3618,-70.4767,NaN
+3467,dbpedia,Buenos Aires,-34.6033,-58.3817,NaN
+3472,dbpedia,"Maspeth, Queens",NaN,NaN,NaN
+3477,dbpedia,Taipei,25.0333,121.633,NaN
+3482,new york times,Cannes (France),43.55,7.01667,NaN
+3485,dbpedia,Vezelay,NaN,NaN,NaN
+3494,geonames,Almagro,38.8833,-3.71667,NaN
+3498,geonames,Nassau,25.0582,-77.3431,NaN
+3501,new york times,Puno (Peru),-15.8333,-70.0333,NaN
+3505,dbpedia,Cortina d'Ampezzo,46.5333,12.1333,NaN
+3511,dbpedia,La Rochelle,46.1591,-1.15165,NaN
+3518,dbpedia,"Monhegan, Maine",NaN,NaN,NaN
+3525,geonames,Belém,-1.45583,-48.5044,NaN
+3528,new york times,Newark (NJ),40.7357,-74.1724,NaN
+3538,new york times,Aix-en-Provence (France),43.5283,5.44973,NaN
+3540,freebase,vilnius,54.6833,25.2833,NaN
+3541,new york times,Mendoza (Argentina),-32.8833,-68.8167,NaN
+3542,dbpedia,"Mendoza, Argentina",NaN,NaN,NaN
+3545,geonames,Budapest,47.498,19.0399,NaN
+3548,freebase,eilat,29.55,34.95,NaN
+3556,new york times,Montreal (Quebec),45.5088,-73.5878,NaN
+3557,freebase,montreal,45.5081,-73.555,NaN
+3562,geonames,Skaneateles,42.947,-76.4291,NaN
+3565,freebase,shanghai,31.2,121.5,NaN
+3583,dbpedia,"Short Hills, New Jersey",NaN,NaN,NaN
+3585,freebase,ossining new york,41.165278,-73.856667,49.0728
+3587,new york times,Kanazawa (Japan),36.5667,136.65,NaN
+3588,freebase,kanazawa,36.5619,136.647,NaN
+3590,freebase,lucca,43.8442,10.5014,NaN
+3598,freebase,mount pleasant new york,41.1,-73.8,NaN
+3611,new york times,Vevey (Switzerland),46.4612,6.84328,NaN
+3612,freebase,vevey,46.4592,6.84194,NaN
+3638,freebase,hakone,35.1833,139.033,NaN
+3640,geonames,Hell's Kitchen,40.7573,-73.9954,NaN
+3643,new york times,Placencia (Belize),16.5167,-88.3667,NaN
+3644,geonames,Placentia Village,16.5167,-88.3667,NaN
+3649,geonames,Roosevelt,40.6787,-73.589,NaN
+3650,geonames,Naples,40.8333,14.25,NaN
+3651,new york times,Northport (NY),40.9009,-73.3432,NaN
+3662,geonames,Agra,27.1833,78.0167,NaN
+3665,new york times,Montclair (NJ),40.8259,-74.209,NaN
+3666,geonames,Montclair,40.8259,-74.209,NaN
+3671,dbpedia,San Diego,32.715,-117.162,NaN
+3672,new york times,Najaf (Iraq),31.9961,44.3147,NaN
+3673,dbpedia,Najaf,32.0,44.33,NaN
+3680,dbpedia,Kaesong,37.9667,126.55,NaN
+3692,dbpedia,Ramadi,33.4167,43.3,NaN
+3696,dbpedia,"Bath, Somerset",NaN,NaN,NaN
+3710,freebase,stellenbosch western cape,-33.92,18.86,NaN
+3714,dbpedia,"Portland, Oregon",NaN,NaN,NaN
+3717,freebase,cirencester,51.7124,-1.96346,NaN
+3720,freebase,puerto vallarta,20.6031,-105.234,NaN
+3725,geonames,Los Angeles,34.0522,-118.244,NaN
+3726,freebase,long beach new york,40.5883,-73.6583,NaN
+3733,new york times,Ridgefield (Conn),41.2815,-73.4982,NaN
+3738,new york times,Rye Brook (NY),41.0193,-73.6835,NaN
+3739,dbpedia,"Rye Brook, New York",NaN,NaN,NaN
+3741,geonames,Montreal,45.5088,-73.5878,NaN
+3742,new york times,Jaipur (India),26.9167,75.8167,NaN
+3744,new york times,Catano (Puerto Rico),18.4413,-66.1182,NaN
+3745,freebase,catano puerto rico,18.4414,-66.1183,NaN
+3749,freebase,san luis obispo,35.2828,-120.659,NaN
+3752,new york times,Calgary (Alberta),51.0501,-114.085,NaN
+3753,dbpedia,Calgary,51.045,-114.057,NaN
+3758,new york times,Larchmont (NY),40.9279,-73.7518,NaN
+3760,freebase,ciudad juarez,31.7333,-106.475,NaN
+3764,new york times,Hanau (Germany),50.1333,8.91667,NaN
+3765,geonames,Hanau,50.1333,8.91667,NaN
+3775,dbpedia,Dresden,51.0333,13.7333,NaN
+3780,new york times,Taormina (Italy),37.8536,15.2885,NaN
+3787,new york times,Guangzhou (China),23.1167,113.25,NaN
+3788,freebase,guangzhou,23.133333,113.266667,21.0
+3802,new york times,Pecs (Hungary),46.0833,18.2333,NaN
+3804,new york times,Kew Gardens (NYC),40.7143,-73.831,NaN
+3806,dbpedia,Montreal,45.5089,-73.5542,NaN
+3820,geonames,Jacksonville,30.3322,-81.6556,NaN
+3824,dbpedia,Beslan,43.2,44.5667,NaN
+3831,geonames,Cleveland,41.4995,-81.6954,NaN
+3833,geonames,Cambridge,52.2,0.116667,NaN
+3851,dbpedia,Bruges,51.2167,3.23333,NaN
+3864,new york times,Recife (Brazil),-8.05389,-34.8811,NaN
+3866,freebase,pattaya,12.9363,100.887,NaN
+3868,dbpedia,Verona,45.4333,10.9833,NaN
+3878,geonames,Brussels,50.8466,4.35277,NaN
+3880,new york times,Karbala (Iraq),32.5978,44.0161,NaN
+3884,geonames,Granada,37.1882,-3.60667,NaN
+3887,dbpedia,Kandahar,31.6169,65.7169,NaN
+3898,new york times,Venice (Italy),45.4386,12.3267,NaN
+3899,geonames,Venice,45.4386,12.3267,NaN
+3903,freebase,midwood brooklyn,40.623334,-73.961678,NaN
+3905,dbpedia,"Raleigh, North Carolina",NaN,NaN,NaN
+3915,geonames,Lower East Side,40.7161,-73.9868,NaN
+3919,freebase,silverton colorado,37.8119,-107.664,NaN
+3925,geonames,Plovdiv,42.15,24.75,NaN
+3929,new york times,Leipzig (Germany),51.3396,12.3713,NaN
+3937,freebase,clinton hill brooklyn,40.6897,-73.9653,NaN
+3950,new york times,Luang Prabang (Laos),19.8856,102.135,NaN
+3951,freebase,luang prabang,19.8833,102.133,NaN
+3964,dbpedia,"New Castle, New York",NaN,NaN,NaN
+3974,new york times,Key Largo (Fla),25.0865,-80.4473,NaN
+3979,freebase,new paltz new york,41.749,-74.0873,73.152
+3984,new york times,Limoges (France),45.85,1.25,NaN
+3985,dbpedia,Limoges,45.8353,1.2625,NaN
+3995,freebase,moab utah,38.5725,-109.549722,NaN
+3996,new york times,Pisa (Italy),43.7175,10.3965,NaN
+3997,geonames,Pisa,43.7155,10.3966,NaN
+3998,geonames,Huntington Beach,33.6603,-117.999,NaN
+4007,dbpedia,Interlaken,46.6833,7.85,NaN
+4013,new york times,Akihabara (Tokyo),35.7,139.767,NaN
+4018,new york times,Antalya (Turkey),36.9125,30.6897,NaN
+4022,freebase,parma,44.8,10.3333,NaN
+4033,new york times,Samarra (Iraq),34.1958,43.8758,NaN
+4034,geonames,Samarra,34.1958,43.8758,NaN
+4040,dbpedia,Potsdam,52.4,13.0667,NaN
+4042,geonames,Hobart,-42.9167,147.333,NaN
+4047,dbpedia,Amsterdam,52.3731,4.89222,NaN
+4049,dbpedia,Qingdao,36.0667,120.383,NaN
+4056,geonames,Baden-Baden,48.75,8.25,NaN
+4058,dbpedia,"Kanazawa, Ishikawa",NaN,NaN,NaN
+4063,freebase,dunedin,-45.89,170.5,NaN
+4066,dbpedia,"Millerton, New York",NaN,NaN,NaN
+4068,dbpedia,Lecce,40.35,18.1667,NaN
+4069,dbpedia,Autun,46.9517,4.29944,NaN
+4070,new york times,Paris (France),48.8534,2.3488,NaN
+4071,geonames,Paris,48.8534,2.3488,NaN
+4073,new york times,Oakland (Calif),37.8044,-122.271,NaN
+4083,new york times,Bologna (Italy),44.4938,11.3387,NaN
+4089,dbpedia,Segovia,40.95,-4.16667,NaN
+4090,new york times,Reno (Nev),39.5296,-119.814,NaN
+4091,dbpedia,"Reno, Nevada",NaN,NaN,NaN
+4100,geonames,Houston,29.7633,-95.3633,NaN
+4106,geonames,Alajuela,10.0167,-84.2167,NaN
+4107,new york times,Santo Domingo (Dominican Republic),18.4667,-69.9,NaN
+4110,new york times,Bradford (England),53.7939,-1.75206,NaN
+4112,geonames,Hot Springs,34.5037,-93.0552,NaN
+4117,freebase,providence,41.8239,-71.4133,NaN
+4118,new york times,Les Eyzies-de-Tayac (France),44.9359,1.01327,NaN
+4119,dbpedia,Les Eyzies-de-Tayac-Sireuil,44.936,1.01805,NaN
+4121,freebase,breezy point queens,40.5565,-73.9262,NaN
+4138,new york times,Osaka (Japan),34.6937,135.502,NaN
+4141,new york times,Miami (Fla),25.7743,-80.1937,NaN
+4148,freebase,xalapa,19.54,-96.9275,NaN
+4152,dbpedia,"Long Beach, California",NaN,NaN,NaN
+4155,geonames,Port Jefferson,40.9465,-73.0693,NaN
+4170,geonames,Birmingham,52.4667,-1.91667,NaN
+4177,geonames,Old Lyme,41.3159,-72.329,NaN
+4186,geonames,Cortona,43.2747,11.9853,NaN
+4190,new york times,Beaune (France),47.0333,4.83333,NaN
+4192,new york times,Chengde (China),40.9725,117.936,NaN
+4198,geonames,Nantes,47.2173,-1.55336,NaN
+4210,dbpedia,"Rockaway Beach, Queens",NaN,NaN,NaN
+4213,geonames,Guimarães,41.45,-8.3,NaN
+4222,freebase,san jose del cabo,23.05,-109.683,NaN
+4223,dbpedia,"Almagro, Ciudad Real",NaN,NaN,NaN
+4224,new york times,Bhopal (India),23.2667,77.4,NaN
+4225,dbpedia,Bhopal,23.25,77.42,NaN
+4231,freebase,donostia,43.32,-1.98,NaN
+4233,freebase,key west,24.5553,-81.7828,NaN
+4238,dbpedia,"Chappaqua, New York",NaN,NaN,NaN
+4246,geonames,Heidelberg,49.4077,8.69079,NaN
+4253,dbpedia,"Garrison, New York",NaN,NaN,NaN
+4254,new york times,Valencia (Spain),39.4698,-0.377387,NaN
+4255,dbpedia,"Valencia, Spain",NaN,NaN,NaN
+4259,dbpedia,"Oxnard, California",NaN,NaN,NaN
+4270,freebase,chennai,13.081,80.274,6.0
+4272,freebase,galway,53.2734,-9.05033,NaN
+4273,dbpedia,"Bay Ridge, Brooklyn",NaN,NaN,NaN
+4277,geonames,Niagara-on-the-Lake,43.2501,-79.0663,NaN
+4279,geonames,Santa Fe,35.687,-105.938,NaN
+4282,dbpedia,Houston,29.7628,-95.3831,NaN
+4285,freebase,jackson heights queens,40.7521,-73.8791,NaN
+4288,new york times,Lyon (France),45.75,4.85,NaN
+4289,freebase,lyon,45.7669,4.8342,NaN
+4292,new york times,Luanda (Angola),-8.83833,13.2344,NaN
+4298,geonames,Cutchogue,41.0107,-72.4851,NaN
+4299,new york times,Clarence Center (NY),43.0106,-78.6375,NaN
+4300,dbpedia,"Clarence Center, New York",NaN,NaN,NaN
+4302,new york times,Annecy (France),45.9,6.11667,NaN
+4303,dbpedia,Annecy,45.916,6.133,NaN
+4309,new york times,Siem Reap (Cambodia),13.3667,103.85,NaN
+4311,freebase,salt lake city,40.75,-111.883333,NaN
+4315,dbpedia,Bucharest,44.4325,26.1039,NaN
+4316,new york times,Manchester (Vt),43.1637,-73.0723,NaN
+4322,geonames,Vevey,46.4612,6.84328,NaN
+4324,geonames,Korčula,42.9622,17.1369,NaN
+4326,new york times,Omaha (Neb),41.2586,-95.9378,NaN
+4327,freebase,omaha nebraska,41.2586,-95.9375,NaN
+4333,geonames,Hakone,35.1833,139.033,NaN
+4334,geonames,Clarence,43.0106,-78.6375,NaN
+4337,dbpedia,Auckland,-36.8404,174.74,NaN
+4342,freebase,oxford,51.7511,-1.25583,NaN
+4350,dbpedia,Tel Aviv,32.0833,34.7833,NaN
+4351,geonames,Cardiff,51.48,-3.18,NaN
+4355,dbpedia,"Myrtle Beach, South Carolina",NaN,NaN,NaN
+4356,new york times,Olinda (Brazil),-8.00889,-34.8553,NaN
+4357,geonames,Olinda,-8.00889,-34.8553,NaN
+4362,dbpedia,"Mashpee, Massachusetts",NaN,NaN,NaN
+4368,geonames,Siena,43.32,11.3328,NaN
+4372,freebase,bangkok,13.75,100.483,1.5
+4374,dbpedia,"New Bedford, Massachusetts",NaN,NaN,NaN
+4376,freebase,downtown brooklyn,40.6937,-73.9859,NaN
+4388,freebase,sadr city,33.3889,44.4583,NaN
+4393,dbpedia,"Sleepy Hollow, New York",NaN,NaN,NaN
+4408,dbpedia,"Silverton, Colorado",37.8125,-107.663,NaN
+4410,geonames,Omaha,41.2586,-95.9378,NaN
+4414,new york times,Ocean Grove (NJ),40.2121,-74.0065,NaN
+4423,geonames,New York,40.7143,-74.006,NaN
+4433,geonames,Ürümqi,43.8,87.5833,NaN
+4434,freebase,new york county,40.7697,-73.9735,NaN
+4435,geonames,Cuenca,-2.88333,-78.9833,NaN
+4439,geonames,Juneau,58.3019,-134.42,NaN
+4440,dbpedia,Vienna,48.2089,16.3731,NaN
+4448,new york times,Puerto Morelos (Mexico),20.8417,-86.8824,NaN
+4451,freebase,ridgefield,41.2814,-73.4986,NaN
+4453,freebase,bay ridge brooklyn,40.627,-74.031,NaN
+4455,new york times,Krakow (Poland),50.0833,19.9167,NaN
+4469,new york times,Lausanne (Switzerland),46.516,6.63282,NaN
+4470,geonames,Lausanne,46.516,6.63282,NaN
+4471,dbpedia,Malmo,NaN,NaN,NaN
+4476,dbpedia,York,53.9583,-1.08028,NaN
+4483,freebase,huntsville,34.7303,-86.5861,NaN
+4485,geonames,Villarrica,-39.2857,-72.2279,NaN
+4486,new york times,Bayeux (France),49.2667,-0.7,NaN
+4487,dbpedia,Bayeux,49.2794,-0.702778,NaN
+4504,geonames,Rye Brook,41.0193,-73.6835,NaN
+4508,dbpedia,"Saratoga Springs, New York",NaN,NaN,NaN
+4511,freebase,casablanca,33.5992,-7.62,NaN
+4512,new york times,Liverpool (England),53.4106,-2.97794,NaN
+4520,freebase,saint paul,44.9444,-93.0931,NaN
+4528,dbpedia,Cascais,NaN,NaN,NaN
+4531,geonames,Alkmaar,52.6317,4.74861,NaN
+4535,freebase,messene,37.05,22.0,NaN
+4542,dbpedia,"Guadalupe, Baja California",NaN,NaN,NaN
+4544,freebase,park slope brooklyn,40.6701,-73.986,15.0
+4545,new york times,Lanai (Hawaii),20.8306,-156.922,NaN
+4546,dbpedia,Lanai,20.8333,-156.933,NaN
+4549,new york times,Lahinch (Ireland),52.9367,-9.34528,NaN
+4560,dbpedia,Florianopolis,NaN,NaN,NaN
+4561,freebase,dunhuang,40.1,94.65,NaN
+4562,new york times,Malaga (Spain),36.7202,-4.42034,NaN
+4563,dbpedia,Malaga,NaN,NaN,NaN
+4568,freebase,jakarta,-6.1333,106.75,NaN
+4569,freebase,bethel new york,41.6808,-74.8658,NaN
+4570,geonames,City Island,40.8473,-73.7865,NaN
+4573,dbpedia,Gothenburg,57.7,11.9667,NaN
+4576,dbpedia,"Deer Isle, Maine",NaN,NaN,NaN
+4603,dbpedia,Fortaleza,-3.7737,-38.5748,NaN
+4605,new york times,Santa Monica (Calif),34.0195,-118.491,NaN
+4606,geonames,Santa Monica,34.0195,-118.491,NaN
+4608,new york times,Arles (France),43.6768,4.63031,NaN
+4609,geonames,Arles,43.6768,4.63031,NaN
+4610,dbpedia,Pisa,43.7167,10.4,NaN
+4612,dbpedia,"Jamaica, Queens",NaN,NaN,NaN
+4615,dbpedia,"Peekskill, New York",NaN,NaN,NaN
+4617,dbpedia,Kobe,34.6833,135.2,NaN
+4621,geonames,Bam,29.1078,58.3619,NaN
+4627,freebase,varanasi,25.2807,82.9557,NaN
+4632,dbpedia,Hanoi,21.0333,105.85,NaN
+4637,freebase,belfast,54.6,-5.91667,NaN
+4638,freebase,memphis tennessee,35.1494,-90.0489,NaN
+4647,freebase,hermanus,-34.4204,19.2438,NaN
+4674,freebase,cadiz,36.5167,-6.28333,NaN
+4681,freebase,lafayette louisiana,30.2139,-92.0294,NaN
+4686,geonames,Karbala,32.5978,44.0161,NaN
+4689,dbpedia,Samthar,25.85,78.9167,NaN
+4691,new york times,Zagreb (Croatia),45.8,16.0,NaN
+4692,freebase,zagreb,45.8167,15.9833,NaN
+4695,freebase,chengdu,30.6636,104.067,NaN
+4697,dbpedia,"Natchez, Mississippi",NaN,NaN,NaN
+4700,freebase,shenzhen,22.55,114.1,NaN
+4702,freebase,athens,37.9778,23.7278,NaN
+4706,geonames,Kew Gardens,40.7143,-73.831,NaN
+4707,freebase,cleveland ohio,41.482222,-81.669722,NaN
+4710,dbpedia,"Kansas City, Missouri",NaN,NaN,NaN
+4711,freebase,york,53.95,-1.08333,NaN
+4713,geonames,El Chaltén,-49.3286,-72.93,NaN
+4716,freebase,assisi,43.0667,12.6167,NaN
+4718,geonames,Poughkeepsie,41.7004,-73.921,NaN
+4722,new york times,Franschhoek (South Africa),-33.9167,19.1167,NaN
+4723,geonames,Franschhoek,-33.9167,19.1167,NaN
+4725,geonames,Tikrit,34.5967,43.6769,NaN
+4726,geonames,Messíni,37.0511,22.0078,NaN
+4747,dbpedia,"Hakone, Kanagawa",NaN,NaN,NaN
+4751,freebase,bamberg,49.8955,10.8854,NaN
+4753,new york times,Chernobyl (Ukraine),51.2667,30.2333,NaN
+4754,geonames,Chernobyl,51.2667,30.2333,NaN
+4757,freebase,tiradentes brazil,-21.1103,-44.2114,NaN
+4768,new york times,Kansas City (Kan),39.1142,-94.6275,NaN
+4769,freebase,kansas city kansas,39.1142,-94.6272,NaN
+4773,dbpedia,La Paz,-16.5,-68.1333,NaN
+4781,dbpedia,"Paris, Texas",NaN,NaN,NaN
+4788,dbpedia,San Sebastian,NaN,NaN,NaN
+4791,freebase,nasiriyah,31.05,46.2667,NaN
+4799,dbpedia,Hanau,50.1333,8.91667,NaN
+4800,freebase,beirut,33.8833,35.5,NaN
+4806,freebase,dijon,47.3239,5.04278,NaN
+4814,dbpedia,Santa Cruz (miasto w Boliwii),-17.8,-63.1667,NaN
+4827,freebase,vientiane,17.9667,102.6,NaN
+4833,geonames,Chengdu,30.6667,104.067,NaN
+4834,freebase,irvington,40.7256,-74.2319,NaN
+4839,dbpedia,"Lafayette, Louisiana",NaN,NaN,NaN
+4840,dbpedia,Siem Reap,13.3622,103.86,NaN
+4842,geonames,Liverpool,53.4106,-2.97794,NaN
+4847,freebase,ayacucho,-13.1631,-74.2244,NaN
+4857,freebase,monhegan,43.7622,-69.3203,NaN
+4861,freebase,colmar,48.0667,7.36667,NaN
+4863,freebase,naples florida,26.1417,-81.795,NaN
+4865,dbpedia,Eilat,NaN,NaN,NaN
+4866,new york times,Veracruz (Mexico),19.2,-96.1333,NaN
+4874,dbpedia,Alajuela,10.0167,-84.2167,NaN
+4876,geonames,Sandwich,41.759,-70.4939,NaN
+4880,freebase,cuetzalan,20.0172,-97.5195,NaN
+4882,dbpedia,"Port Jefferson, New York",NaN,NaN,NaN
+4884,freebase,ottawa,45.4214,-75.6919,NaN
+4885,freebase,sintra,38.7977,-9.38919,NaN
+4897,freebase,fallujah,33.3525,43.7869,NaN
+4906,dbpedia,Puerto Vallarta,20.6667,-105.267,NaN
+4907,dbpedia,Geneva,46.2,6.15,NaN
+4920,geonames,Brzezinka,51.9667,15.0333,NaN
+4927,geonames,Ani,40.5333,43.5667,NaN
+4937,dbpedia,"Oakland, California",NaN,NaN,NaN
+4941,freebase,locust valley,40.8758,-73.5975,NaN
+4944,geonames,Napa,38.2971,-122.286,NaN
+4945,dbpedia,"Pensacola, Florida",NaN,NaN,NaN
+4952,freebase,shanksville,40.0172,-78.9058,NaN
+4955,new york times,Las Cruces (NM),32.3123,-106.778,NaN
+4956,dbpedia,"Las Cruces, New Mexico",NaN,NaN,NaN
+4962,freebase,pompeii,40.7506,14.4897,NaN
+4972,geonames,Jackson,32.2988,-90.1848,NaN
+4987,freebase,pyongyang,39.0333,125.75,NaN
+4988,geonames,Salem,42.5195,-70.8967,NaN
+4991,freebase,klosters,46.883333,9.883333,1179.0
+4997,new york times,Sarasota (Fla),27.3364,-82.5307,NaN
+4998,dbpedia,"Sarasota, Florida",NaN,NaN,NaN
+5003,freebase,bangalore,12.9833,77.5833,NaN
+5013,geonames,Metuchen,40.5432,-74.3632,NaN
+5014,geonames,Salida,38.5347,-105.999,NaN
+5019,dbpedia,Khartoum,15.6333,32.5331,NaN
+5021,geonames,Saugatuck,42.655,-86.202,NaN
+5028,new york times,Cancun (Mexico),21.1743,-86.8466,NaN
+5030,freebase,ayodhya,26.8,82.2,NaN
+5037,dbpedia,Siwa Oasis,29.1833,25.55,NaN
+5040,geonames,Taipei,25.0392,121.525,NaN
+5042,freebase,macau,22.1667,113.55,NaN
+5046,geonames,Luxor,25.6989,32.6421,NaN
+5047,geonames,Ocean City,38.3365,-75.0849,NaN
+5049,dbpedia,Bergama,39.1167,27.1833,NaN
+5051,freebase,bordeaux,44.8386,-0.578333,NaN
+5055,dbpedia,"Ocracoke, North Carolina",NaN,NaN,NaN
+5059,new york times,Kabul (Afghanistan),34.5167,69.1833,NaN
+5062,freebase,darwin,-12.4667,130.833,NaN
+5071,freebase,graz,47.0703,15.4389,NaN
+5084,geonames,Leeds,53.7965,-1.54785,NaN
+5085,dbpedia,Osaka,34.6937,135.502,NaN
+5086,dbpedia,Liverpool,53.4,-2.98333,NaN
+5090,freebase,versailles,48.8053,2.135,NaN
+5092,geonames,Isla Mujeres,21.2311,-86.7311,NaN
+5097,geonames,Milan,45.4643,9.18951,NaN
+5101,geonames,Saas-Fee,46.1135,7.93488,NaN
+5103,freebase,phoenix,33.45,-112.066667,NaN
+5109,geonames,Udaipur,24.5712,73.6918,NaN
+5118,geonames,Dakar,14.6937,-17.4441,NaN
+5125,dbpedia,New Delhi,28.0,77.0,NaN
+5136,freebase,lausanne,46.5167,6.63333,NaN
+5142,geonames,Galway,53.2719,-9.04889,NaN
+5149,geonames,Verdun,49.1667,5.38333,NaN
+5158,dbpedia,"Milford, Connecticut",NaN,NaN,NaN
+5162,freebase,kobe,34.6911,135.197,NaN
+5165,geonames,Akaroa,-43.7983,172.97,NaN
+5172,freebase,new canaan,41.1467,-73.4953,NaN
+5176,freebase,carmel by the sea,36.5553,-121.922,NaN
+5180,geonames,Berne,46.9481,7.44744,NaN
+5182,freebase,riga,56.9496,24.104,NaN
+5185,freebase,franschhoek western cape,19.1167,-33.9167,NaN
+5190,new york times,Turin (Italy),45.0705,7.68682,NaN
+5191,dbpedia,Turin,45.0667,7.7,NaN
+5193,dbpedia,"Corona, Queens",NaN,NaN,NaN
+5194,freebase,seaside florida,30.321,-86.1416,NaN
+5201,geonames,Indianapolis,39.7684,-86.158,NaN
+5205,geonames,Kaesong,37.9708,126.554,NaN
+5206,freebase,key largo,25.0865,-80.4473,NaN
+5217,freebase,ushuaia,-54.8,-68.3,NaN
+5219,freebase,spoleto,42.7333,12.7333,NaN
+5224,freebase,santiago de compostela,42.8833,-8.53333,NaN
+5235,geonames,Punta Arenas,-53.15,-70.9167,NaN
+5236,dbpedia,Canberra,-35.3081,149.124,NaN
+5240,freebase,northport new york,40.9008,-73.3436,NaN
+5242,freebase,pittsburgh,40.4406,-79.9961,NaN
+5248,dbpedia,Chartres,48.4558,1.48418,NaN
+5255,new york times,Shelter Island (NY),41.0682,-72.3387,NaN
+5259,freebase,kips bay,40.7414,-73.9783,NaN
+5269,dbpedia,Xi'an,34.2667,108.9,NaN
+5277,dbpedia,Beverley,53.845,-0.427,NaN
+5298,geonames,Lehinch,52.9367,-9.34528,NaN
+5301,dbpedia,Darjeeling,27.03,88.16,NaN
+5306,freebase,sao paulo,-23.5,-46.6167,NaN
+5312,geonames,Sedona,34.8697,-111.761,NaN
+5315,dbpedia,Chengde,40.9667,117.933,NaN
+5316,dbpedia,Dragør,55.5833,12.6667,NaN
+5324,geonames,Qingdao,36.0986,120.372,NaN
+5325,geonames,Broome,-17.9667,122.233,NaN
+5329,geonames,Bursa,40.1917,29.0611,NaN
+5330,dbpedia,Lausanne,46.5198,6.6335,NaN
+5331,freebase,park city,40.6461,-111.497,NaN
+5340,geonames,Norwalk,41.1176,-73.4079,NaN
+5346,freebase,patzcuaro,19.5158,-101.609,NaN
+5349,dbpedia,Rotorua,-38.1378,176.251,NaN
+5355,freebase,pensacola,30.4211,-87.2169,NaN
+5362,dbpedia,Portofino,44.3039,9.20778,NaN
+5365,dbpedia,Petropolis,NaN,NaN,NaN
+5371,dbpedia,St Mawes (UK Parliament constituency),NaN,NaN,NaN
+5373,geonames,Ithaca,42.4406,-76.4966,NaN
+5375,freebase,sochi,43.6127,39.7228,NaN
+5378,new york times,Bormio (Italy),46.4684,10.3721,NaN
+5379,freebase,bormio,46.4667,10.3667,NaN
+5380,freebase,puntarenas,9.9667,-84.8333,NaN
+5381,geonames,San José,9.93333,-84.0833,NaN
+5382,geonames,Cancún,21.1743,-86.8466,NaN
+5384,new york times,Fujairah (United Arab Emirates),25.1231,56.3375,NaN
+5398,geonames,Corona,40.747,-73.8601,NaN
+5399,freebase,qingdao,36.0833,120.333,NaN
+5403,dbpedia,Rio de Janeiro,-22.9054,-43.1771,NaN
+5406,freebase,kep cambodia,10.4831,104.317,NaN
+5409,freebase,kyoto,35.0,135.75,NaN
+5412,dbpedia,Arezzo,43.4733,11.87,NaN
+5417,freebase,lima,-12.0433,-77.0283,NaN
+5419,freebase,plovdiv,42.15,24.75,NaN
+5422,dbpedia,"Juneau, Alaska",NaN,NaN,NaN
+5426,freebase,fujairah,25.266667,56.333333,NaN
+5427,freebase,gaiman,-43.29,-65.4971,NaN
+5428,dbpedia,"Omaha, Nebraska",NaN,NaN,NaN
+5433,dbpedia,Florence,43.7833,11.25,NaN
+5435,dbpedia,Tlaxcala,19.4289,-98.1608,NaN
+5439,freebase,blackpool,53.8333,-3.03333,NaN
+5446,dbpedia,New York City,40.7127,-74.0059,NaN
+5447,dbpedia,"Metuchen, New Jersey",NaN,NaN,NaN
+5449,geonames,Alta,40.5888,-111.638,NaN
+5451,geonames,Short Hills,40.7479,-74.3254,NaN
+5455,dbpedia,"Savannah, Georgia",NaN,NaN,NaN
+5462,freebase,jaipur,26.92,75.82,NaN
+5476,dbpedia,"Santa Monica, California",NaN,NaN,NaN
+5481,new york times,Ronda (Spain),36.7423,-5.16709,NaN
+5483,new york times,Peshawar (Pakistan),34.0078,71.5733,NaN
+5485,new york times,Brasilia (Brazil),-15.7797,-47.9297,NaN
+5486,geonames,Brasília,-15.7797,-47.9297,NaN
+5505,geonames,Lugano,46.0101,8.96004,NaN
+5506,dbpedia,Marrakech,31.6333,-8.0,NaN
+5508,geonames,Princeton,40.3487,-74.659,NaN
+5515,freebase,norilsk,69.3298,88.2236,NaN
+5522,geonames,New Haven,41.3082,-72.9282,NaN
+5526,freebase,algiers,36.7667,3.05,NaN
+5534,dbpedia,Dingle,52.1399,-10.2715,NaN
+5538,new york times,Pasadena (Calif),34.1478,-118.145,NaN
+5548,geonames,London,51.5005,-0.128832,NaN
+5551,geonames,New Delhi,28.6358,77.2244,NaN
+5554,freebase,portland,45.5236,-122.675,NaN
+5556,freebase,sofia,42.66,23.36,NaN
+5564,dbpedia,"Mystic, Connecticut",NaN,NaN,NaN
+5567,freebase,peekskill,41.29,-73.9208,NaN
+5568,new york times,Aubusson (France),45.95,2.16667,NaN
+5569,dbpedia,"Aubusson, Creuse",NaN,NaN,NaN
+5572,dbpedia,San Jose del Cabo,NaN,NaN,NaN
+5573,geonames,Yokohama,35.45,139.65,NaN
+5577,freebase,cork,51.9,-8.47306,NaN
+5584,dbpedia,"San Luis Obispo, California",NaN,NaN,NaN
+5595,geonames,Canaima,10.6311,-63.1917,NaN
+5602,freebase,lanai,20.8333,-156.933,1026.0
+5603,geonames,Paris,33.6609,-95.5555,NaN
+5610,geonames,Davos,46.8043,9.83723,NaN
+5613,dbpedia,Manhattan,40.7903,-73.9597,NaN
+5631,geonames,Macon,32.8407,-83.6324,NaN
+5637,freebase,leavenworth washington,47.5964,-120.66,NaN
+5642,geonames,Strasbourg,48.5833,7.75,NaN
+5645,geonames,Saratoga Springs,43.0831,-73.7846,NaN
+5646,geonames,Recife,-8.05389,-34.8811,NaN
+5649,freebase,kew gardens queens,40.705644,-73.827139,NaN
+5652,freebase,salida,38.5347,-105.998,NaN
+5659,dbpedia,Vientiane,17.9667,102.6,NaN
+5662,dbpedia,"Ithaca, New York",NaN,NaN,NaN
+5664,dbpedia,Dublin,53.3478,-6.25972,NaN
+5671,dbpedia,Brighton,50.8429,-0.131312,NaN
+5682,freebase,siena,43.3333,11.3333,NaN
+5686,geonames,Laguna Beach,33.5422,-117.783,NaN
+5688,dbpedia,Greenwich,51.4791,0.0,NaN
+5697,dbpedia,Amman,31.9333,35.9328,NaN
+5699,freebase,hanau,50.1358,8.91541,NaN
+5704,geonames,Beverley,53.8459,-0.423317,NaN
+5710,freebase,sarasota,27.3361,-82.5308,7.0
+5712,dbpedia,Rovinj,45.0833,13.6333,NaN
+5713,dbpedia,Zagreb,45.8167,15.9833,NaN
+5714,new york times,Nagano (Japan),36.65,138.183,NaN
+5715,geonames,Nagano,36.65,138.183,NaN
+5716,geonames,Zermatt,46.0167,7.75,NaN
+5720,freebase,el alto,-16.5167,-68.1667,NaN
+5722,geonames,Knoxville,35.9606,-83.9207,NaN
+5724,dbpedia,Hua Hin,NaN,NaN,NaN
+5741,dbpedia,Stuttgart,48.7786,9.17944,NaN
+5747,geonames,Marseille,43.3,5.4,NaN
+5751,geonames,Lockerbie,55.1167,-3.35,NaN
+5759,dbpedia,"Oxford, Mississippi",NaN,NaN,NaN
+5760,geonames,New London,41.3557,-72.0995,NaN
+5765,dbpedia,Helsinki,NaN,NaN,NaN
+5766,freebase,samarra,34.1985,43.8742,NaN
+5770,freebase,mott haven bronx,40.809,-73.9229,NaN
+5790,freebase,sacramento,38.5817,-121.493,NaN
+5793,freebase,milford pennsylvania,41.3222,-74.8028,NaN
+5797,freebase,hiroshima,34.3987,132.476,NaN
+5799,dbpedia,Caratinga,-19.625,-42.1333,NaN
+5800,dbpedia,"Falmouth, Massachusetts",NaN,NaN,NaN
+5806,geonames,São Paulo,-23.5475,-46.6361,NaN
+5807,freebase,new rochelle,40.9114,-73.7828,NaN
+5810,geonames,Northport,40.9009,-73.3432,NaN
+5811,freebase,mendoza,-32.8905,-68.842,746.5
+5813,dbpedia,"Long Island City, Queens",NaN,NaN,NaN
+5821,freebase,rotterdam,51.9217,4.4811,NaN
+5829,freebase,san diego,32.7153,-117.156,NaN
+5835,freebase,innsbruck,47.2671,11.3928,574.0
+5836,new york times,Tirana (Albania),41.3275,19.8189,NaN
+5840,dbpedia,Casablanca,33.5333,-7.58333,NaN
+5853,new york times,Malindi (Kenya),-3.21667,40.1167,NaN
+5854,geonames,Malindi,-3.21667,40.1167,NaN
+5857,new york times,Basel (Switzerland),47.5667,7.6,NaN
+5859,freebase,curitiba,-25.4687,-49.2535,NaN
+5863,geonames,Zanzibar,-6.16394,39.1979,NaN
+5864,geonames,Corinth,37.9378,22.9322,NaN
+5871,geonames,Quito,-0.229854,-78.5249,NaN
+5896,freebase,paterson,40.9167,-74.1722,NaN
+5901,dbpedia,Quebec City,46.8167,-71.2167,NaN
+5910,dbpedia,"Sacramento, California",NaN,NaN,NaN
+5912,freebase,naypyidaw,19.75,96.1,NaN
+5924,freebase,caracas,10.5,-66.8992,900.0
+5927,geonames,Minneapolis,44.98,-93.2638,NaN
+5928,geonames,Natal,-5.795,-35.2094,NaN
+5931,new york times,Mont Tremblant (Canada),46.1949,-74.6264,NaN
+5932,freebase,mont tremblant,46.2122,-74.5856,NaN
+5933,geonames,Monopoli,40.9559,17.2896,NaN
+5937,dbpedia,Chernobyl,51.2722,30.2242,NaN
+5938,new york times,Karlovy Vary (Czech Republic),50.2327,12.8712,NaN
+5942,freebase,santiago chile,-33.45,-70.6667,520.0
+5946,geonames,Fortaleza,-3.71722,-38.5431,NaN
+5951,new york times,Cuzco (Peru),-13.5183,-71.9781,NaN
+5957,freebase,new delhi,28.6667,77.2167,NaN
+5981,dbpedia,Krakow,NaN,NaN,NaN
+5991,freebase,malindi,-3.2167,40.1167,NaN
+5999,freebase,padua,45.4167,11.8667,NaN
+6002,dbpedia,Riga,56.9489,24.1064,NaN
+6007,geonames,Richmond,37.5538,-77.4603,NaN
+6012,freebase,santa cruz de la sierra,-17.7892,-63.1975,NaN
+6020,geonames,Limoges,45.85,1.25,NaN
+6025,freebase,dingle,52.1399,-10.2715,NaN
+6026,dbpedia,"Sedona, Arizona",NaN,NaN,NaN
+6032,geonames,Ramadi,33.4226,43.3058,NaN
+6043,freebase,morelia,19.7,-101.183,NaN
+6046,dbpedia,"Armonk, New York",NaN,NaN,NaN
+6051,geonames,Kandahar,31.61,65.7,NaN
+6052,freebase,ravenna,44.4167,12.2,NaN
+6053,freebase,bursa,40.1861,29.0667,NaN
+6065,dbpedia,Islamabad,33.43,73.04,NaN
+6073,freebase,palmetto georgia,33.5211,-84.6678,NaN
+6077,freebase,raleigh,35.7719,-78.6389,NaN
+6097,freebase,florianopolis,-27.5929,-48.5524,NaN
+6104,dbpedia,Kabul,34.5331,69.1661,NaN
+6106,geonames,Carmel,36.5552,-121.923,NaN
+6110,geonames,Menton,43.7765,7.50435,NaN
+6114,freebase,ho chi minh city,10.75,106.667,NaN
+6115,geonames,Portsmouth,43.0718,-70.7626,NaN
+6119,freebase,new castle delaware,39.6619,-75.5667,3.0
+6123,dbpedia,Budapest,47.4719,19.0503,NaN
+6130,geonames,Santo Domingo,18.5001,-69.9886,NaN
+6134,freebase,samthar,25.85,78.9167,NaN
+6137,freebase,honfleur,49.4194,0.2325,NaN
+6144,dbpedia,Venice,45.4375,12.3358,NaN
+6153,geonames,Thessaloniki,40.6403,22.9439,NaN
+6157,geonames,Scituate,42.1959,-70.7259,NaN
+6162,dbpedia,Tirana,41.326,19.816,NaN
+6163,geonames,Rincon,18.3402,-67.2499,NaN
+6167,dbpedia,Recife,-8.05,-34.9,NaN
+6173,freebase,warsaw,52.23,21.0108,NaN
+6174,geonames,Abu Dhabi,24.4667,54.3667,NaN
+6177,dbpedia,Ras al-Khaimah,25.7833,55.95,NaN
+6179,freebase,ferrara,44.83,11.62,NaN
+6182,geonames,Ottawa,45.4112,-75.6981,NaN
+6187,new york times,Istanbul (Turkey),41.0138,28.9497,NaN
+6188,geonames,Istanbul,41.0138,28.9497,NaN
+6203,geonames,Niagara Falls,43.0945,-79.0567,NaN
+6211,dbpedia,Soweto,-26.2661,27.8658,NaN
+6217,freebase,hyderabad,17.3667,78.4667,NaN
+6219,dbpedia,"Mendocino, California",NaN,NaN,NaN
+6220,dbpedia,Corinth,NaN,NaN,NaN
+6221,geonames,Chiangmai,18.7903,98.9817,NaN
+6232,freebase,kennebunkport,43.3617,-70.4772,NaN
+6237,dbpedia,Reykjavik,NaN,NaN,NaN
+6242,geonames,Norfolk,36.8468,-76.2852,NaN
+6244,freebase,aubusson creuse,45.9569,2.1683,NaN
+6245,dbpedia,"Rincon, Puerto Rico",NaN,NaN,NaN
+6250,freebase,darjeeling,27.0436,88.2644,NaN
+6252,dbpedia,Brzezinka,50.0447,19.1814,NaN
+6256,freebase,aveiro,40.6333,-8.65,NaN
+6260,freebase,ani,40.5075,43.5728,NaN
+6266,freebase,punta arenas,-53.1554,-70.9064,NaN
+6274,new york times,Queenstown (New Zealand),-45.0302,168.663,NaN
+6275,freebase,queenstown,-45.0428,168.645,NaN
+6285,freebase,prague,50.0833,14.4167,NaN
+6287,dbpedia,Lahinch,52.937,-9.345,NaN
+6304,geonames,Dijon,47.3167,5.01667,NaN
+6316,freebase,ajman,25.3833,55.5167,NaN
+6317,freebase,beslan,43.2,44.5667,NaN
+6320,dbpedia,"Key West, Florida",NaN,NaN,NaN
+6327,dbpedia,"Santiago, Chile",NaN,NaN,NaN
+6328,dbpedia,Cairo,30.0581,31.2289,NaN
+6335,geonames,Seneca Falls,42.9106,-76.7966,NaN
+6337,geonames,Bridgehampton,40.9379,-72.3009,NaN
+6338,dbpedia,"Palm Springs, California",NaN,NaN,NaN
+6348,freebase,guimaraes,41.4428,-8.294,NaN
+6354,dbpedia,Franschhoek,-33.9167,19.1333,NaN
+6363,geonames,Basra,30.4942,47.8192,NaN
+6372,geonames,Seoul,37.5683,126.978,NaN
+6384,dbpedia,Adelaide,-34.929,138.601,NaN
+6386,dbpedia,Brussels,50.85,4.35,NaN
+6388,dbpedia,"Mott Haven, Bronx",NaN,NaN,NaN
+6391,dbpedia,Udaipur,24.58,73.68,NaN
+6394,dbpedia,Cannes,43.5513,7.01275,NaN
+6395,dbpedia,The Hague,52.0833,4.31667,NaN
+6402,geonames,Antigua Guatemala,14.5611,-90.7344,NaN
+6419,dbpedia,Belgrade,44.8206,20.4622,NaN
+6423,geonames,Sharjah,25.3622,55.3911,NaN
+6440,geonames,Karlovy Vary,50.2327,12.8712,NaN
+6443,geonames,Hiroshima,34.4,132.45,NaN
+6460,geonames,Najaf,31.9961,44.3147,NaN
+6461,geonames,Glasgow,55.8652,-4.25763,NaN
+6466,dbpedia,Pittsburgh,40.6388,-80.0,NaN
+6471,geonames,Ocean Grove,40.2121,-74.0065,NaN
+6472,geonames,Bordeaux,44.8333,-0.566667,NaN
+6479,geonames,Mendoza,-32.8833,-68.8167,NaN
+6484,freebase,cannes,43.5513,7.01275,NaN
+6489,dbpedia,"Jackson Heights, Queens",NaN,NaN,NaN
+6492,freebase,zihuatanejo,17.6333,-101.55,NaN
+6494,geonames,Aubusson,45.95,2.16667,NaN
+6499,dbpedia,"Perth, Western Australia",NaN,NaN,NaN
+6508,dbpedia,"Newark, New Jersey",NaN,NaN,NaN
+6515,geonames,Milwaukee,43.0389,-87.9065,NaN
+6519,geonames,Cologne,50.9333,6.95,NaN
+6521,freebase,zaragoza,41.65,-0.9,NaN
+6527,dbpedia,"Poughkeepsie, New York",NaN,NaN,NaN
+6546,dbpedia,Vladivostok,43.1333,131.9,NaN
+6547,freebase,sheepshead bay brooklyn,40.582,-73.942,NaN
+6549,dbpedia,"Haines, Alaska",NaN,NaN,NaN
+6557,geonames,Cordova,37.8833,-4.76667,NaN
+6559,dbpedia,"Rochester, New York",NaN,NaN,NaN
+6563,geonames,Xalapa,19.5333,-96.9167,NaN
+6565,dbpedia,Ronda,36.7372,-5.16472,NaN
+6568,geonames,Chinatown,40.7165,-73.9963,NaN
+6571,freebase,beaune,47.025,4.83972,NaN
+6589,new york times,St Michaels (Md),38.7851,-76.2244,NaN
+6592,geonames,Louisville,38.2542,-85.7594,NaN
+6593,geonames,Calgary,51.0501,-114.085,NaN
+6598,dbpedia,"Huntsville, Alabama",NaN,NaN,NaN
+6603,geonames,Bayreuth,49.9481,11.5783,NaN
+6604,geonames,Rotterdam,51.9225,4.47917,NaN
+6615,dbpedia,Luang Prabang,19.8833,102.133,NaN
+6618,geonames,Pittsburgh,40.4406,-79.9959,NaN
+6620,dbpedia,"Mont-Tremblant, Quebec",NaN,NaN,NaN
+6623,freebase,lake placid,44.2794,-73.9803,NaN
+6624,geonames,Oxnard,34.1975,-119.177,NaN
+6625,freebase,arezzo,43.4667,11.8833,NaN
+6627,freebase,scottsdale,33.5092,-111.898,NaN
+6635,geonames,Annecy,45.9,6.11667,NaN
+6643,geonames,Essaouira,31.51,-9.76,NaN
+6644,dbpedia,Lower East Side,40.7172,-73.9897,NaN
+6648,dbpedia,Nantes,47.2181,-1.55278,NaN
+6652,freebase,las cruces,32.3197,-106.765,NaN
+6656,geonames,Bologna,44.4938,11.3387,NaN
+6658,geonames,Palenque/Temp,17.5167,-91.9667,NaN
+6673,dbpedia,"Mammoth Lakes, California",NaN,NaN,NaN
+6674,geonames,Ojai,34.448,-119.243,NaN
+6677,freebase,villarrica chile,-39.2667,-72.2167,NaN
+6682,dbpedia,Millau,44.0986,3.07833,NaN
+6685,dbpedia,Sderot,NaN,NaN,NaN
+6687,freebase,barcelona,41.3857,2.16994,NaN
+6689,freebase,frankfurt,50.1167,8.68333,NaN
+6708,geonames,Rome,41.8947,12.4839,NaN
+6710,geonames,Simi Valley,34.2694,-118.781,NaN
+6717,geonames,Mazatlán,23.2167,-106.417,NaN
+6721,geonames,Bergen,60.3932,5.32428,NaN
+6726,freebase,bologna,44.5,11.35,NaN
+6728,freebase,luanda,-8.83083,13.245,NaN
+6745,dbpedia,Prague,50.0833,14.4167,NaN
+6746,freebase,baghdad,33.3191,44.392,34.0
+6749,geonames,Park Slope,40.6701,-73.986,NaN
+6750,geonames,Les Eyzies-de-Tayac-Sireuil,44.9359,1.01327,NaN
+6755,dbpedia,"St Ives, Cornwall",NaN,NaN,NaN
+6761,freebase,urumqi,43.7958,87.6089,NaN
+6762,freebase,bayeux,49.2753,-0.7019,NaN
+6775,dbpedia,"Santa Ynez, California",NaN,NaN,NaN
+6781,freebase,dubai,25.2697,55.3095,NaN
+6782,dbpedia,Sihanoukville,10.6333,103.5,NaN
+6792,dbpedia,Urumqi,NaN,NaN,NaN
+6794,freebase,valencia,39.4767,-0.374444,NaN
+6795,freebase,napa,38.2972,-122.284,NaN
+6798,freebase,dharamsala,32.2167,76.3167,NaN
+6800,freebase,milwaukee,43.0389,-87.9064,NaN
+6805,freebase,newark,40.7356,-74.1728,NaN
+6806,freebase,seneca falls new york,42.9086,-76.7978,NaN
+6807,dbpedia,Thessaloniki,40.65,22.9,NaN
+6811,geonames,Oranienburg,52.75,13.2333,NaN
+6814,freebase,lecce,40.35,18.1667,NaN
+6833,geonames,Santiago de Cuba,20.0247,-75.8219,NaN
+6835,freebase,pisa,43.7167,10.4,NaN
+6840,geonames,Carcassonne,43.2167,2.35,NaN
+6856,geonames,Avignon,43.95,4.81667,NaN
+6860,freebase,malibu,34.0306,-118.779,NaN
+6862,dbpedia,Orvieto,42.7167,12.1,NaN
+6864,new york times,Jamesport (NY),40.9495,-72.5815,NaN
+6865,geonames,Jamesport,40.9495,-72.5815,NaN
+6881,freebase,palm springs,33.8303,-116.544,NaN
+6882,freebase,kaesong,37.9722,126.556,NaN
+6889,freebase,chengde,40.9669,117.933,NaN
+6892,dbpedia,Jakarta,-6.2,106.8,NaN
+6894,dbpedia,Essaouira,31.5131,-9.76972,NaN
+6902,freebase,hollywood,34.1,-118.333,NaN
+6903,freebase,dubrovnik,42.6403,18.1083,NaN
+6906,freebase,san german puerto rico,18.0,-67.0,161.0
+6907,freebase,corona queens,40.735,-73.865,NaN
+6912,dbpedia,"Amagansett, New York",NaN,NaN,NaN
+6913,dbpedia,Hong Kong,22.2783,114.159,NaN
+6917,dbpedia,"Jamesport, New York",NaN,NaN,NaN
+6919,geonames,Málaga,36.7202,-4.42034,NaN
+6922,geonames,Vladivostok,43.1056,131.874,NaN
+6923,dbpedia,Miami,25.7878,-80.2242,NaN
+6929,freebase,bayreuth,49.9481,11.5783,NaN
+6938,freebase,sedona,34.8697,-111.76,NaN
+6963,dbpedia,"North Salem, New York",NaN,NaN,NaN
+6974,freebase,la paz,-16.4942,-68.1475,NaN
+6981,freebase,revelstoke canada,51.01,-118.214,NaN
+6991,geonames,Bhopal,23.2667,77.4,NaN
+6995,dbpedia,Malindi,-3.21667,40.1167,NaN
+7003,dbpedia,"New Paltz (village), New York",NaN,NaN,NaN
+7012,dbpedia,Istanbul,41.0122,28.9667,NaN
+7020,geonames,Lucerne,47.0505,8.30635,NaN
+7024,geonames,Jerusalem,31.779,35.2253,NaN
+7028,freebase,kalkan,36.2581,29.4083,NaN
+7039,freebase,taipei,25.0333,121.533,NaN
+7043,freebase,antalya,36.8906,30.7047,30.0
+7047,freebase,pawleys island,33.4292,-79.125,NaN
+7053,geonames,Long Beach,40.5884,-73.6579,NaN
+7055,geonames,Homer,59.6425,-151.548,NaN
+7056,dbpedia,Haditha,34.1397,42.3781,NaN
+7057,freebase,lucerne,47.05,8.3,NaN
+7060,dbpedia,Fujairah,25.2667,56.3333,NaN
+7061,freebase,hamburg,53.5686,10.0386,NaN
+7071,freebase,istanbul,41.0128,28.9744,100.0
+7073,dbpedia,London,51.5072,-0.1275,NaN
+7077,geonames,Kolkata,22.5697,88.3697,NaN
+7083,dbpedia,Dalian,38.9208,121.639,NaN
+7088,geonames,New Milford,41.577,-73.4085,NaN
+7089,geonames,Dar es Salaam,-6.82349,39.2695,NaN
+7093,geonames,Hopewell Junction,41.584,-73.8087,NaN
+7095,geonames,Baqubah,33.75,44.6411,NaN
+7108,geonames,Hua Hin,12.5706,99.9588,NaN
+7109,freebase,nancy,48.6833,6.16667,NaN
+7115,freebase,zurich,47.369,8.53803,NaN
+7117,geonames,Dominical,9.25,-83.8667,NaN
+7119,dbpedia,"Knoxville, Tennessee",NaN,NaN,NaN
+7120,freebase,noho,40.72863,-73.99253,NaN
+7123,freebase,arles,43.6667,4.61667,NaN
+7125,geonames,Armonk,41.1265,-73.714,NaN
+7131,dbpedia,Siena,43.3186,11.3306,NaN
+7148,dbpedia,Moscow,55.7517,37.6178,NaN
+7153,dbpedia,"Santa Barbara, California",NaN,NaN,NaN
+7166,dbpedia,Kips Bay,40.7414,-73.9783,NaN
+7168,geonames,Bonn,50.7333,7.1,NaN
+7175,freebase,auxerre,47.7983,3.56778,NaN
+7194,dbpedia,Kashgar,39.4667,75.9833,NaN
+7196,geonames,Miami,25.7743,-80.1937,NaN
+7197,freebase,greenwich,51.4789,-0.0106,NaN
+7198,freebase,chernobyl,51.2667,30.2167,NaN
+7199,geonames,Key West,24.5546,-81.7915,NaN
+7204,freebase,pittsfield,42.45,-73.2458,NaN
+7212,dbpedia,"Broome, Western Australia",NaN,NaN,NaN
+7213,dbpedia,Tours,47.3936,0.689167,NaN
+7217,dbpedia,Amalfi,40.6333,14.6,NaN
+7218,geonames,Hay-on-wye,52.0705,-3.12741,NaN
+7220,freebase,kunming,25.0417,102.705,NaN
+7226,dbpedia,Antwerp,51.2167,4.4,NaN
+7233,dbpedia,Naypyidaw,19.75,96.1,NaN
+7236,geonames,Saint Michaels,38.7851,-76.2244,NaN
+7239,freebase,florence,43.7717,11.2536,NaN
+7243,geonames,Lahore,31.5497,74.3436,NaN
+7247,dbpedia,Cabo San Lucas,22.8897,-109.916,NaN
+7248,dbpedia,Chiang Mai,18.7953,98.9986,NaN
+7255,dbpedia,Cadiz,36.5333,-6.28333,NaN
+7260,dbpedia,Tallinn,59.4372,24.7453,NaN
+7267,freebase,essaouira,31.5131,-9.7697,NaN
+7268,freebase,margaret river,-33.955,115.075,NaN
+7270,geonames,Las Cruces,32.3123,-106.778,NaN
+7284,geonames,Orléans,47.9167,1.9,NaN
+7288,freebase,newburyport,42.8125,-70.8778,NaN
+7291,dbpedia,Vilnius,54.6833,25.2833,NaN
+7299,dbpedia,"Greenburgh, New York",NaN,NaN,NaN
+7304,geonames,Manchester,43.1637,-73.0723,NaN
+7308,freebase,acapulco,16.8517,-99.9097,NaN
+7309,geonames,Larchmont,40.9279,-73.7518,NaN
+7316,freebase,pasadena,34.156111,-118.131944,NaN
+7330,geonames,Ushuaia,-54.8,-68.3,NaN
+7331,dbpedia,Ferrara,44.8333,11.6167,NaN
+7332,freebase,rossville staten island,40.5466,-74.21,NaN
+7338,geonames,Huntsville,34.7304,-86.5861,NaN
+7341,freebase,st michaels,38.785,-76.2247,NaN
+7342,freebase,sucre,-19.0428,-65.2553,NaN
+7343,geonames,Huntington Station,40.8534,-73.4115,NaN
+7348,dbpedia,"Las Vegas, Nevada",NaN,NaN,NaN
+7364,geonames,Palm Beach,26.7056,-80.0364,NaN
+7365,dbpedia,Athenry (Parliament of Ireland constituency),NaN,NaN,NaN
+7366,freebase,granada,37.1742,-3.5975,NaN
+7373,geonames,Leavenworth,47.5962,-120.661,NaN
+7380,geonames,Kathmandu,27.7017,85.3206,NaN
+7384,dbpedia,"Isle of Palms, South Carolina",NaN,NaN,NaN
+7388,dbpedia,"New Castle, Delaware",NaN,NaN,NaN
+7412,dbpedia,Doha,25.2867,51.5333,NaN
+7417,dbpedia,Auxerre,47.7986,3.5672,NaN
+7426,geonames,Verbier,46.1,7.21667,NaN
+7433,geonames,Naples,26.142,-81.7948,NaN
+7435,geonames,Warsaw,52.2278,21.0127,NaN
+7443,geonames,Salzburg,47.7994,13.044,NaN
+7449,geonames,Mammoth Lakes,37.6485,-118.972,NaN
+7451,geonames,Milford,41.2223,-73.0565,NaN
+7454,freebase,quito,-0.218611,-78.5097,NaN
+7455,freebase,karlovy vary,50.2306,12.8725,NaN
+7456,geonames,Hanover,52.3705,9.73322,NaN
+7459,freebase,girona,41.9833,2.81667,NaN
+7465,freebase,carcassonne,43.2167,2.35,NaN
+7467,dbpedia,Gansbaai,-34.5828,19.3522,NaN
+7472,freebase,luxembourg luxembourg,49.6117,6.13,NaN
+7476,dbpedia,"Marathon, Florida",NaN,NaN,NaN
+7483,dbpedia,"Pasadena, California",NaN,NaN,NaN
+7495,dbpedia,Dijon,47.2906,5.04139,NaN
+7501,freebase,isle of palms,32.7867,-79.795,NaN
+7504,dbpedia,"Scituate, Massachusetts",NaN,NaN,NaN
+7507,geonames,Delft,52.0067,4.35556,NaN
+7509,freebase,richland new york,43.5694,-76.0478,NaN
+7510,dbpedia,Regensburg,49.0167,12.0833,NaN
+7511,geonames,Amagansett,40.9737,-72.1437,NaN
+7512,freebase,houston,29.7631,-95.3631,NaN
+7515,freebase,charlotte amalie,18.35,-64.95,NaN
+7517,dbpedia,"Catano, Puerto Rico",NaN,NaN,NaN
+7519,freebase,brighton,50.83,-0.155556,NaN
+7523,geonames,Ljubljana,46.0511,14.5051,NaN
+7528,geonames,Espanola,35.9911,-106.081,NaN
+7529,geonames,Mexico City,19.4285,-99.1277,NaN
+7531,geonames,Luang Prabang,19.8856,102.135,NaN
+7532,geonames,Dunedin,-45.8742,170.504,NaN
+7535,geonames,Puntarenas,9.97625,-84.8384,NaN
+2,new york times,Dresden (Germany),51.0509,13.7383,NaN
+3,freebase,dresden,51.05,13.7333,113.0
+4,new york times,Cordoba (Spain),37.8833,-4.76667,NaN
+7,geonames,Prague,50.088,14.4208,NaN
+13,geonames,Girona,41.9831,2.82493,NaN
+14,new york times,Split (Croatia),43.5089,16.4392,NaN
+31,geonames,Moscow,55.7522,37.6156,NaN
+33,freebase,zermatt,46.016667,7.74861,1608.0
+38,new york times,Stellenbosch (South Africa),-33.9333,18.85,NaN
+39,dbpedia,Stellenbosch,-33.92,18.86,NaN
+42,new york times,St Moritz (Switzerland),46.5,9.83333,NaN
+43,dbpedia,St. Moritz,46.5,9.83333,NaN
+50,new york times,Dharamsala (India),32.2167,76.3167,NaN
+51,dbpedia,Dharamsala,32.0728,76.3172,NaN
+53,freebase,wengen,46.6,7.9167,NaN
+58,new york times,Norwalk (Conn),41.1176,-73.4079,NaN
+62,new york times,Dublin (Ireland),53.3331,-6.24889,NaN
+71,dbpedia,"Hollywood, Los Angeles, California",NaN,NaN,NaN
+79,freebase,guilin,25.2706,110.292,NaN
+80,new york times,Shimla (India),31.1,77.1667,NaN
+81,geonames,Shimla,31.1,77.1667,NaN
+82,new york times,Killington (Vt),43.6776,-72.7798,NaN
+88,new york times,Hiroshima (Japan),34.4,132.45,NaN
+94,new york times,Patzcuaro (Mexico),19.5167,-101.6,NaN
+95,dbpedia,Patzcuaro,NaN,NaN,NaN
+108,new york times,Katmandu (Nepal),27.7167,85.3167,NaN
+122,new york times,Lake Louise (Canada),51.4167,-116.235,NaN
+131,dbpedia,"Pawleys Island, South Carolina",NaN,NaN,NaN
+140,new york times,Ayodhya (India),26.8,82.2,NaN
+142,new york times,Damascus (Syria),33.5,36.3,NaN
+143,geonames,Damascus,33.5102,36.2913,NaN
+144,new york times,Zanzibar (Tanzania),-6.16394,39.1979,NaN
+150,new york times,Palenque (Mexico),17.5167,-91.9667,NaN
+156,new york times,Punta Gorda (Belize),16.1,-88.8,NaN
+166,new york times,Chachapoyas (Peru),-6.23169,-77.869,NaN
+174,new york times,Lafayette (La),30.2241,-92.0198,NaN
+177,freebase,ghent,51.05,3.71667,NaN
+192,new york times,Palmetto (Ga),33.5179,-84.6697,NaN
+193,geonames,Palmetto,33.5179,-84.6697,NaN
+202,new york times,Vezelay (France),47.4667,3.73333,NaN
+212,new york times,North Adams (Mass),42.7009,-73.1087,NaN
+213,geonames,North Adams,42.7009,-73.1087,NaN
+214,new york times,Mott Haven (NYC),40.809,-73.9229,NaN
+218,new york times,Toledo (Spain),39.8581,-4.02263,NaN
+236,new york times,Buzios (Brazil),-22.7469,-41.8817,NaN
+240,new york times,New Brunswick (NJ),40.4862,-74.4518,NaN
+241,dbpedia,"New Brunswick, New Jersey",NaN,NaN,NaN
+248,new york times,Geneva (Switzerland),46.2022,6.14569,NaN
+252,new york times,Chamonix (France),45.9167,6.86667,NaN
+253,freebase,chamonix,45.9189,6.8653,NaN
+255,dbpedia,Sadr City,33.3889,44.4583,NaN
+260,new york times,Brussels (Belgium),50.8466,4.35277,NaN
+263,dbpedia,Porto,41.1497,-8.61,NaN
+266,new york times,New Orleans (La),29.9546,-90.0751,NaN
+270,new york times,Bogota (Colombia),4.6,-74.0833,NaN
+273,freebase,scituate,42.1958,-70.7264,NaN
+281,dbpedia,"Patchogue, New York",NaN,NaN,NaN
+283,freebase,bergama,39.1234,27.1757,68.0
+284,new york times,Canaima (Venezuela),10.6311,-63.1917,NaN
+297,geonames,Pucón,-39.2822,-71.9543,NaN
+298,new york times,Metuchen (NJ),40.5432,-74.3632,NaN
+299,freebase,metuchen,40.5431,-74.3636,NaN
+310,new york times,Monopoli (Italy),40.9559,17.2896,NaN
+311,dbpedia,Monopoli,40.95,17.3,NaN
+323,dbpedia,Acapulco,16.8636,-99.8825,NaN
+324,new york times,Berchtesgaden (Germany),47.6333,13.0,NaN
+325,dbpedia,Berchtesgaden,47.6314,13.0042,NaN
+326,freebase,new brunswick new jersey,40.4861,-74.4522,NaN
+341,new york times,Lagos (Nigeria),6.45306,3.39583,NaN
+344,geonames,Alice Springs,-23.7,133.883,NaN
+345,new york times,San Juan (Puerto Rico),18.4663,-66.1057,NaN
+373,new york times,Ushuaia (Argentina),-54.8,-68.3,NaN
+389,dbpedia,Punta del Este,-34.9667,-54.95,NaN
+393,geonames,Philadelphia,39.9523,-75.1638,NaN
+402,new york times,Southampton (England),50.9,-1.4,NaN
+403,geonames,Southampton,50.9,-1.4,NaN
+404,new york times,Chengdu (China),30.6667,104.067,NaN
+415,dbpedia,"Norwalk, Connecticut",NaN,NaN,NaN
+416,new york times,St-Tropez (France),43.2667,6.63333,NaN
+419,new york times,Maplewood (NJ),40.7312,-74.2735,NaN
+422,dbpedia,"Leavenworth, Washington",NaN,NaN,NaN
+423,new york times,Amenia (NY),41.8493,-73.5568,NaN
+426,dbpedia,Belfast,54.597,-5.93,NaN
+428,dbpedia,El Chalten,NaN,NaN,NaN
+430,dbpedia,"Hyderabad, India",NaN,NaN,NaN
+432,dbpedia,"Salida, Colorado",NaN,NaN,NaN
+435,new york times,Rossville (NYC),40.5557,-74.2135,NaN
+436,geonames,Rossville,40.5557,-74.2135,NaN
+441,dbpedia,San Pedro de Atacama,-22.9167,-68.2,NaN
+445,dbpedia,"Huntington Station, New York",NaN,NaN,NaN
+452,new york times,Falluja (Iraq),33.3561,43.7828,NaN
+453,geonames,Fallujah,33.3561,43.7828,NaN
+454,new york times,Paterson (NJ),40.9168,-74.1718,NaN
+461,new york times,Akaroa (New Zealand),-43.7983,172.97,NaN
+481,freebase,crown heights brooklyn,40.6631,-73.9447,NaN
+484,new york times,Orleans (France),47.9167,1.9,NaN
+492,new york times,El Calafate (Argentina),-50.3407,-72.2768,NaN
+493,dbpedia,El Calafate,-50.3333,-72.25,NaN
+502,new york times,Long Beach (Calif),33.767,-118.189,NaN
+504,new york times,Cascais (Portugal),38.6979,-9.42146,NaN
+505,freebase,cascais,38.696944,-9.420556,NaN
+511,new york times,Verdun (France),49.1667,5.38333,NaN
+512,freebase,verdun,49.1594,5.38833,NaN
+515,geonames,Toledo,39.8581,-4.02263,NaN
+516,new york times,Hunts Point (NYC),40.8126,-73.884,NaN
+533,new york times,Dominical (Costa Rica),9.25,-83.8667,NaN
+534,dbpedia,Dominical,9.25,-83.8667,NaN
+536,new york times,Sago (West Va),38.9143,-80.2301,NaN
+537,freebase,sago west virginia,38.9143,-80.2301,NaN
+545,geonames,Falls Village,41.9559,-73.3632,NaN
+565,new york times,Dragor (Denmark),55.5945,12.6664,NaN
+569,new york times,SoHo (NYC),40.7224,-73.9996,NaN
+572,freebase,bristol,51.46,-2.6,NaN
+579,new york times,Montecito (Calif),34.4367,-119.632,NaN
+580,dbpedia,"Montecito, California",NaN,NaN,NaN
+596,geonames,Scottsdale,33.5092,-111.899,NaN
+609,geonames,Hyderabad,17.3753,78.4744,NaN
+613,new york times,Jackson (Miss),32.2988,-90.1848,NaN
+614,freebase,jackson,32.2986,-90.1847,NaN
+617,new york times,Cahors (France),44.4491,1.43663,NaN
+618,freebase,cahors,44.4483,1.44139,NaN
+619,new york times,Ulyanovsk (Russia),54.3189,48.3858,NaN
+623,new york times,Strasbourg (France),48.5833,7.75,NaN
+628,freebase,beijing,39.91,116.4,43.5
+635,new york times,Hopewell Junction (NY),41.584,-73.8087,NaN
+636,dbpedia,"Hopewell Junction, New York",NaN,NaN,NaN
+646,dbpedia,"Milford, Pennsylvania",NaN,NaN,NaN
+647,new york times,Golfito (Costa Rica),8.65,-83.15,NaN
+648,freebase,golfito,8.65,-83.15,NaN
+652,new york times,Passaic (NJ),40.8568,-74.1285,NaN
+653,freebase,passaic,40.8567,-74.1289,NaN
+656,new york times,Cabarete (Dominican Republic),19.75,-70.4,NaN
+670,new york times,Darjeeling (India),27.0333,88.2667,NaN
+671,geonames,Darjeeling,27.0333,88.2667,NaN
+674,new york times,Dunhuang (China),40.1667,94.6833,NaN
+675,geonames,Dunhuang,40.1667,94.6833,NaN
+676,new york times,Abu Dhabi (United Arab Emirates),24.4667,54.3667,NaN
+687,new york times,Fez (Morocco),34.05,-4.98,NaN
+688,freebase,fes,34.0442,-5.00194,NaN
+689,new york times,St Ives (England),50.2086,-5.4875,NaN
+698,geonames,Timbuktu,16.7735,-3.00742,NaN
+703,new york times,Colmar (France),48.0833,7.36667,NaN
+711,new york times,Trieste (Italy),45.6486,13.78,NaN
+715,new york times,Xalapa (Mexico),19.5333,-96.9167,NaN
+723,new york times,Hot Springs (Ark),34.5037,-93.0552,NaN
+727,new york times,Old Lyme (Conn),41.3159,-72.329,NaN
+729,geonames,Killington,43.6776,-72.7798,NaN
+730,new york times,Bangkok (Thailand),13.75,100.517,NaN
+738,new york times,Shanksville (PA),40.0179,-78.9072,NaN
+739,geonames,Shanksville,40.0179,-78.9072,NaN
+742,new york times,Mantua (Italy),45.1521,10.7738,NaN
+743,freebase,mantua,45.1667,10.8,NaN
+745,geonames,Dubai,25.2522,55.28,NaN
+752,new york times,Dakar (Senegal),14.6951,-17.4439,NaN
+753,freebase,dakar,14.6962,-17.4442,NaN
+755,dbpedia,Naples,40.8333,14.25,NaN
+759,freebase,lower east side manhattan,40.719,-73.988,NaN
+763,geonames,Pyongyang,39.0339,125.754,NaN
+773,new york times,Aveiro (Portugal),40.6333,-8.65,NaN
+790,new york times,Ravenna (Italy),44.4175,12.2011,NaN
+795,geonames,Ḩadīthah,34.1397,42.3781,NaN
+811,new york times,Dafen (China),23.9747,113.378,NaN
+824,dbpedia,Seoul,37.5689,126.977,NaN
+853,new york times,Long Beach (NY),40.5884,-73.6579,NaN
+855,new york times,Soweto (South Africa),-26.2667,27.8667,NaN
+857,new york times,Amalfi (Italy),40.6349,14.6024,NaN
+865,new york times,Versailles (France),48.8,2.13333,NaN
+866,geonames,Versailles,48.8,2.13333,NaN
+872,freebase,nagasaki,32.7833,129.867,NaN
+873,new york times,Cutchogue (NY),41.0107,-72.4851,NaN
+874,freebase,cutchogue,41.0106,-72.4736,NaN
+890,new york times,Nantucket (Mass),41.2835,-70.0995,NaN
+891,dbpedia,"Nantucket, Massachusetts",NaN,NaN,NaN
+892,geonames,Montecito,34.4367,-119.632,NaN
+895,new york times,San Cristobal de las Casas (Mexico),16.75,-92.6333,NaN
+906,geonames,Lecce,40.357,18.172,NaN
+913,freebase,st moritz,46.5,9.833333,1822.0
+925,new york times,Kalkan (Turkey),36.2656,29.4153,NaN
+926,dbpedia,Kalkan,36.2581,29.4083,NaN
+929,new york times,Niagara Falls (Ontario),43.1001,-79.0663,NaN
+932,dbpedia,"Punta Gorda, Florida",NaN,NaN,NaN
+937,new york times,Lockerbie (Scotland),55.1167,-3.35,NaN
+940,geonames,San Antonio,29.4241,-98.4936,NaN
+953,geonames,Roosevelt Island,40.764,-73.9482,NaN
+961,dbpedia,Edirne,41.6667,26.5667,NaN
+973,new york times,Las Vegas (Nev),36.175,-115.137,NaN
+977,new york times,Messene (Greece),37.0511,22.0078,NaN
+978,dbpedia,Messene,NaN,NaN,NaN
+994,new york times,Ixtapa (Mexico),17.6678,-101.642,NaN
+1001,dbpedia,New Orleans,29.9647,-90.0706,NaN
+1002,new york times,Aswan (Egypt),24.0875,32.8989,NaN
+1014,freebase,jena louisiana,31.69,-92.1247,NaN
+1017,new york times,Rio de Janeiro (Brazil),-22.9028,-43.2075,NaN
+1022,geonames,Prospect Heights,40.6775,-73.9677,NaN
+1031,new york times,Fontainebleau (France),48.4,2.7,NaN
+1038,geonames,Piermont,41.042,-73.9182,NaN
+1052,new york times,Missoula (Mont),46.8721,-113.994,NaN
+1053,dbpedia,"Missoula, Montana",NaN,NaN,NaN
+1055,geonames,Bodrum,37.0383,27.4292,NaN
+1056,new york times,Canberra (Australia),-35.2835,149.128,NaN
+1057,freebase,canberra,-35.2828,149.131,NaN
+1058,new york times,Amman (Jordan),31.95,35.9333,NaN
+1059,geonames,Amman,31.9552,35.945,NaN
+1062,new york times,Mashpee (Mass),41.6484,-70.4811,NaN
+1066,new york times,Cadiz (Spain),36.5336,-6.29944,NaN
+1067,geonames,Cádiz,36.5336,-6.29944,NaN
+1075,freebase,red bank new jersey,40.3469,-74.0647,NaN
+1087,freebase,norfolk virginia,36.8857,-76.2599,NaN
+1090,new york times,Sheepshead Bay (NYC),40.5912,-73.9446,NaN
+1091,geonames,Sheepshead Bay,40.5912,-73.9446,NaN
+1117,new york times,Bordeaux (France),44.8333,-0.566667,NaN
+1118,dbpedia,Bordeaux,44.8386,-0.578333,NaN
+1120,dbpedia,"Oxford, Connecticut",NaN,NaN,NaN
+1122,dbpedia,Quito,-0.25,-78.5833,NaN
+1130,new york times,Honolulu (Hawaii),21.3069,-157.858,NaN
+1131,geonames,Honolulu,21.3069,-157.858,NaN
+1146,new york times,Bourges (France),47.0833,2.4,NaN
+1147,geonames,Bourges,47.0833,2.4,NaN
+1149,new york times,Scranton (Pa),41.409,-75.6624,NaN
+1150,dbpedia,"Scranton, Pennsylvania",NaN,NaN,NaN
+1157,freebase,alajuela,10.0167,-84.2167,NaN
+1173,new york times,Silver City (NM),32.7701,-108.28,NaN
+1174,geonames,Silver City,32.7701,-108.28,NaN
+1179,new york times,Chartres (France),48.4469,1.48925,NaN
+1180,geonames,Chartres,48.4469,1.48925,NaN
+1185,geonames,Rovinj,45.08,13.64,NaN
+1187,freebase,montauk,41.0358,-71.955,NaN
+1190,dbpedia,Basra,30.5,47.8167,NaN
+1193,new york times,Nagoya (Japan),35.1815,136.906,NaN
+1194,geonames,Nagoya,35.1815,136.906,NaN
+1195,new york times,Montgomery (Ala),32.3668,-86.3,NaN
+1196,geonames,Montgomery,32.3668,-86.3,NaN
+1197,new york times,Manchester (NH),42.9956,-71.4548,NaN
+1205,new york times,Cahuita (Costa Rica),9.73333,-82.85,NaN
+1208,geonames,Saint-Petersburg,59.8944,30.2642,NaN
+1215,new york times,Cochin (India),9.96667,76.2333,NaN
+1221,freebase,deauville,49.3592,0.0714,NaN
+1224,new york times,Glasgow (Scotland),55.8652,-4.25763,NaN
+1225,freebase,glasgow,55.87,-4.27,NaN
+1227,freebase,da nang,16.0667,108.233,NaN
+1229,freebase,provincetown,42.0583,-70.1792,NaN
+1257,new york times,Hood River (Ore),45.7054,-121.521,NaN
+1258,dbpedia,"Hood River, Oregon",NaN,NaN,NaN
+1261,new york times,Sochi (Russia),43.6,39.7303,NaN
+1266,geonames,Brooklyn Heights,40.6977,-73.9943,NaN
+1267,new york times,Palisades Park (NJ),40.8482,-73.9976,NaN
+1268,geonames,Palisades Park,40.8482,-73.9976,NaN
+1269,new york times,Salem (Mass),42.5195,-70.8967,NaN
+1270,freebase,salem massachusetts,42.5194,-70.8972,NaN
+1275,new york times,Ocean City (Md),38.3365,-75.0849,NaN
+1276,dbpedia,"Ocean City, Maryland",NaN,NaN,NaN
+1285,new york times,Urgup (Turkey),38.6314,34.9131,NaN
+1286,freebase,urgup,38.631389,34.913056,1043.0
+1289,geonames,Seville,37.3772,-5.98694,NaN
+1290,new york times,Inwood (NYC),40.8657,-73.9268,NaN
+1291,dbpedia,"Inwood, Manhattan",NaN,NaN,NaN
+1294,new york times,City Island (NYC),40.8473,-73.7865,NaN
+1299,geonames,Varanasi,25.3333,83.0,NaN
+1301,geonames,Ludlow,43.3959,-72.7007,NaN
+1313,new york times,Helsinki (Finland),60.1756,24.9342,NaN
+1314,geonames,Helsinki,60.1695,24.9354,NaN
+1318,freebase,aragon,41.0,-1.0,NaN
+1319,new york times,Marathon (Fla),24.7138,-81.0904,NaN
+1320,freebase,marathon florida,24.7133,-81.0906,NaN
+1321,new york times,Phuket (Thailand),7.88333,98.4,NaN
+1322,geonames,Phuket,7.89059,98.3981,NaN
+1328,geonames,Sag Harbor,40.9979,-72.2926,NaN
+1335,new york times,Santa Barbara (Calif),34.4208,-119.698,NaN
+1337,freebase,timbuktu,16.775833,-3.009444,261.0
+1342,new york times,Port Elizabeth (South Africa),-33.9667,25.5833,NaN
+1348,new york times,Sintra (Portugal),38.8,-9.38333,NaN
+1351,dbpedia,KwaZulu-Natal,-30.5764,30.5764,NaN
+1359,new york times,Orlando (Fla),28.5383,-81.3792,NaN
+1365,new york times,Niagara Falls (NY),43.0945,-79.0567,NaN
+1366,freebase,niagara falls new york,43.0944,-79.0569,NaN
+1371,freebase,falls village connecticut,41.9564,-73.3636,NaN
+1375,freebase,battery park city manhattan,40.7127,-74.0157,NaN
+1376,new york times,Belize City (Belize),17.4995,-88.1976,NaN
+1377,dbpedia,Belize City,17.4833,-88.1833,NaN
+1388,dbpedia,Milwaukee,43.0522,-87.9558,NaN
+1393,new york times,Johannesburg (South Africa),-26.2,28.0833,NaN
+1394,freebase,johannesburg,-26.2,28.0667,NaN
+1403,geonames,Sihanoukville,10.6093,103.53,NaN
+1408,new york times,Antigua (Guatemala),14.5611,-90.7344,NaN
+1411,dbpedia,Indianapolis,39.7683,-86.1582,NaN
+1412,new york times,Courchevel (France),45.4167,6.65,NaN
+1414,new york times,Huntington Beach (Calif),33.6603,-117.999,NaN
+1415,dbpedia,"Huntington Beach, California",NaN,NaN,NaN
+1422,geonames,Cascais,38.6979,-9.42146,NaN
+1429,new york times,Oklahoma City (Okla),35.4676,-97.5164,NaN
+1442,geonames,Frankfurt am Main,50.1167,8.68333,NaN
+1449,new york times,Genoa (Italy),44.4063,8.93386,NaN
+1454,new york times,Liberia (Costa Rica),10.6333,-85.4333,NaN
+1455,geonames,Liberia,10.6333,-85.4333,NaN
+1465,geonames,Ulyanovsk,54.3189,48.3858,NaN
+1469,freebase,kent connecticut,41.7247,-73.4775,NaN
+1470,new york times,Uppsala (Sweden),59.8585,17.6454,NaN
+1471,geonames,Uppsala,59.8585,17.6454,NaN
+1478,new york times,Durban (South Africa),-29.85,31.0167,NaN
+1479,freebase,durban,-29.8697,31.0236,NaN
+1486,new york times,Cambridge (England),52.2,0.116667,NaN
+1487,dbpedia,Cambridge,52.2081,0.1225,NaN
+1500,freebase,sag harbor,40.9978,-72.2931,NaN
+1501,new york times,Grasse (France),43.6667,6.91667,NaN
+1503,new york times,Dusseldorf (Germany),51.2217,6.77616,NaN
+1516,new york times,Rome (Italy),41.9,12.4833,NaN
+1517,freebase,rome,41.9,12.5,NaN
+1518,new york times,Sderot (Israel),31.5167,34.5833,NaN
+1519,geonames,Sderot,31.5167,34.5833,NaN
+1520,new york times,Cologne (Germany),50.9333,6.95,NaN
+1521,dbpedia,Cologne,50.95,6.96667,NaN
+1523,new york times,Mosul (Iraq),36.335,43.1189,NaN
+1524,dbpedia,Mosul,36.3667,43.1167,NaN
+1533,new york times,Thessaloniki (Greece),40.6403,22.9439,NaN
+1536,geonames,Ocean City,39.2776,-74.5746,NaN
+1540,geonames,Bangkok,13.75,100.517,NaN
+1543,new york times,Rockland (Me),44.1037,-69.1089,NaN
+1544,freebase,rockland,44.1036,-69.1094,NaN
+1553,geonames,Jersey City,40.7282,-74.0776,NaN
+1567,new york times,Chichen Itza (Mexico),20.6667,-88.5667,NaN
+1578,new york times,Cobble Hill (NYC),40.6875,-73.9981,NaN
+1579,geonames,Cobble Hill,40.6875,-73.9981,NaN
+1596,dbpedia,"Laguna Beach, California",NaN,NaN,NaN
+1609,new york times,Garment District (NYC),40.752,-73.9935,NaN
+1633,new york times,Bedford-Stuyvesant (NYC),40.6834,-73.9412,NaN
+1644,dbpedia,Cahors,44.4483,1.44139,NaN
+1648,freebase,puerto viejo de sarapiqui,10.455556,-84.005556,NaN
+1649,dbpedia,Southampton,50.897,-1.40416,NaN
+1653,freebase,saas-fee,46.1097,7.92917,NaN
+1656,dbpedia,Pyongyang,39.0194,125.738,NaN
+1665,new york times,Vina del Mar (Chile),-33.0246,-71.5518,NaN
+1668,dbpedia,"Brooklyn Heights, Brooklyn",NaN,NaN,NaN
+1672,geonames,Raleigh,35.7721,-78.6386,NaN
+1678,dbpedia,Saint Petersburg,59.95,30.3167,NaN
+1679,new york times,Klosterneuburg (Austria),48.3052,16.3252,NaN
+1680,geonames,Klosterneuburg,48.3052,16.3252,NaN
+1688,new york times,San Diego (Calif),32.7153,-117.157,NaN
+1689,geonames,San Diego,32.7153,-117.157,NaN
+1690,new york times,La Rochelle (France),46.1667,-1.15,NaN
+1691,freebase,la rochelle,46.1667,-1.15,NaN
+1696,geonames,Kinsale,51.7075,-8.53056,NaN
+1706,dbpedia,Playa Zancudo,8.54405,-83.1467,NaN
+1707,new york times,Szentendre (Hungary),47.6694,19.0756,NaN
+1719,new york times,Palm Springs (Calif),33.8303,-116.545,NaN
+1721,new york times,Cardiff (Wales),51.48,-3.18,NaN
+1722,freebase,cardiff,51.478,-3.1771,NaN
+1727,new york times,Boquete (Panama),8.78333,-82.4333,NaN
+1750,new york times,Cork (Ireland),51.8986,-8.49583,NaN
+1757,freebase,portland maine,43.6614,-70.2558,NaN
+1762,freebase,hot springs,34.5036,-93.055,NaN
+1770,dbpedia,Puducherry,11.93,79.83,NaN
+1774,geonames,Cirencester,51.7333,-1.98333,NaN
+1791,geonames,Quebec City,46.8123,-71.2145,NaN
+1793,geonames,New Castle,39.6621,-75.5663,NaN
+1810,new york times,Falmouth (Mass),41.5515,-70.6148,NaN
+1814,new york times,Irvington (NJ),40.7323,-74.2349,NaN
+1815,geonames,Irvington,40.7323,-74.2349,NaN
+1816,new york times,Giverny (France),49.0667,1.53333,NaN
+1832,freebase,cobble hill brooklyn,40.688194,-73.995944,NaN
+1835,new york times,Stuttgart (Germany),48.7823,9.17702,NaN
+1836,geonames,Stuttgart,48.7823,9.17702,NaN
+1840,new york times,Millbrook (NY),41.7851,-73.694,NaN
+1841,dbpedia,"Millbrook, New York",NaN,NaN,NaN
+1851,new york times,Ajman (United Arab Emirates),25.4111,55.435,NaN
+1852,dbpedia,Ajman,25.4167,55.5,NaN
+1857,new york times,Riga (Latvia),56.95,24.1,NaN
+1858,geonames,Riga,56.946,24.1059,NaN
+1859,new york times,St Paul (Minn),44.9444,-93.0933,NaN
+1871,freebase,saugatuck,42.655,-86.2019,NaN
+1872,new york times,Pattaya (Thailand),12.9333,100.883,NaN
+1876,new york times,Merka (Somalia),1.71667,44.8833,NaN
+1879,geonames,Auxerre,47.8,3.56667,NaN
+1881,new york times,Oxford (England),51.7522,-1.25596,NaN
+1886,new york times,Pawling (NY),41.562,-73.6026,NaN
+1894,freebase,ludlow united states,43.3958,-72.7011,NaN
+1903,new york times,Providence (RI),41.824,-71.4128,NaN
+1907,dbpedia,Verdun,49.162,5.38759,NaN
+1910,new york times,San Miguel de Allende (Mexico),20.9167,-100.75,NaN
+1914,new york times,Simi Valley (Calif),34.2694,-118.781,NaN
+1917,freebase,verona,45.4333,10.9833,NaN
+1918,dbpedia,"Scottsdale, Arizona",NaN,NaN,NaN
+1922,new york times,Malmo (Sweden),55.6059,13.0007,NaN
+1934,freebase,cortona,43.2667,11.9833,NaN
+1945,new york times,Ogunquit (Me),43.249,-70.5992,NaN
+1946,dbpedia,"Ogunquit, Maine",NaN,NaN,NaN
+1959,freebase,piermont new york,41.0419,-73.9186,NaN
+1963,dbpedia,Kyoto,35.0116,135.768,NaN
+1964,new york times,Honfleur (France),49.4199,0.232944,NaN
+1977,geonames,Ghent,51.05,3.71667,NaN
+1982,geonames,Weimar,50.9833,11.3167,NaN
+1985,geonames,Montauk,41.0359,-71.9545,NaN
+1997,new york times,Bam (Iran),29.1078,58.3619,NaN
+1998,freebase,bam,29.1083,58.3583,NaN
+2005,geonames,L’Aquila,42.3506,13.3995,NaN
+2008,dbpedia,Varanasi,25.282,82.9563,NaN
+2011,new york times,Tel Aviv (Israel),32.0678,34.7647,NaN
+2030,dbpedia,Sofia,42.7,23.3333,NaN
+2031,freebase,ankara,39.9167,32.85,NaN
+2032,geonames,Fontainebleau,48.4,2.7,NaN
+2041,geonames,Tikal,17.225,-89.6133,NaN
+2045,freebase,greenburgh,41.031944,-73.833056,52.1208
+2063,freebase,quebec city,46.8902,-71.2189,NaN
+2065,new york times,Kiawah Island (SC),32.6082,-80.0848,NaN
+2069,geonames,Dharamsala,32.2167,76.3167,NaN
+2070,geonames,Savannah,32.0835,-81.0998,NaN
+2079,new york times,Red Hook (NYC),40.6753,-74.0047,NaN
+2081,dbpedia,"Seward, Alaska",NaN,NaN,NaN
+2092,geonames,Toulouse,43.6043,1.44367,NaN
+2093,new york times,Bursa (Turkey),40.1917,29.0611,NaN
+2100,new york times,Fukuoka (Japan),33.5833,130.4,NaN
+2101,dbpedia,Fukuoka,33.5833,130.4,NaN
+2105,geonames,Doha,25.2793,51.5224,NaN
+2108,new york times,Nantes (France),47.2173,-1.55336,NaN
+2111,geonames,Ashgabat,37.95,58.3833,NaN
+2115,freebase,alice springs,-23.7,133.87,NaN
+2117,new york times,Madison (Conn),41.2795,-72.5984,NaN
+2123,dbpedia,Sucre,-19.0339,-65.2626,NaN
+2129,freebase,madison,43.0731,-89.4011,NaN
+2132,freebase,kinsale,51.7075,-8.53056,NaN
+2133,new york times,Minneapolis (Minn),44.98,-93.2638,NaN
+2135,dbpedia,"Provincetown, Massachusetts",NaN,NaN,NaN
+2136,geonames,Punta Gorda,16.1,-88.8,NaN
+2140,new york times,Richmond (Va),37.5538,-77.4603,NaN
+2143,new york times,Santiago (Chile),-33.4263,-70.5666,NaN
+2144,geonames,Santiago,-33.4263,-70.5666,NaN
+2155,new york times,Shenzhen (China),22.5455,114.068,NaN
+2156,dbpedia,Shenzhen,22.55,114.1,NaN
+2167,new york times,Nasiriya (Iraq),31.0542,46.2594,NaN
+2170,freebase,ocean city,38.3364,-75.0853,NaN
+2173,dbpedia,"Pawtucket, Rhode Island",NaN,NaN,NaN
+2175,new york times,Davos (Switzerland),46.8043,9.83723,NaN
+2176,dbpedia,Davos,46.8,9.83333,NaN
+2177,dbpedia,Szeged,46.255,20.145,NaN
+2188,geonames,San Sebastian,43.3128,-1.97499,NaN
+2191,geonames,Arosa,46.7833,9.66667,NaN
+2194,freebase,scarsdale,41.005,-73.785,NaN
+2198,dbpedia,Zanzibar,-6.13333,39.3167,NaN
+2224,new york times,Long Branch (NJ),40.3043,-73.9924,NaN
+2227,dbpedia,Alkmaar,52.6333,4.75,NaN
+2234,geonames,Madrid,40.4165,-3.70256,NaN
+2243,dbpedia,"Islip (town), New York",NaN,NaN,NaN
+2253,dbpedia,Ouro Preto,-20.3853,-43.5036,NaN
+2257,dbpedia,"Santa Fe, New Mexico",NaN,NaN,NaN
+2262,new york times,Silverton (Colo),37.8119,-107.665,NaN
+2263,geonames,Silverton,37.8119,-107.665,NaN
+2267,new york times,Natal (Brazil),-5.795,-35.2094,NaN
+2269,new york times,Xian (China),34.2583,108.929,NaN
+2270,geonames,Xi'an,34.2583,108.929,NaN
+2272,dbpedia,Girona,41.9844,2.82111,NaN
+2276,geonames,Bamberg,49.8667,10.8667,NaN
+2293,new york times,Panama City (Panama),8.96667,-79.5333,NaN
+2296,new york times,Luxembourg City (Luxembourg),49.6117,6.13,NaN
+2299,dbpedia,Qom,34.65,50.8833,NaN
+2307,dbpedia,"Ludlow (town), Vermont",NaN,NaN,NaN
+2311,new york times,Jackson Heights (NYC),40.7557,-73.8854,NaN
+2313,new york times,Salvador (Brazil),-12.9711,-38.5108,NaN
+2314,freebase,salvador bahia,-12.9833,-38.5167,NaN
+2316,freebase,bilbao,43.25,-2.9667,NaN
+2322,dbpedia,Urgup,NaN,NaN,NaN
+2324,new york times,Kandahar (Afghanistan),31.61,65.7,NaN
+2328,new york times,Princeton (NJ),40.3487,-74.659,NaN
+2329,freebase,princeton,40.3487,-74.659,62.0
+2331,dbpedia,Cirencester,51.719,-1.968,NaN
+2342,dbpedia,Durban,-29.8833,31.05,NaN
+2344,new york times,Darwin (Australia),-12.4611,130.842,NaN
+2360,new york times,Blackpool (England),53.8167,-3.05,NaN
+2361,dbpedia,Blackpool,53.8142,-3.05028,NaN
+2365,new york times,Seneca Falls (NY),42.9106,-76.7966,NaN
+2366,dbpedia,"Seneca Falls (village), New York",NaN,NaN,NaN
+2367,dbpedia,Mantua,45.1667,10.8,NaN
+2372,new york times,Delft (Netherlands),52.0067,4.35556,NaN
+2373,freebase,delft,52.0114,4.35861,NaN
+2378,geonames,Golfito,8.65,-83.15,NaN
+2382,geonames,Dubrovnik,42.6481,18.0922,NaN
+2384,freebase,bonn,50.73,7.1,NaN
+2389,new york times,Yokohama (Japan),35.45,139.65,NaN
+2390,freebase,yokohama,35.45,139.65,NaN
+2391,new york times,Hanover (Germany),52.3705,9.73322,NaN
+2405,new york times,Millerton (NY),41.9537,-73.5107,NaN
+2406,geonames,Millerton,41.9537,-73.5107,NaN
+2412,geonames,Courchevel,45.4154,6.63643,NaN
+2421,new york times,Crans-sur-Sierre (Switzerland),46.3132,7.47914,NaN
+2432,new york times,Autun (France),46.95,4.3,NaN
+2437,new york times,Hamburg (Germany),53.55,10.0,NaN
+2438,geonames,Hamburg,53.55,10.0,NaN
+2442,new york times,Athens (Greece),37.9833,23.7333,NaN
+2443,dbpedia,Athens,NaN,NaN,NaN
+2448,new york times,Long Island City (NYC),40.7448,-73.9487,NaN
+2449,freebase,long island city queens,40.7448,-73.9487,NaN
+2450,new york times,Mazatlan (Mexico),23.2167,-106.417,NaN
+2451,dbpedia,Mazatlan,NaN,NaN,NaN
+2459,geonames,Amsterdam,52.374,4.88969,NaN
+2460,freebase,islip,40.756667,-73.198889,2.1336
+2471,dbpedia,"Madison, Connecticut",NaN,NaN,NaN
+2473,freebase,minneapolis,44.98,-93.2636,NaN
+2474,new york times,Gaiman (Argentina),-43.2833,-65.4833,NaN
+2475,dbpedia,"Gaiman, Chubut",NaN,NaN,NaN
+2479,freebase,hells kitchen manhattan,40.7632,-73.9945,NaN
+2484,new york times,Beirut (Lebanon),33.8719,35.5097,NaN
+2486,new york times,Salzburg (Austria),47.7994,13.044,NaN
+2492,freebase,rockaway beach queens,40.5867,-73.8115,NaN
+2498,geonames,Charlotte Amalie,18.3419,-64.9307,NaN
+2519,new york times,Newport (RI),41.4901,-71.3128,NaN
+2520,freebase,newport rhode island,41.49,-71.3133,NaN
+2531,geonames,Cortina d'Ampezzo,46.5369,12.139,NaN
+2553,geonames,Hoffenheim,49.2667,8.85,NaN
+2564,new york times,Buenos Aires (Argentina),-34.5761,-58.4088,NaN
+2574,new york times,Birmingham (England),52.4667,-1.91667,NaN
+2583,freebase,sharjah,25.0,55.75,NaN
+2586,dbpedia,"Pittsfield, Massachusetts",NaN,NaN,NaN
+2588,geonames,Ürgüp,38.6314,34.9131,NaN
+2592,new york times,Kashgar (China),39.4547,75.9797,NaN
+2597,freebase,hay-on-wye,52.08,-3.13,NaN
+2617,new york times,Adelaide (Australia),-34.9333,138.6,NaN
+2618,geonames,Adelaide,-34.9333,138.6,NaN
+2619,geonames,Darwin,-12.4611,130.842,NaN
+2620,dbpedia,Timbuktu,16.7758,-3.00944,NaN
+2625,dbpedia,Guilin,25.2667,110.283,NaN
+2639,new york times,Seaside (Fla),30.321,-86.1416,NaN
+2641,geonames,Punta Cana,18.5818,-68.4043,NaN
+2642,dbpedia,"Newport, Rhode Island",NaN,NaN,NaN
+2646,dbpedia,Bergen,60.3894,5.33,NaN
+2656,new york times,New Bedford (Mass),41.6362,-70.9342,NaN
+2657,freebase,new bedford,41.6361,-70.9347,NaN
+2663,geonames,Sago,38.9143,-80.2301,NaN
+2665,new york times,Kitzbuhel (Austria),47.4464,12.3921,NaN
+2666,freebase,kitzbuhel,47.4333,12.4,NaN
+2668,new york times,Manchester (England),53.4809,-2.23743,NaN
+2669,dbpedia,Manchester,53.4667,-2.23333,NaN
+2673,new york times,Kirkuk (Iraq),35.4681,44.3922,NaN
+2676,freebase,mammoth lakes,37.6486,-118.971,NaN
+2685,new york times,Ogden (Utah),41.223,-111.974,NaN
+2686,dbpedia,"Ogden, Utah",NaN,NaN,NaN
+2690,freebase,strasbourg,48.5829,7.74375,NaN
+2692,geonames,La Paz,-16.5,-68.15,NaN
+2703,geonames,Bethel,41.9545,-73.6337,NaN
+2707,freebase,haines,59.2339,-135.447,NaN
+2709,new york times,Nelson (British Columbia),49.4999,-117.286,NaN
+2743,new york times,Napa (Calif),38.2971,-122.286,NaN
+2745,freebase,lhasa,29.65,91.1,3650.0
+2746,geonames,San Francisco,37.7749,-122.419,NaN
+2753,new york times,Cuenca (Ecuador),-2.88333,-78.9833,NaN
+2759,dbpedia,"New Haven, Connecticut",NaN,NaN,NaN
+2763,dbpedia,"Kent, Connecticut",NaN,NaN,NaN
+2774,dbpedia,"Norfolk, Virginia",NaN,NaN,NaN
+2776,dbpedia,Oslo,59.9494,10.7564,NaN
+2781,freebase,amarah,31.8333,47.15,NaN
+2782,new york times,Perugia (Italy),43.0967,12.3829,NaN
+2785,geonames,HCMC,10.75,106.667,NaN
+2789,new york times,Lahore (Pakistan),31.5497,74.3436,NaN
+2790,freebase,lahore,31.5758,74.3269,NaN
+2791,freebase,port elizabeth eastern cape,-33.9608,25.602,NaN
+2794,geonames,Haines,59.2286,-135.444,NaN
+2810,new york times,Portsmouth (NH),43.0718,-70.7626,NaN
+2812,dbpedia,Toulouse,43.6045,1.44403,NaN
+2815,dbpedia,Ravenna,44.4167,12.2,NaN
+2821,geonames,Kitzbühel,47.4464,12.3921,NaN
+2822,new york times,Hua Hin (Thailand),12.5706,99.9588,NaN
+2835,dbpedia,Ixtapa,17.6367,-101.551,NaN
+2845,geonames,Santiago de Compostela,42.8805,-8.54569,NaN
+2849,freebase,silver city,32.77,-108.28,NaN
+2850,dbpedia,Oklahoma City,35.4823,-97.5352,NaN
+2860,dbpedia,Cork (city),51.8972,-8.47,NaN
+2863,new york times,Revelstoke (British Columbia),50.9832,-118.202,NaN
+2865,geonames,Ogunquit,43.249,-70.5992,NaN
+2870,new york times,Cuernavaca (Mexico),18.9167,-99.25,NaN
+2871,dbpedia,Cuernavaca,18.9186,-99.2267,NaN
+2881,dbpedia,Bern,46.9524,7.43958,NaN
+2885,dbpedia,"Cleveland, Ohio",NaN,NaN,NaN
+2886,freebase,nantucket,41.2833,-70.1,9.0
+2891,new york times,Broome (Australia),-17.9667,122.233,NaN
+2892,freebase,broome,-17.962,122.236,19.0
+2898,freebase,avignon,43.9467,4.81056,NaN
+2908,geonames,Hanoi,21.0245,105.841,NaN
+2909,new york times,Hamilton Heights (NYC),40.8244,-73.95,NaN
+2911,freebase,cordoba,37.8833,-4.78333,NaN
+2917,geonames,Chennai,13.0878,80.2785,NaN
+2924,freebase,north stonington,41.4409,-71.8812,NaN
+2933,geonames,Porto,41.15,-8.61667,NaN
+2951,dbpedia,"Falls Village, Connecticut",NaN,NaN,NaN
+2961,freebase,niagara on the lake,43.2585,-79.0841,82.296
+2968,dbpedia,Rotterdam,51.9217,4.47917,NaN
+2988,geonames,Nay Pyi Taw,19.745,96.1297,NaN
+2999,new york times,Oxford (Miss),34.3665,-89.5192,NaN
+3000,geonames,Oxford,34.3665,-89.5192,NaN
+3004,dbpedia,Kufa,32.0333,44.4,NaN
+3005,new york times,Phnom Penh (Cambodia),11.55,104.917,NaN
+3008,geonames,Luxembourg,49.6117,6.13,NaN
+3014,freebase,hamilton heights manhattan,40.825,-73.949,NaN
+3024,freebase,petropolis,-22.505,-43.1789,NaN
+3029,freebase,the hague,52.0799,4.3111,NaN
+3030,new york times,Berlin (Germany),52.5167,13.4,NaN
+3031,geonames,Berlin,52.5244,13.4105,NaN
+3044,new york times,Segovia (Spain),40.95,-4.11667,NaN
+3049,freebase,merca,1.7167,44.8833,NaN
+3061,dbpedia,"Cartagena, Colombia",NaN,NaN,NaN
+3077,freebase,puerto jimenez,8990.33,-5170.87,NaN
+3091,dbpedia,"Salvador, Bahia",NaN,NaN,NaN
+3105,geonames,York,53.9667,-1.08333,NaN
+3106,geonames,Segovia,40.95,-4.11667,NaN
+3111,new york times,Granada (Spain),37.1882,-3.60667,NaN
+3118,new york times,Bridgehampton (NY),40.9379,-72.3009,NaN
+3122,new york times,Marfa (Tex),30.3079,-104.019,NaN
+3129,geonames,Bilbao,43.2627,-2.92528,NaN
+3141,geonames,Blackpool,53.8167,-3.05,NaN
+3151,freebase,marseille,43.2975,5.3772,NaN
+3159,new york times,Addis Ababa (Ethiopia),9.03333,38.7,NaN
+3164,dbpedia,Kelowna,49.8801,-119.444,NaN
+3170,dbpedia,Giverny,49.0769,1.53,NaN
+3175,geonames,Gaimán,-43.2833,-65.4833,NaN
+3179,new york times,Ocracoke (NC),35.1146,-75.981,NaN
+3183,freebase,baqubah,33.75,44.6333,NaN
+3186,geonames,Oklahoma City,35.4676,-97.5164,NaN
+3188,new york times,Kennebunkport (Me),43.3618,-70.4767,NaN
+3189,dbpedia,"Kennebunkport, Maine",NaN,NaN,NaN
+3204,new york times,Menton (France),43.7765,7.50435,NaN
+3205,dbpedia,Menton,43.775,7.5,NaN
+3206,geonames,Szentendre,47.6694,19.0756,NaN
+3207,dbpedia,Glasgow,55.858,-4.259,NaN
+3221,geonames,Hood River,45.7054,-121.521,NaN
+3223,geonames,Battery Park City,40.7115,-74.0163,NaN
+3225,geonames,Huế,16.4667,107.6,NaN
+3230,geonames,Sofia,42.6975,23.3241,NaN
+3233,new york times,Punta Arenas (Chile),-53.15,-70.9167,NaN
+3234,dbpedia,Punta Arenas,-53.1667,-70.9333,NaN
+3251,geonames,Bogotá,4.60971,-74.0818,NaN
+3252,dbpedia,Split (city),NaN,NaN,NaN
+3255,freebase,killington,43.6776,-72.7798,NaN
+3257,freebase,siwa oasis,29.1833,25.55,NaN
+3264,new york times,Sandwich (Mass),41.759,-70.4939,NaN
+3274,freebase,davos,46.8045,9.83671,1560.0
+3287,new york times,Marrakesh (Morocco),31.63,-8.0,NaN
+3288,geonames,Marrakech,31.63,-8.0,NaN
+3289,freebase,killarney,52.0599,-9.50712,NaN
+3291,new york times,Manteca (Calif),37.7974,-121.216,NaN
+3312,new york times,Palermo (Italy),38.1158,13.3598,NaN
+3317,freebase,montecito,34.4367,-119.631,NaN
+3322,dbpedia,Lahore,31.5497,74.3436,NaN
+3323,new york times,Potsdam (Germany),52.3989,13.0657,NaN
+3324,freebase,potsdam,52.4,13.07,NaN
+3334,dbpedia,Cabarete,19.7511,-70.4083,NaN
+3335,new york times,Park City (Utah),40.6461,-111.498,NaN
+3336,dbpedia,"Park City, Utah",NaN,NaN,NaN
+3347,freebase,louisville,38.2542,-85.7594,NaN
+3351,freebase,cape town,-33.9767,18.4244,NaN
+3357,dbpedia,"Maplewood, New Jersey",NaN,NaN,NaN
+3365,dbpedia,"Palmetto, Georgia",NaN,NaN,NaN
+3371,dbpedia,Cape Town,-33.9253,18.4239,NaN
+3375,freebase,udaipur,24.58,73.68,NaN
+3380,freebase,soweto,-26.2661,27.8659,NaN
+3381,dbpedia,Berlin,52.5006,13.3989,NaN
+3382,freebase,missoula,46.8722,-113.993,NaN
+3383,dbpedia,Dafen (town of painting replicas),NaN,NaN,NaN
+3384,new york times,Bruges (Belgium),51.2098,3.225,NaN
+3393,freebase,saint-tropez,43.2706,6.6394,NaN
+3394,geonames,Crans Montana,46.3132,7.47914,NaN
+3395,geonames,Verona,45.4342,10.9978,NaN
+3396,geonames,Matsumoto,36.2333,137.967,NaN
+3402,freebase,menton,43.7756,7.5006,NaN
+3409,geonames,Nice,43.7031,7.26608,NaN
+3410,new york times,Roosevelt (NY),40.6787,-73.589,NaN
+3411,freebase,roosevelt,40.6786,-73.5894,NaN
+3412,freebase,oxford mississippi,34.3664,-89.5192,NaN
+3416,new york times,Garrison (NY),41.384,-73.9457,NaN
+3418,dbpedia,"Passaic, New Jersey",NaN,NaN,NaN
+3446,geonames,Sāmthar,26.9833,88.5,NaN
+3447,geonames,Paterson,40.9168,-74.1718,NaN
+3460,new york times,Villarrica (Chile),-39.2857,-72.2279,NaN
+3461,dbpedia,"Villarrica, Chile",NaN,NaN,NaN
+3463,new york times,Brighton (England),50.8284,-0.139475,NaN
+3464,geonames,Brighton,50.8284,-0.139475,NaN
+3471,new york times,Maspeth (NYC),40.7232,-73.9126,NaN
+3475,geonames,Manchester,53.4809,-2.23743,NaN
+3476,new york times,Taipei (Taiwan),25.0392,121.525,NaN
+3483,geonames,Cannes,43.55,7.01667,NaN
+3484,dbpedia,Da Nang,16.0667,108.233,NaN
+3489,geonames,Kochi,9.96667,76.2333,NaN
+3493,new york times,Almagro (Spain),38.8833,-3.71667,NaN
+3499,geonames,Belgrade,44.804,20.4651,NaN
+3502,freebase,puno,-15.8433,-70.0236,NaN
+3513,freebase,belize city,17.4964,-88.1828,NaN
+3517,new york times,Monhegan Island (Me),43.7665,-69.3114,NaN
+3519,dbpedia,San Antonio,29.4167,-98.5,NaN
+3524,new york times,Belem (Brazil),-1.45583,-48.5044,NaN
+3529,geonames,Newark,40.7357,-74.1724,NaN
+3531,new york times,Mexico City (Mexico),19.4342,-99.1386,NaN
+3532,dbpedia,Mexico City,19.4333,-99.1333,NaN
+3539,dbpedia,Aix-en-Provence,43.5311,5.45402,NaN
+3544,new york times,Budapest (Hungary),47.5,19.0833,NaN
+3555,dbpedia,"Sag Harbor, New York",NaN,NaN,NaN
+3560,freebase,gori region georgia,41.966667,44.1,NaN
+3561,new york times,Skaneateles (NY),42.947,-76.4291,NaN
+3572,dbpedia,Verbier,46.1,7.21667,NaN
+3581,dbpedia,"North Stonington, Connecticut",NaN,NaN,NaN
+3582,new york times,Short Hills (NJ),40.7479,-74.3254,NaN
+3584,new york times,Ossining (NY),41.1629,-73.8615,NaN
+3586,freebase,laguna beach,33.5422,-117.782,NaN
+3591,freebase,fontainebleau,48.4053,2.70222,NaN
+3594,dbpedia,Cardiff,51.4853,-3.18667,NaN
+3616,new york times,Tikrit (Iraq),34.5967,43.6769,NaN
+3617,freebase,tikrit,34.5947,43.6814,NaN
+3627,new york times,San Jose (Costa Rica),9.93333,-84.0833,NaN
+3628,dbpedia,"San Jose, Costa Rica",NaN,NaN,NaN
+3637,new york times,Hakone (Japan),35.1833,139.033,NaN
+3652,dbpedia,"Northport, New York",NaN,NaN,NaN
+3658,new york times,Newburyport (Mass),42.8126,-70.8773,NaN
+3659,geonames,Newburyport,42.8126,-70.8773,NaN
+3660,geonames,Shenzhen,22.5455,114.068,NaN
+3668,geonames,Saint Mawes,50.1594,-5.01222,NaN
+3669,geonames,Hamilton Heights,40.8244,-73.95,NaN
+3674,dbpedia,"Montclair, New Jersey",NaN,NaN,NaN
+3675,new york times,Islamabad (Pakistan),33.61,73.0591,NaN
+3676,freebase,islamabad,33.6667,73.1667,NaN
+3679,new york times,Kaesong (North Korea),37.9708,126.554,NaN
+3689,new york times,Corinth (Greece),37.9378,22.9322,NaN
+3690,freebase,corinth,37.9333,22.9333,NaN
+3691,new york times,Ramadi (Iraq),33.4235,43.3093,NaN
+3698,freebase,najaf,31.9892,44.3244,NaN
+3702,freebase,uppsala,59.8586,17.6389,NaN
+3707,new york times,Memphis (Tenn),35.1495,-90.049,NaN
+3708,dbpedia,"Memphis, Tennessee",NaN,NaN,NaN
+3713,new york times,Portland (Ore),45.5235,-122.676,NaN
+3718,freebase,san francisco,37.775,-122.418,NaN
+3723,new york times,Baghdad (Iraq),33.3386,44.3939,NaN
+3724,dbpedia,Baghdad,33.3333,44.4333,NaN
+3731,dbpedia,"New Milford, Connecticut",NaN,NaN,NaN
+3734,dbpedia,"Ridgefield, Connecticut",NaN,NaN,NaN
+3735,new york times,Warsaw (Poland),52.25,21.0,NaN
+3736,dbpedia,Warsaw,52.2323,21.0108,NaN
+3740,dbpedia,Bristol,51.4587,-2.592,NaN
+3743,geonames,Jaipur,26.9167,75.8167,NaN
+3748,new york times,San Luis Obispo (Calif),35.2828,-120.66,NaN
+3751,freebase,toulouse,43.6053,1.4428,NaN
+3759,dbpedia,"Larchmont, New York",NaN,NaN,NaN
+3768,dbpedia,Baqubah,33.75,44.6333,NaN
+3769,freebase,maspeth queens,40.7231,-73.9125,NaN
+3774,dbpedia,"Breezy Point, Queens",NaN,NaN,NaN
+3781,dbpedia,Taormina,37.85,15.3,NaN
+3784,new york times,Bucharest (Romania),44.4333,26.1,NaN
+3785,freebase,bucharest,44.4167,26.1,NaN
+3789,dbpedia,Deauville,49.36,0.0753,NaN
+3790,freebase,mahmudiya,33.066667,44.366667,NaN
+3793,geonames,Edirne,41.6772,26.556,NaN
+3805,dbpedia,"Kew Gardens, Queens",NaN,NaN,NaN
+3811,freebase,split,43.5139,16.4558,NaN
+3812,geonames,Marathon,24.7138,-81.0904,NaN
+3815,new york times,Nancy (France),48.6833,6.2,NaN
+3816,geonames,Nancy,48.6833,6.2,NaN
+3819,new york times,Jacksonville (Fla),30.3322,-81.6556,NaN
+3823,new york times,Beslan (Russia),43.1919,44.5388,NaN
+3835,geonames,Fukuoka,33.5833,130.4,NaN
+3836,freebase,qom,34.6461,50.8789,NaN
+3843,dbpedia,Mont Saint-Michel,48.636,-1.51139,NaN
+3847,freebase,gansbaai western cape,-34.5833,19.35,NaN
+3850,freebase,szeged,46.25,20.1667,NaN
+3856,freebase,marrakech,31.6353,-8.00028,NaN
+3861,freebase,moscow,55.75,37.616667,NaN
+3862,freebase,granada nicaragua,11.9333,-85.95,NaN
+3865,freebase,recife,-8.05556,-34.8911,NaN
+3873,new york times,Reykjavik (Iceland),64.146,-21.9423,NaN
+3874,geonames,Reykjavik,64.1355,-21.8954,NaN
+3875,freebase,macon,32.8406,-83.6325,NaN
+3881,dbpedia,Karbala,32.6167,44.0333,NaN
+3890,new york times,Heidelberg (Germany),49.4077,8.69079,NaN
+3891,dbpedia,Heidelberg,49.4122,8.71,NaN
+3896,geonames,Diamond District,40.7566,-73.9786,NaN
+3902,dbpedia,Nagoya,35.1815,136.906,NaN
+3917,geonames,Provincetown,42.0584,-70.1786,NaN
+3918,freebase,birmingham,52.48,-1.91,NaN
+3924,new york times,Plovdiv (Bulgaria),42.15,24.75,NaN
+3927,geonames,Sintra,38.8,-9.38333,NaN
+3928,geonames,Mumbai,19.0144,72.8479,NaN
+3930,freebase,leipzig,51.34,12.38,NaN
+3938,freebase,berne,46.95,7.44583,NaN
+3955,geonames,Monteverde,10.1,-83.4333,NaN
+3959,dbpedia,Bilbao,43.2569,-2.92361,NaN
+3965,freebase,brooklyn heights brooklyn,40.6998,-73.9939,NaN
+3967,geonames,Göreme,38.6486,34.8639,NaN
+3971,geonames,Qom,34.6453,50.8808,NaN
+3972,dbpedia,Klosterneuburg,NaN,NaN,NaN
+3973,geonames,Marfa,30.3079,-104.019,NaN
+3975,dbpedia,Key Largo,25.0865,-80.4473,NaN
+3976,new york times,Sausalito (Calif),37.8591,-122.485,NaN
+3977,freebase,sausalito,37.8592,-122.484,NaN
+3978,new york times,New Paltz (NY),41.7476,-74.0868,NaN
+3989,freebase,richmond virginia,37.540972,-77.432889,NaN
+3994,new york times,Moab (Utah),38.5733,-109.55,NaN
+4000,dbpedia,Jaipur,26.92,75.82,NaN
+4002,geonames,Edinburgh,55.95,-3.2,NaN
+4006,new york times,Interlaken (Switzerland),46.6833,7.85,NaN
+4011,new york times,Assisi (Italy),43.0691,12.6165,NaN
+4012,dbpedia,Assisi,43.0758,12.6175,NaN
+4019,geonames,Antalya,36.9125,30.6897,NaN
+4021,dbpedia,"North Adams, Massachusetts",NaN,NaN,NaN
+4037,dbpedia,"Liberia, Costa Rica",NaN,NaN,NaN
+4041,geonames,Parma,44.8027,10.329,NaN
+4043,dbpedia,Dunhuang,40.15,94.6667,NaN
+4046,freebase,klosterneuburg,48.3042,16.3167,NaN
+4048,new york times,Qingdao (China),36.0986,120.372,NaN
+4050,new york times,Gijon (Spain),43.5411,-5.66444,NaN
+4051,freebase,gijon,43.5405,-5.66322,NaN
+4057,geonames,Tallinn,59.437,24.7535,NaN
+4062,new york times,Dunedin (New Zealand),-45.8742,170.504,NaN
+4072,geonames,Salvador,-12.9711,-38.5108,NaN
+4074,geonames,Oakland,37.8044,-122.271,NaN
+4084,dbpedia,Bologna,44.5075,11.3514,NaN
+4097,dbpedia,Beijing,39.9139,116.38,NaN
+4099,new york times,Houston (Tex),29.7633,-95.3633,NaN
+4101,dbpedia,Cochabamba,-17.3833,-66.1667,NaN
+4105,geonames,Lucca,43.8436,10.5058,NaN
+4108,dbpedia,Santo Domingo,18.5,-69.9833,NaN
+4109,freebase,vatican city,41.903,12.452,NaN
+4111,freebase,bradford,53.8,-1.75,NaN
+4115,new york times,Leeds (England),53.7965,-1.54785,NaN
+4116,dbpedia,Leeds,53.7997,-1.54917,NaN
+4124,freebase,akihabara,35.6984,139.772,NaN
+4128,freebase,larchmont,40.9278,-73.7522,NaN
+4139,geonames,Osaka,34.6937,135.502,NaN
+4142,freebase,miami,25.787676,-80.224145,NaN
+4150,new york times,Fortaleza (Brazil),-3.71722,-38.5431,NaN
+4151,freebase,fortaleza,-3.7737,-38.5748,21.00072
+4154,new york times,Port Jefferson (NY),40.9465,-73.0693,NaN
+4166,new york times,Saratoga Springs (NY),43.0831,-73.7846,NaN
+4167,freebase,saratoga springs,43.0831,-73.785,NaN
+4191,geonames,Beaune,47.0333,4.83333,NaN
+4193,geonames,Chengde,40.9725,117.936,NaN
+4194,dbpedia,Caracas,10.5,-66.9167,NaN
+4209,freebase,interlaken,46.6833,7.86667,NaN
+4216,geonames,Al Maḩmūdīyah,33.0687,44.364,NaN
+4217,new york times,Phoenix (Ariz),33.4484,-112.074,NaN
+4218,geonames,Phoenix,33.4484,-112.074,NaN
+4221,new york times,San Jose del Cabo (Mexico),23.05,-109.683,NaN
+4227,new york times,La Jolla (Calif),32.8473,-117.274,NaN
+4228,dbpedia,"La Jolla, San Diego, California",NaN,NaN,NaN
+4229,geonames,Taormina,37.8536,15.2885,NaN
+4232,new york times,Key West (Fla),24.5546,-81.7915,NaN
+4234,geonames,Chichen Itza,20.6667,-88.5667,NaN
+4236,freebase,hobart,-42.8806,147.325,NaN
+4237,new york times,Chappaqua (NY),41.1595,-73.7649,NaN
+4258,new york times,Oxnard (Calif),34.1975,-119.177,NaN
+4262,geonames,Vézelay,47.4667,3.73333,NaN
+4263,freebase,flatiron district manhattan,40.7408,-73.9896,NaN
+4276,dbpedia,"Newburyport, Massachusetts",NaN,NaN,NaN
+4290,new york times,New London (Conn),41.3557,-72.0995,NaN
+4291,dbpedia,"New London, Connecticut",NaN,NaN,NaN
+4293,geonames,Luanda,-8.83833,13.2344,NaN
+4294,dbpedia,"Old Lyme, Connecticut",NaN,NaN,NaN
+4310,geonames,Siem Reap,13.3667,103.85,NaN
+4312,new york times,Athenry (Ireland),53.2964,-8.74306,NaN
+4335,new york times,Mobile (Ala),30.6944,-88.0431,NaN
+4336,freebase,mobile,30.6942,-88.0431,NaN
+4344,dbpedia,Aragon,41.0,-1.0,NaN
+4358,dbpedia,Santiago de Cuba,20.0198,-75.8139,NaN
+4365,new york times,Innsbruck (Austria),47.2627,11.3945,NaN
+4366,dbpedia,Innsbruck,47.2667,11.3833,NaN
+4367,new york times,Siena (Italy),43.32,11.3328,NaN
+4373,dbpedia,"Mount Pleasant, New York",NaN,NaN,NaN
+4402,freebase,laquila,42.35,13.4,714.0
+4415,freebase,ocean grove new jersey,40.2119,-74.0069,NaN
+4416,new york times,Santa Cruz (Calif),36.9741,-122.031,NaN
+4417,geonames,Santa Cruz,36.9741,-122.031,NaN
+4421,geonames,Aveiro,40.6333,-8.65,NaN
+4422,new york times,Manhattan (NYC),40.7143,-74.006,NaN
+4430,dbpedia,Avignon,43.95,4.83333,NaN
+4432,new york times,Urumqi (China),43.8,87.5833,NaN
+4438,new york times,Juneau (Alaska),58.3019,-134.42,NaN
+4442,dbpedia,Korula,NaN,NaN,NaN
+4443,freebase,giza necropolis,29.9761,31.1328,NaN
+4449,dbpedia,Puerto Morelos,20.8536,-86.8986,NaN
+4456,freebase,krakow,50.0614,19.9372,NaN
+4457,freebase,oslo,59.9494,10.7564,NaN
+4461,new york times,Islamorada (Fla),24.9243,-80.6278,NaN
+4462,freebase,islamorada,24.9239,-80.6281,NaN
+4466,geonames,Aswan,24.0875,32.8989,NaN
+4475,freebase,paris,48.8742,2.34695,NaN
+4480,new york times,Chiang Mai (Thailand),18.7903,98.9817,NaN
+4481,freebase,chiang mai,18.7869,98.9865,NaN
+4482,new york times,Huntsville (Ala),34.7304,-86.5861,NaN
+4489,dbpedia,Vevey,46.4667,6.85,NaN
+4492,freebase,lockerbie,55.1167,-3.35,NaN
+4502,freebase,lagos,6.45,3.38333,NaN
+4506,dbpedia,Nancy,48.6936,6.1846,NaN
+4513,freebase,liverpool,53.4167,-3.0,NaN
+4514,dbpedia,Damascus,33.513,36.292,NaN
+4519,dbpedia,"Orleans, Massachusetts",NaN,NaN,NaN
+4529,freebase,chappaqua,41.1594,-73.7653,NaN
+4536,dbpedia,Chamonix,45.9231,6.86972,NaN
+4540,geonames,Biarritz,43.4833,-1.56667,NaN
+4543,new york times,Park Slope (NYC),40.6701,-73.986,NaN
+4550,freebase,lahinch,52.9315,-9.34662,NaN
+4567,new york times,Jakarta (Indonesia),-6.17444,106.829,NaN
+4572,new york times,Goteborg (Sweden),57.7072,11.9668,NaN
+4581,dbpedia,Rawalpindi,33.6,73.0333,NaN
+4584,new york times,Poughkeepsie (NY),41.7004,-73.921,NaN
+4585,freebase,poughkeepsie,41.7003,-73.9214,NaN
+4587,dbpedia,Perugia,43.1122,12.3889,NaN
+4589,geonames,Baghdad,33.3386,44.3939,NaN
+4595,freebase,plainsboro,40.3333,-74.6008,NaN
+4597,geonames,Bristol,51.45,-2.58333,NaN
+4600,geonames,Bedford-Stuyvesant,40.6834,-73.9412,NaN
+4601,freebase,berlin,52.5233,13.4127,34.0
+4611,new york times,Jamaica (NYC),40.6915,-73.8057,NaN
+4613,dbpedia,"Niagara Falls, Ontario",NaN,NaN,NaN
+4614,new york times,Peekskill (NY),41.2901,-73.9204,NaN
+4616,new york times,Kobe (Japan),34.6833,135.167,NaN
+4618,geonames,Panama City,8.9936,-79.5197,NaN
+4624,dbpedia,Dusseldorf,NaN,NaN,NaN
+4628,freebase,bourges,47.0839,2.39639,NaN
+4629,geonames,Lhasa,29.65,91.1,NaN
+4639,freebase,nashville tennessee,36.1658,-86.7844,NaN
+4642,dbpedia,Pecs,NaN,NaN,NaN
+4646,freebase,san juan puerto rico,18.4517,-66.0689,NaN
+4649,freebase,jerusalem,31.7833,35.2167,NaN
+4650,geonames,San Cristóbal de las Casas,16.75,-92.6333,NaN
+4652,geonames,Punta Gorda,26.9298,-82.0454,NaN
+4653,geonames,Rochester,43.1548,-77.6156,NaN
+4656,dbpedia,Versailles,NaN,NaN,NaN
+4659,freebase,rye brook,41.0197,-73.6833,NaN
+4662,freebase,reno,39.5297,-119.813,NaN
+4667,freebase,singapore,1.3667,103.75,NaN
+4696,new york times,Natchez (Miss),31.5604,-91.4032,NaN
+4704,freebase,cartagena,10.4,-75.5,NaN
+4714,new york times,San German (Puerto Rico),18.0816,-67.0449,NaN
+4715,dbpedia,"San German, Puerto Rico",NaN,NaN,NaN
+4721,geonames,Portland,45.5235,-122.676,NaN
+4727,geonames,Sausalito,37.8591,-122.485,NaN
+4734,dbpedia,"Long Branch, New Jersey",NaN,NaN,NaN
+4738,dbpedia,Mogadishu,2.06667,45.35,NaN
+4740,freebase,edirne,41.6744,26.5608,NaN
+4750,geonames,Curitiba,-25.4278,-49.2731,NaN
+4764,freebase,chinatown manhattan,40.7183,-74.0025,NaN
+4766,geonames,Ogden,41.223,-111.974,NaN
+4775,dbpedia,Tikrit,34.61,43.6833,NaN
+4782,geonames,Johannesburg,-26.2023,28.0436,NaN
+4787,freebase,nairobi,-1.28333,36.8167,NaN
+4790,dbpedia,Carnac,47.5847,-3.0794,NaN
+4797,freebase,baden-baden,48.7629,8.2411,NaN
+4801,dbpedia,Philadelphia,39.95,-75.17,NaN
+4804,freebase,oxnard,34.1975,-119.176,NaN
+4805,new york times,Dijon (France),47.3167,5.01667,NaN
+4816,geonames,Kalkan,36.2656,29.4153,NaN
+4818,freebase,karbala,32.6161,44.0339,NaN
+4821,dbpedia,Kinsale,51.7075,-8.53056,NaN
+4850,geonames,Natchez,31.5604,-91.4032,NaN
+4853,freebase,hopewell junction,41.5842,-73.7997,NaN
+4858,freebase,goreme,38.6667,34.8333,NaN
+4862,new york times,Naples (Fla),26.142,-81.7948,NaN
+4867,geonames,Veracruz,19.2,-96.1333,NaN
+4868,dbpedia,"Monterey, California",NaN,NaN,NaN
+4881,geonames,Ossining,41.1629,-73.8615,NaN
+4883,new york times,Ottawa (Ontario),45.4209,-75.6903,NaN
+4886,freebase,new haven,41.3081,-72.9286,NaN
+4892,dbpedia,Abu Dhabi,24.4667,54.3667,NaN
+4914,freebase,helsinki,60.1708,24.9375,NaN
+4919,new york times,Birkenau (Poland),51.9667,15.0333,NaN
+4925,dbpedia,"Saint Paul, Minnesota",NaN,NaN,NaN
+4926,new york times,Ani (Turkey),40.5333,43.5667,NaN
+4933,freebase,adelaide,-34.9333,138.583,NaN
+4935,geonames,Cartagena,10.3997,-75.5144,NaN
+4936,dbpedia,Bonn,50.734,7.09981,NaN
+4942,geonames,La Jolla,32.8473,-117.274,NaN
+4946,geonames,Mogadishu,2.03711,45.3438,NaN
+4951,dbpedia,"Phoenix, Arizona",NaN,NaN,NaN
+4953,dbpedia,Ashgabat,37.9333,58.3667,NaN
+4959,geonames,New Paltz,41.7476,-74.0868,NaN
+4960,freebase,millerton,41.9536,-73.5111,NaN
+4963,new york times,Isle of Palms (SC),32.7868,-79.7948,NaN
+4964,geonames,Isle of Palms,32.7868,-79.7948,NaN
+4965,geonames,Key Largo,25.0865,-80.4473,NaN
+4973,dbpedia,Zaragoza,41.65,-0.883333,NaN
+4980,freebase,simi valley,34.2694,-118.781,NaN
+4981,dbpedia,"Irvington, New Jersey",NaN,NaN,NaN
+5002,new york times,Bangalore (India),12.9762,77.6033,NaN
+5011,new york times,Rehoboth Beach (Del),38.7209,-75.076,NaN
+5012,freebase,rehoboth beach,38.7208,-75.0764,NaN
+5015,geonames,Vienna,48.2085,16.3721,NaN
+5018,new york times,Khartoum (Sudan),15.5881,32.5342,NaN
+5029,freebase,cancun,21.1617,-86.848,NaN
+5031,freebase,trieste,45.6333,13.8,NaN
+5032,freebase,santo domingo,18.4833,-69.9167,NaN
+5034,dbpedia,"Jacksonville, Florida",NaN,NaN,NaN
+5048,dbpedia,Downtown Brooklyn,NaN,NaN,NaN
+5058,freebase,carnegie hill manhattan,40.784722,-73.956111,NaN
+5060,geonames,Kabul,34.5281,69.1723,NaN
+5065,freebase,heidelberg,49.4034,8.6792,NaN
+5068,freebase,santa cruz,36.9742,-122.03,NaN
+5069,dbpedia,"Malibu, California",NaN,NaN,NaN
+5070,new york times,Graz (Austria),47.0667,15.45,NaN
+5073,freebase,hoffenheim,49.2722,8.84444,NaN
+5074,freebase,mazatlan,23.2167,-106.417,NaN
+5075,freebase,calcutta,22.5697,88.3697,NaN
+5076,freebase,port jefferson,40.9464,-73.0697,NaN
+5080,dbpedia,"Park Slope, Brooklyn",NaN,NaN,NaN
+5083,dbpedia,"Montgomery, Alabama",NaN,NaN,NaN
+5089,geonames,Giza,30.0086,31.2122,NaN
+5091,dbpedia,Honolulu,21.3089,-157.826,NaN
+5096,new york times,Milan (Italy),45.4643,9.18951,NaN
+5098,geonames,Port Elizabeth,-33.9667,25.5833,NaN
+5099,geonames,The Hague,52.0767,4.29861,NaN
+5100,freebase,prospect heights brooklyn,40.6778,-73.9694,NaN
+5124,new york times,New Delhi (India),28.6128,77.2311,NaN
+5126,freebase,stuttgart,48.7767,9.1775,247.0
+5127,freebase,long branch,40.3042,-73.9928,NaN
+5128,dbpedia,Armacao dos Buzios,NaN,NaN,NaN
+5130,dbpedia,Bourges,47.0844,2.39639,NaN
+5131,geonames,Boquete,8.78333,-82.4333,NaN
+5133,freebase,ramadi,33.4167,43.3,NaN
+5141,dbpedia,"Naples, Florida",NaN,NaN,NaN
+5143,freebase,leeds,53.81,-1.55,NaN
+5145,geonames,Tours,47.3833,0.683333,NaN
+5146,new york times,Ljubljana (Slovenia),46.0553,14.5144,NaN
+5147,freebase,ljubljana,46.05,14.5,NaN
+5157,new york times,Milford (Conn),41.2223,-73.0565,NaN
+5164,geonames,Ocracoke,35.1146,-75.981,NaN
+5168,freebase,yangon,16.7833,96.15,NaN
+5169,new york times,Portofino (Italy),44.3035,9.20942,NaN
+5170,geonames,Portofino,44.3035,9.20942,NaN
+5171,new york times,New Canaan (Conn),41.1468,-73.4948,NaN
+5175,new york times,Carmel (Calif),36.5552,-121.923,NaN
+5177,geonames,Oxford,41.434,-73.1168,NaN
+5181,dbpedia,Nagasaki,32.7833,129.867,NaN
+5183,new york times,Spoleto (Italy),42.7448,12.7374,NaN
+5184,dbpedia,Spoleto,42.7333,12.7333,NaN
+5192,new york times,Corona (NYC),40.747,-73.8601,NaN
+5198,dbpedia,"New Canaan, Connecticut",NaN,NaN,NaN
+5200,freebase,rotorua,-38.1167,176.317,NaN
+5203,new york times,Morningside Heights (NYC),40.81,-73.9625,NaN
+5204,dbpedia,"Morningside Heights, Manhattan",NaN,NaN,NaN
+5212,freebase,caratinga,-19.7833,-42.1333,NaN
+5214,new york times,Morelia (Mexico),19.7008,-101.184,NaN
+5215,dbpedia,Morelia,19.7683,-101.189,NaN
+5221,new york times,Ferrara (Italy),44.8268,11.6207,NaN
+5222,geonames,Ferrara,44.8268,11.6207,NaN
+5227,geonames,San Luis Obispo,35.2828,-120.66,NaN
+5229,freebase,clarence center,43.0111,-78.6347,NaN
+5230,geonames,Perugia,43.0967,12.3829,NaN
+5231,dbpedia,"Alice Springs, Northern Territory",NaN,NaN,NaN
+5232,geonames,Millau,44.1,3.08333,NaN
+5233,dbpedia,"Orlando, Florida",NaN,NaN,NaN
+5241,new york times,Pittsburgh (Pa),40.4406,-79.9959,NaN
+5244,freebase,cortina dampezzo,46.5333,12.1333,NaN
+5252,geonames,Guangzhou,23.1167,113.25,NaN
+5256,dbpedia,"Shelter Island (town), New York",NaN,NaN,NaN
+5266,freebase,huntington beach,33.6603,-117.998,NaN
+5270,geonames,Memphis,35.1495,-90.049,NaN
+5272,dbpedia,Shimla,31.0,77.0,NaN
+5276,new york times,Beverley (England),53.8459,-0.423317,NaN
+5278,dbpedia,"Portland, Maine",NaN,NaN,NaN
+5279,freebase,kashgar,39.4667,76.05,NaN
+5284,freebase,long beach,33.7669,-118.188,NaN
+5292,geonames,Sydney,-33.8679,151.207,NaN
+5293,freebase,berchtesgaden,47.6312,13.0023,NaN
+5294,freebase,panama city,9.0,-79.5,NaN
+5296,geonames,Da Nang,16.0678,108.221,NaN
+5305,new york times,Sao Paulo (Brazil),-23.5475,-46.6361,NaN
+5310,freebase,santa fe,35.6869,-105.937,NaN
+5311,new york times,Sedona (Ariz),34.8697,-111.761,NaN
+5320,geonames,Maspeth,40.7232,-73.9126,NaN
+5338,geonames,Brisbane,-27.4679,153.028,NaN
+5339,dbpedia,Lyon,45.7597,4.84222,NaN
+5344,dbpedia,"Louisville, Kentucky",NaN,NaN,NaN
+5352,freebase,kufa,32.0297,44.3947,NaN
+5364,dbpedia,Manaus,-3.1,-60.0167,NaN
+5369,freebase,kochi,9.9667,76.2167,NaN
+5372,new york times,Ithaca (NY),42.4406,-76.4966,NaN
+5383,freebase,biarritz,43.4797,-1.555,NaN
+5385,geonames,Fujairah,25.1231,56.3375,NaN
+5386,freebase,amman,31.95,35.9333,NaN
+5387,dbpedia,Frankfurt am Main,NaN,NaN,NaN
+5396,geonames,Gothenburg,57.7072,11.9668,NaN
+5402,geonames,Athenry,53.2964,-8.74306,NaN
+5407,geonames,Dresden,51.0509,13.7383,NaN
+5415,geonames,Cahuita,9.73333,-82.85,NaN
+5416,new york times,Lima (Peru),-12.05,-77.05,NaN
+5418,geonames,Sochi,43.6,39.7303,NaN
+5421,geonames,Düsseldorf,51.2217,6.77616,NaN
+5432,new york times,Florence (Italy),43.7667,11.25,NaN
+5436,freebase,garment district manhattan,40.7535,-73.9888,NaN
+5445,new york times,New York City,40.7143,-74.006,NaN
+5448,new york times,Alta (Utah),40.5888,-111.638,NaN
+5452,geonames,Killarney,52.05,-9.51667,NaN
+5453,dbpedia,"Locust Valley, New York",NaN,NaN,NaN
+5467,dbpedia,Guangzhou,23.1333,113.267,NaN
+5468,geonames,Chappaqua,41.1595,-73.7649,NaN
+5477,freebase,beverley,53.845,-0.427,NaN
+5482,freebase,ronda,36.7394,-5.16392,NaN
+5484,freebase,peshawar,34.0117,71.5389,NaN
+5487,freebase,bergen,60.38,5.34,NaN
+5492,freebase,siem reap,13.3622,103.86,NaN
+5494,dbpedia,Valparaiso,NaN,NaN,NaN
+5499,dbpedia,"Boquete, Chiriqui",NaN,NaN,NaN
+5501,geonames,Madison,43.0731,-89.4012,NaN
+5507,dbpedia,"Madison, Wisconsin",NaN,NaN,NaN
+5512,geonames,Rehoboth Beach,38.7209,-75.076,NaN
+5513,geonames,Beslan,43.1919,44.5388,NaN
+5516,geonames,Kyoto,35.0211,135.754,NaN
+5517,geonames,Pittsfield,42.4501,-73.2454,NaN
+5519,geonames,Long Island City,40.7448,-73.9487,NaN
+5529,dbpedia,Plovdiv,42.15,24.75,NaN
+5533,new york times,Dingle (Ireland),52.1408,-10.2689,NaN
+5537,geonames,Sīwah,29.2,25.5167,NaN
+5539,geonames,Pasadena,34.1478,-118.145,NaN
+5546,dbpedia,Kuala Lumpur,3.1475,101.693,NaN
+5547,dbpedia,Dunedin,-45.8667,170.5,NaN
+5552,geonames,Santa Barbara,34.4208,-119.698,NaN
+5559,geonames,Bayeux,49.2667,-0.7,NaN
+5566,dbpedia,Yangon,16.8,96.15,NaN
+5575,freebase,annecy,45.9094,6.12397,NaN
+5576,geonames,Bormio,46.4684,10.3721,NaN
+5579,geonames,Potsdam,52.3989,13.0657,NaN
+5588,freebase,shelter island,41.078056,-72.350833,17.0688
+5591,new york times,Dar es Salaam (Tanzania),-6.8,39.2833,NaN
+5592,freebase,dar es salaam,-6.81667,39.2839,NaN
+5604,dbpedia,Ghent,51.05,3.73333,NaN
+5605,dbpedia,Nasiriyah,31.05,46.2667,NaN
+5611,freebase,osaka,34.6603,135.523,NaN
+5618,geonames,Missoula,46.8721,-113.994,NaN
+5619,geonames,Interlaken,46.6833,7.85,NaN
+5620,new york times,Barcelona (Spain),41.3888,2.15899,NaN
+5621,dbpedia,Barcelona,41.3833,2.18333,NaN
+5624,dbpedia,Dakar,14.6928,-17.4467,NaN
+5627,geonames,Las Vegas,36.175,-115.137,NaN
+5628,geonames,Cataño,18.4413,-66.1182,NaN
+5634,geonames,Lanai,20.8306,-156.922,NaN
+5636,freebase,honolulu,21.3069,-157.858,NaN
+5641,freebase,nagoya,35.1667,136.917,NaN
+5653,dbpedia,Hamburg,53.5653,10.0014,NaN
+5654,geonames,Cochabamba,-17.3833,-66.15,NaN
+5665,dbpedia,"Ossining (village), New York",NaN,NaN,NaN
+5668,dbpedia,Pattaya,12.9275,100.875,NaN
+5673,geonames,Assisi,43.0691,12.6165,NaN
+5676,geonames,Kunming,25.0389,102.718,NaN
+5683,dbpedia,Graz,47.0667,15.4333,NaN
+5692,dbpedia,"Rossville, Staten Island",NaN,NaN,NaN
+5693,dbpedia,Bodrum,37.0333,27.4333,NaN
+5694,dbpedia,Puno,-15.8433,-70.0236,NaN
+5695,geonames,Scarsdale,41.0051,-73.7846,NaN
+5701,freebase,manila,14.5833,121.0,NaN
+5719,dbpedia,Bormio,46.4667,10.3667,NaN
+5721,new york times,Knoxville (Tenn),35.9606,-83.9207,NaN
+5726,dbpedia,Brasilia,NaN,NaN,NaN
+5733,dbpedia,Vina del Mar,NaN,NaN,NaN
+5736,dbpedia,"Ojai, California",NaN,NaN,NaN
+5737,geonames,Moab,38.5733,-109.55,NaN
+5739,freebase,budapest,47.5,19.05,NaN
+5744,dbpedia,"Amenia (town), New York",NaN,NaN,NaN
+5745,freebase,turin,45.0709,7.68584,NaN
+5753,geonames,Shelter Island,41.0682,-72.3387,NaN
+5758,freebase,ras al-khaimah,25.783333,55.95,NaN
+5762,dbpedia,Palenque,17.484,-92.0463,NaN
+5796,freebase,ithaca new york,42.4406,-76.4969,NaN
+5798,freebase,new london,41.3556,-72.1,NaN
+5804,dbpedia,"Rehoboth Beach, Delaware",NaN,NaN,NaN
+5805,freebase,oakland california,37.8044,-122.27,NaN
+5808,dbpedia,Veracruz,19.4347,-96.3831,NaN
+5822,geonames,Phnom Penh,11.55,104.917,NaN
+5823,geonames,Athens,37.9795,23.7162,NaN
+5826,freebase,montgomery,32.3667,-86.3,NaN
+5831,dbpedia,Madrid,40.4,-3.68333,NaN
+5833,freebase,kiawah island,32.6094,-80.0978,NaN
+5837,freebase,tirana,41.326,19.816,110.0
+5841,dbpedia,Stockholm,59.35,18.0667,NaN
+5847,geonames,Peekskill,41.2901,-73.9204,NaN
+5848,dbpedia,Milan,45.4642,9.19028,NaN
+5850,geonames,Deauville,49.357,0.069952,NaN
+5858,dbpedia,Basel,47.5667,7.6,NaN
+5860,geonames,Maplewood,40.7312,-74.2735,NaN
+5876,dbpedia,"Manchester, New Hampshire",NaN,NaN,NaN
+5882,freebase,nagano,36.6486,138.193,NaN
+5883,dbpedia,Antalya,36.9,30.6833,NaN
+5884,freebase,valparaiso,-33.0478,-71.6011,NaN
+5889,freebase,nice,43.7028,7.26917,NaN
+5897,dbpedia,Johannesburg,-26.2044,28.0456,NaN
+5906,geonames,Graz,47.0667,15.45,NaN
+5909,dbpedia,Bogota,NaN,NaN,NaN
+5911,geonames,Mombasa,-4.05,39.6667,NaN
+5913,geonames,Palermo,38.1158,13.3598,NaN
+5929,geonames,Bradford,53.7939,-1.75206,NaN
+5934,dbpedia,Ottawa,45.4208,-75.69,NaN
+5939,dbpedia,Karlovy Vary,50.2283,12.8661,NaN
+5945,freebase,hanoi,21.0409,105.798,NaN
+5948,dbpedia,"Nashville, Tennessee",NaN,NaN,NaN
+5958,dbpedia,"Roosevelt, New York",NaN,NaN,NaN
+5959,freebase,kelowna,49.8849,-119.491,344.0
+5970,dbpedia,Melbourne,37.8136,144.963,NaN
+5973,freebase,olinda,-8.00278,-34.8911,NaN
+5978,dbpedia,"Scarsdale, New York",NaN,NaN,NaN
+5983,geonames,Spoleto,42.7448,12.7374,NaN
+5992,freebase,garrison new york,41.3839,-73.9456,NaN
+5993,freebase,morningside heights manhattan,40.8102,-73.9566,NaN
+5998,geonames,Kraków,50.0833,19.9167,NaN
+6008,geonames,La Rochelle,46.1667,-1.15,NaN
+6011,freebase,khartoum,15.58,32.52,NaN
+6014,dbpedia,Hay-on-Wye,52.08,-3.13,NaN
+6015,freebase,gothenburg,57.6967,11.9869,NaN
+6029,freebase,queens,40.7143,-73.8204,NaN
+6042,freebase,jaffna,9.6667,80.0,NaN
+6044,geonames,Addis Ababa,9.02497,38.7469,NaN
+6049,freebase,carroll gardens brooklyn,40.68,-73.994444,NaN
+6050,freebase,matsumoto,36.0689,137.976,NaN
+6054,new york times,Palm Beach (Fla),26.7056,-80.0364,NaN
+6055,dbpedia,"Palm Beach, Florida",NaN,NaN,NaN
+6058,freebase,damascus,33.5,36.3,NaN
+6059,freebase,santa monica california,34.0194,-118.49,32.0
+6061,dbpedia,Ciudad Juarez,NaN,NaN,NaN
+6063,geonames,Sarasota,27.3364,-82.5307,NaN
+6067,geonames,Innsbruck,47.2627,11.3945,NaN
+6068,geonames,Gijón,43.5411,-5.66444,NaN
+6075,dbpedia,"Richland, New York",NaN,NaN,NaN
+6078,dbpedia,Beaune,47.025,4.83972,NaN
+6079,dbpedia,Akihabara,35.6973,139.772,NaN
+6082,geonames,Reno,39.5296,-119.814,NaN
+6087,geonames,Kent,41.7248,-73.4771,NaN
+6088,dbpedia,"Rockland, Maine",NaN,NaN,NaN
+6092,freebase,palm beach,26.7053,-80.0367,NaN
+6094,geonames,Kufa,32.0347,44.4033,NaN
+6095,dbpedia,"Santa Cruz, California",NaN,NaN,NaN
+6099,geonames,New Canaan,41.1468,-73.4948,NaN
+6101,dbpedia,"Seaside, Florida",NaN,NaN,NaN
+6107,dbpedia,"Moab, Utah",NaN,NaN,NaN
+6112,dbpedia,"Sago, West Virginia",NaN,NaN,NaN
+6127,dbpedia,Amarah,32.0,47.0,NaN
+6131,geonames,North Salem,41.3348,-73.5712,NaN
+6132,dbpedia,Leipzig,51.3333,12.3833,NaN
+6147,geonames,Kelowna,49.8831,-119.486,NaN
+6150,geonames,Kanazawa,36.5667,136.65,NaN
+6156,dbpedia,Seville,37.3772,-5.98694,NaN
+6164,freebase,nelson canada,49.5,-117.283,NaN
+6168,dbpedia,Merca,1.71483,44.77,NaN
+6178,dbpedia,Ho Chi Minh City,10.7694,106.682,NaN
+6184,freebase,indianapolis,39.7683,-86.1581,NaN
+6191,freebase,toledo spain,39.8667,-4.03333,NaN
+6192,freebase,cabo san lucas,22.88,-109.9,NaN
+6193,freebase,jamaica new york,40.6914,-73.8061,NaN
+6195,dbpedia,Paris,48.8567,2.35083,NaN
+6209,dbpedia,Bangalore,12.9667,77.5667,NaN
+6210,freebase,knoxville,35.9606,-83.9208,NaN
+6225,freebase,palisades park,40.8481,-73.9981,NaN
+6229,freebase,oranienburg,52.7544,13.2369,NaN
+6240,dbpedia,"Islamorada, Florida",NaN,NaN,NaN
+6253,freebase,juneau,58.3514,-134.512,NaN
+6270,freebase,jersey city,40.7281,-74.0781,NaN
+6273,geonames,Tirana,41.3275,19.8189,NaN
+6280,geonames,Morelia,19.7008,-101.184,NaN
+6281,dbpedia,Oxford,51.7519,-1.25778,NaN
+6282,dbpedia,Dar es Salaam,-6.8,39.2833,NaN
+6283,geonames,Bath,51.3794,-2.36556,NaN
+6284,freebase,natchez,31.5603,-91.4031,NaN
+6286,freebase,punta gorda,26.9294,-82.0456,NaN
+6290,freebase,reykjavik,64.1333,-21.9333,NaN
+6293,geonames,Islamabad,33.7215,73.0433,NaN
+6298,dbpedia,"Nagano, Nagano",NaN,NaN,NaN
+6299,dbpedia,"Mobile, Alabama",NaN,NaN,NaN
+6300,freebase,alkmaar,52.6344,4.74639,NaN
+6301,new york times,Regensburg (Germany),49.015,12.0956,NaN
+6302,freebase,regensburg,49.0,12.0,NaN
+6303,geonames,San José del Cabo,23.0589,-109.698,NaN
+6305,freebase,genoa,44.4167,8.92389,NaN
+6309,dbpedia,Sharjah (emirate),25.4333,55.3833,NaN
+6323,freebase,marfa,30.3078,-104.019,NaN
+6336,freebase,philadelphia,39.9522,-75.1642,NaN
+6339,dbpedia,"Bethel, New York",NaN,NaN,NaN
+6341,geonames,Bucharest,44.4322,26.1063,NaN
+6346,geonames,Ridgefield,41.2815,-73.4982,NaN
+6353,freebase,palermo,38.1167,13.3667,NaN
+6355,freebase,manchester united kingdom,53.48,-2.24,NaN
+6362,dbpedia,Seattle,47.6097,-122.333,NaN
+6365,geonames,Basel,47.5667,7.6,NaN
+6373,geonames,Jakarta,-6.21462,106.845,NaN
+6380,freebase,puerto morelos,20.8536,-86.8753,NaN
+6387,dbpedia,"Bam, Iran",NaN,NaN,NaN
+6389,freebase,basel,47.566,7.6,NaN
+6408,geonames,Copenhagen,55.6759,12.5655,NaN
+6412,freebase,saint petersburg,59.9333,30.3333,NaN
+6425,geonames,Puerto Jiménez,8.53333,-83.3167,NaN
+6433,freebase,almagro ciudad real,38.8833,-3.7167,NaN
+6437,dbpedia,Jaffna,9.66667,80.0,NaN
+6438,geonames,Jamaica,40.6915,-73.8057,NaN
+6444,freebase,mosul,36.3414,43.1292,NaN
+6448,dbpedia,Algiers,36.7,3.21667,NaN
+6450,freebase,skaneateles new york,42.9469,-76.4294,NaN
+6456,geonames,Rockland,44.1037,-69.1089,NaN
+6467,freebase,marja afghanistan,31.516667,64.116667,NaN
+6469,dbpedia,"Niagara Falls, New York",NaN,NaN,NaN
+6478,geonames,Petra,30.3167,35.4833,NaN
+6480,geonames,Puerto Morelos,20.8417,-86.8824,NaN
+6485,dbpedia,"Bridgehampton, New York",NaN,NaN,NaN
+6488,freebase,lugano,46.0046,8.95351,273.0
+6493,geonames,Hermanus,-34.4167,19.2333,NaN
+6498,new york times,Perth (Australia),-31.9333,115.833,NaN
+6500,dbpedia,Ljubljana,46.0556,14.5083,NaN
+6504,dbpedia,Santiago de Compostela,42.8804,-8.5463,NaN
+6507,geonames,Park City,40.6461,-111.498,NaN
+6511,freebase,chachapoyas,-6.2167,-77.85,NaN
+6517,freebase,san cristobal de las casas,16.75,-92.63,NaN
+6530,dbpedia,Mustique,12.8667,-61.1833,NaN
+6538,new york times,Lucerne (Switzerland),47.0505,8.30635,NaN
+6539,dbpedia,Lucerne,47.05,8.3,NaN
+6540,dbpedia,L'Aquila,42.35,13.4,NaN
+6545,new york times,Vladivostok (Russia),43.1056,131.874,NaN
+6550,dbpedia,Luanda,-8.83833,13.2344,NaN
+6551,dbpedia,Addis Ababa,9.03,38.74,NaN
+6553,freebase,amsterdam,52.37,4.89,NaN
+6560,geonames,Barcelona,41.3888,2.15899,NaN
+6564,geonames,Lisbon,38.7167,-9.13333,NaN
+6573,dbpedia,Olinda,-8.0,-34.8833,NaN
+6585,geonames,Guilin,25.2819,110.286,NaN
+6590,dbpedia,"Saint Michaels, Maryland",NaN,NaN,NaN
+6599,geonames,Regensburg,49.015,12.0956,NaN
+6607,dbpedia,"Queenstown, New Zealand",NaN,NaN,NaN
+6619,freebase,taormina,37.85,15.2833,NaN
+6622,new york times,Lake Placid (NY),44.2795,-73.9799,NaN
+6626,geonames,Colmar,48.0833,7.36667,NaN
+6630,geonames,Millbrook,41.7851,-73.694,NaN
+6641,freebase,pawling,41.5619,-73.6031,NaN
+6642,new york times,Essaouira (Morocco),31.51,-9.76,NaN
+6645,geonames,Mystic,41.3543,-71.9665,NaN
+6655,freebase,venice,45.4333,12.3167,NaN
+6663,geonames,Ronda,36.7423,-5.16709,NaN
+6675,freebase,xian,34.2683,108.942,NaN
+6680,geonames,Stellenbosch,-33.9333,18.85,NaN
+6681,geonames,Geneva,46.2022,6.14569,NaN
+6688,dbpedia,Bradford,53.8,-1.75206,NaN
+6691,dbpedia,"Sausalito, California",NaN,NaN,NaN
+6698,freebase,ogunquit,43.2489,-70.5997,NaN
+6699,dbpedia,Hanover,52.3667,9.71667,NaN
+6702,geonames,Honfleur,49.4199,0.232944,NaN
+6709,geonames,Lancaster,40.0379,-76.3055,NaN
+6712,freebase,manaus,-3.12917,-60.0214,NaN
+6730,dbpedia,Nice,43.7034,7.26627,NaN
+6732,geonames,Dingle,52.1408,-10.2689,NaN
+6735,geonames,Newport,41.4901,-71.3128,NaN
+6741,dbpedia,"Cuenca, Ecuador",NaN,NaN,NaN
+6748,dbpedia,Beirut,33.8869,35.5131,NaN
+6751,dbpedia,"Kiawah Island, South Carolina",NaN,NaN,NaN
+6754,freebase,kuala lumpur,3.15972,101.7,NaN
+6766,freebase,tel aviv,32.0833,34.8,NaN
+6768,geonames,Plainsboro,40.3334,-74.6004,NaN
+6776,dbpedia,Al Anbar Governorate,32.9,41.6,NaN
+6778,geonames,Queenstown,-45.0302,168.663,NaN
+6819,dbpedia,Gijon,NaN,NaN,NaN
+6820,geonames,Cusco,-13.5183,-71.9781,NaN
+6830,dbpedia,Silver City (New Mexico),32.7781,-108.274,NaN
+6831,geonames,Red Hook Houses,40.6753,-74.0047,NaN
+6839,new york times,Carcassonne (France),43.2167,2.35,NaN
+6843,freebase,red hook brooklyn,40.6765,-74.0114,NaN
+6845,geonames,Seattle,47.6062,-122.332,NaN
+6854,geonames,Zagreb,45.8144,15.978,NaN
+6857,dbpedia,Lima,-12.0433,-77.0283,NaN
+6859,freebase,san jose,37.3041,-121.873,NaN
+6866,geonames,Jena,31.6832,-92.1337,NaN
+6869,freebase,edinburgh,55.95,-3.22,NaN
+6870,freebase,portofino,44.3,9.2,4.0
+6875,freebase,orvieto,42.7167,12.1,NaN
+6876,geonames,Wengen,46.6,7.91667,NaN
+6878,dbpedia,Dhaka,23.7,90.375,NaN
+6886,freebase,brasilia,-15.781,-47.9196,1172.0
+6895,geonames,Bangalore,12.9762,77.6033,NaN
+6911,new york times,Amagansett (NY),40.9737,-72.1437,NaN
+6914,dbpedia,"Montauk, New York",NaN,NaN,NaN
+6915,freebase,el calafate,-50.3402,-72.2663,NaN
+6916,dbpedia,Samarra,34.1983,43.8742,NaN
+6920,dbpedia,"Alta, Utah",NaN,NaN,NaN
+6921,freebase,cuernavaca,18.9178,-99.2267,NaN
+6927,dbpedia,Szentendre,47.7044,19.0686,NaN
+6930,dbpedia,"Freeport, Maine",NaN,NaN,NaN
+6931,geonames,Belize City,17.4995,-88.1976,NaN
+6936,dbpedia,Yokohama,35.45,139.633,NaN
+6937,freebase,doha,25.3,51.5333,NaN
+6939,dbpedia,"Princeton, New Jersey",NaN,NaN,NaN
+6941,dbpedia,Marseille,43.2964,5.36995,NaN
+6942,dbpedia,Ayacucho,-13.1631,-74.2244,NaN
+6943,dbpedia,Luxor,25.6833,32.65,NaN
+6947,geonames,Khartoum,15.5466,32.5336,NaN
+6957,dbpedia,Dubai,25.25,55.3,NaN
+6965,dbpedia,Kirkuk,35.4667,44.3167,NaN
+6970,freebase,kabul,34.5333,69.1667,NaN
+6975,geonames,Bergama,39.1207,27.1805,NaN
+6977,freebase,malmo,55.5833,13.0333,NaN
+6985,geonames,Florence,43.7667,11.25,NaN
+6989,freebase,munich,48.1333,11.5667,NaN
+6990,freebase,new orleans,29.9728,-90.059,NaN
+6993,dbpedia,Genoa,44.4111,8.93278,NaN
+6997,freebase,stockholm,59.33,18.07,NaN
+7002,geonames,Leipzig,51.3396,12.3713,NaN
+7006,dbpedia,Sao Paulo,NaN,NaN,NaN
+7010,freebase,diamond district manhattan,40.7568,-73.9789,NaN
+7011,dbpedia,Fallujah,33.4197,43.3125,NaN
+7016,freebase,inwood manhattan,40.867444,-73.921509,NaN
+7018,geonames,Myrtle Beach,33.6891,-78.8867,NaN
+7025,freebase,mont saint-michel,48.6356,-1.5111,NaN
+7030,freebase,fukuoka,33.5858,130.403,NaN
+7035,dbpedia,"Hunts Point, Bronx",NaN,NaN,NaN
+7046,freebase,porto,41.1667,-8.58333,NaN
+7048,freebase,new york,40.7142,-74.0064,NaN
+7052,freebase,milan italy,45.464,9.19157,121.0
+7058,geonames,Dublin,53.344,-6.26719,NaN
+7059,geonames,Cuernavaca,18.9167,-99.25,NaN
+7066,geonames,Oslo,59.9132,10.7389,NaN
+7068,freebase,perth,-31.9554,115.859,NaN
+7069,dbpedia,Bamberg,49.8917,10.8917,NaN
+7070,dbpedia,Tokyo,35.7006,139.715,NaN
+7072,freebase,southampton,50.9339,-1.39609,NaN
+7074,geonames,San Germán,18.0816,-67.0449,NaN
+7076,freebase,veracruz,19.4347,-96.3831,NaN
+7081,freebase,huntington station,40.8533,-73.4119,NaN
+7082,new york times,Dalian (China),38.9122,121.602,NaN
+7087,geonames,Mobile,30.6944,-88.0431,NaN
+7096,geonames,Antwerp,51.2167,4.41667,NaN
+7097,dbpedia,Kitzbuhel,NaN,NaN,NaN
+7098,dbpedia,Ani,40.5075,43.5728,NaN
+7101,geonames,San Jose,37.3394,-121.895,NaN
+7102,freebase,placencia,16.5139,-88.3667,NaN
+7105,geonames,Mont-Tremblant,46.1949,-74.6264,NaN
+7106,geonames,Lake Placid,44.2795,-73.9799,NaN
+7110,geonames,Manila,14.5846,120.971,NaN
+7112,dbpedia,Puerto Jimenez,NaN,NaN,NaN
+7122,freebase,scranton,41.4089,-75.6628,NaN
+7129,geonames,Perth,-31.9333,115.833,NaN
+7132,geonames,Fes,34.05,-4.98,NaN
+7143,geonames,Amenia,41.8493,-73.5568,NaN
+7159,geonames,Amalfi,40.6349,14.6024,NaN
+7163,freebase,punta cana,18.5333,-68.3667,NaN
+7164,geonames,Puno,-15.8333,-70.0333,NaN
+7170,geonames,Islip,40.7298,-73.2104,NaN
+7174,freebase,auckland,-36.85,174.783,NaN
+7176,geonames,Autun,46.95,4.3,NaN
+7180,geonames,Dhaka,23.7104,90.4074,NaN
+7182,geonames,Beijing,39.9075,116.397,NaN
+7186,geonames,Islamorada,24.9243,-80.6278,NaN
+7187,dbpedia,"Manteca, California",NaN,NaN,NaN
+7195,freebase,agra,27.1833,78.0167,NaN
+7206,geonames,Carnac,47.5833,-3.08333,NaN
+7211,freebase,haditha,34.1397,42.3781,NaN
+7221,geonames,New Bedford,41.6362,-70.9342,NaN
+7222,freebase,phnom penh,11.55,104.917,NaN
+7227,freebase,jamesport,40.9444,-72.5772,NaN
+7230,geonames,Petrópolis,-22.505,-43.1786,NaN
+7231,geonames,Valencia,39.4698,-0.377387,NaN
+7241,dbpedia,Courchevel,45.3974,6.63488,NaN
+7245,geonames,Buenos Aires,-34.6131,-58.3772,NaN
+7246,dbpedia,"Piermont, New York",NaN,NaN,NaN
+7249,dbpedia,"Palisades Park, New Jersey",NaN,NaN,NaN
+7252,freebase,brzezinka,50.0447,19.1814,NaN
+7253,geonames,Lima,-12.0432,-77.0282,NaN
+7257,freebase,milford connecticut,41.2222,-73.0569,NaN
+7261,freebase,aix-en-provence,43.53,5.44722,NaN
+7262,geonames,Dalian,38.9122,121.602,NaN
+7263,dbpedia,"Kansas City, Kansas",NaN,NaN,NaN
+7266,freebase,aurland,60.8681,7.24333,NaN
+7269,dbpedia,"Lake Placid, New York",NaN,NaN,NaN
+7271,dbpedia,Cancun,NaN,NaN,NaN
+7274,geonames,Zihuatanejo,17.6333,-101.55,NaN
+7277,freebase,dalian,39.0333,121.767,NaN
+7278,geonames,Padua,45.4152,11.8818,NaN
+7281,freebase,vladivostok,43.1318,131.923,NaN
+7285,geonames,Morningside Heights,40.81,-73.9625,NaN
+7296,dbpedia,Los Angeles,34.05,-118.25,NaN
+7314,freebase,playa zancudo,8.54405,-83.1467,NaN
+7315,freebase,liberia costa rica,10.6333,-85.4333,NaN
+7317,dbpedia,"Homer, Alaska",NaN,NaN,NaN
+7319,freebase,montclair,40.8258,-74.2094,NaN
+7320,freebase,short hills,40.7479,-74.3254,NaN
+7322,geonames,Turin,45.0705,7.68682,NaN
+7334,dbpedia,"Skaneateles (town), New York",NaN,NaN,NaN
+7350,geonames,Al ‘Amārah,31.8453,47.1753,NaN
+7351,dbpedia,Wellington,-41.2889,174.777,NaN
+7356,freebase,bruges,51.2167,3.23333,NaN
+7369,freebase,ogden,41.2231,-111.973,NaN
+7371,freebase,limoges,45.8192,1.25139,NaN
+7375,dbpedia,"New Rochelle, New York",NaN,NaN,NaN
+7379,geonames,Kansas City,39.1142,-94.6275,NaN
+7381,dbpedia,Uppsala,59.85,17.6333,NaN
+7386,geonames,Providence,41.824,-71.4128,NaN
+7389,geonames,Peshawar,34.0078,71.5733,NaN
+7390,geonames,Passaic,40.8568,-74.1285,NaN
+7392,geonames,Kansas City,39.0997,-94.5786,NaN
+7395,dbpedia,"Manchester (town), Vermont",NaN,NaN,NaN
+7398,dbpedia,Arles,43.6767,4.6278,NaN
+7402,geonames,Rio de Janeiro,-22.9028,-43.2075,NaN
+7405,dbpedia,"Punta Gorda, Belize",NaN,NaN,NaN
+7408,dbpedia,Placencia,16.5139,-88.3667,NaN
+7409,dbpedia,Belem,NaN,NaN,NaN
+7415,freebase,malaga,36.7167,-4.41667,NaN
+7418,geonames,Belfast County Borough,54.6,-5.93333,NaN
+7421,geonames,Lyon,45.75,4.85,NaN
+7422,geonames,Kobe,34.6833,135.167,NaN
+7424,freebase,les eyzies-de-tayac-sireuil,44.936,1.01805,NaN
+7436,freebase,jacksonville,30.3319,-81.6558,NaN
+7440,freebase,la jolla,32.84,-117.277,NaN
+7444,geonames,Pécs,46.0833,18.2333,NaN
+7448,freebase,sleepy hollow new york,41.0856,-73.8589,NaN
+7453,freebase,epidaurus,37.6333,23.1333,NaN
+7457,dbpedia,Peshawar,34.0167,71.5833,NaN
+7471,geonames,Inwood,40.8657,-73.9268,NaN
+7474,geonames,Nagasaki,32.755,129.868,NaN
+7477,geonames,Sucre,-19.0333,-65.2627,NaN
+7478,dbpedia,Aswan,24.0889,32.8997,NaN
+7485,freebase,bhopal,23.25,77.42,NaN
+7487,dbpedia,"Cutchogue, New York",NaN,NaN,NaN
+7488,geonames,Ajman,25.4111,55.435,NaN
+7502,dbpedia,Carcassonne,43.2131,2.35203,NaN
+7505,geonames,Nelson,49.4999,-117.286,NaN
+7508,freebase,crans-montana,46.311944,7.4828,NaN
+7516,dbpedia,"Ocean Grove, New Jersey",NaN,NaN,NaN
+7520,freebase,armacao dos buzios,-22.7469,-41.8819,NaN
+7527,freebase,amagansett,40.9736,-72.1442,NaN
+7536,ambiguity-generator,Mani,,,
+7537,ambiguity-generator,Sihanoukville (Cambodia) Dujiangyan City,,103.5,
+7538,ambiguity-generator,Ocean City,,,
+7539,ambiguity-generator,New york York,,,
+7540,ambiguity-generator,Santiago de,,,
+7541,ambiguity-generator,Saratoga Scarsdale,,-73.7846,
+7542,ambiguity-generator,Milford new,,,
+7543,ambiguity-generator,Niagara Falls Niagara-on-the-Lake,,-79.0663,
+7544,ambiguity-generator,Santiago de,,,
+7545,ambiguity-generator,Zanzibar Ani,,,
+7546,ambiguity-generator,Sihanoukville Liberia,10.6333,,
+7547,ambiguity-generator,San Jose Monterey,,-121.895,
+7548,ambiguity-generator,Roosevelt Isla,,,
+7549,ambiguity-generator,new New York,,,
+7550,ambiguity-generator,queens Gardens,40.7143,,
+7551,ambiguity-generator,new castle new,,,
+7552,ambiguity-generator,Bam (Germany),,,
+7553,ambiguity-generator,Jackson Jacksonville,,,
+7554,ambiguity-generator,Salem Salem,,,
+7555,ambiguity-generator,Manchester,,,
+7556,ambiguity-generator,Natal KwaZulu-Natal,,,
+7557,ambiguity-generator,Amalfi Aveiro,40.6333,,
+7558,ambiguity-generator,New New York,,,
+7559,ambiguity-generator,Bam (Bolivia),,,
+7560,ambiguity-generator,Kansas City,,,
+7561,ambiguity-generator,Auxerre Salzburg,47.8,,
+7562,ambiguity-generator,Punta Gorda,,,
+7563,ambiguity-generator,Paris,,,
+7564,ambiguity-generator,san Jose del,,,
+7565,ambiguity-generator,New Orleans,,,
+7566,ambiguity-generator,Kandahar Ani,,,
+7567,ambiguity-generator,prague (Poland),50.0833,,
+7568,ambiguity-generator,New Gardens York,40.7143,,
+7569,ambiguity-generator,Oxford,,,
+7570,ambiguity-generator,City Park City,,,
+7571,ambiguity-generator,Orleans Orleans,,,
+7572,ambiguity-generator,Bucharest Ani,,,
+7573,ambiguity-generator,Naples,,,
+7574,ambiguity-generator,New York Manhattan (NYC),40.7143,-74.006,
+7575,ambiguity-generator,Cape Town Franschhoek,-33.9167,,
+7576,ambiguity-generator,Manchester,,,
+7577,ambiguity-generator,Santa Cruz (miasto,,,
+7578,ambiguity-generator,Long Beach,,,
+7579,ambiguity-generator,Portland,,,
+7580,ambiguity-generator,Granada (Spa,,,
+7581,ambiguity-generator,Milford,,,
+7582,ambiguity-generator,New York,,,
+7583,ambiguity-generator,Venice Nice,,,
+7584,ambiguity-generator,bruges Antwerp,51.2167,,
+7585,ambiguity-generator,Jackson Heig,,,
+7586,ambiguity-generator,Salem (Israel),,,
+7587,ambiguity-generator,Madison,,,
+7588,ambiguity-generator,San Jose (Costa,,,
+7589,ambiguity-generator,Monopoli Segovia (Spain),40.95,,
+7590,ambiguity-generator,Zermatt Strasbourg,,7.75,
+7591,ambiguity-generator,Oxford,,,
